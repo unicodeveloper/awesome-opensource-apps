@@ -20,4 +20,5 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 * [Laravel Tricks](https://github.com/CodepadME/laravel-tricks) - [http://laravel-tricks.com](http://laravel-tricks.com)
 * [Podcastwala](https://github.com/modestkdr/Podcastwala)
 * [Laravel Snippets](https://github.com/basco-johnkevin/laravelsnippets)
+* [Freelancer Notes](https://github.com/porimol/freelancer-notes)
 
