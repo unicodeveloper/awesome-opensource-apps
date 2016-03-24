@@ -44,4 +44,5 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 * [Sharetribe - A Marketplace Platform](https://github.com/sharetribe/sharetribe) - [https://www.sharetribe.com](https://www.sharetribe.com)
 * [Spina - A beautiful CMS for Rails Developers](https://github.com/denkGroot/Spina) - [http://www.spinacms.com](http://www.spinacms.com)
 * [Loomio -  Make decisions together](https://github.com/loomio/loomio) - [https://www.loomio.org](https://www.loomio.org)
+* [Rails port of OpenstreetMap](https://github.com/openstreetmap/openstreetmap-website) - [http://www.openstreetmap.org](http://www.openstreetmap.org)
 
