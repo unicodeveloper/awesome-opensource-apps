@@ -17,6 +17,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 ## Laravel
 * [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) - [https://www.invoiceninja.com](https://www.invoiceninja.com)
 * [Faveo Helpdesk Ticketing System](https://github.com/ladybirdweb/faveo-helpdesk) - [http://www.faveohelpdesk.com](http://www.faveohelpdesk.com)
+* [Timegrid - Online Reservation Platform](https://github.com/timegridio/timegrid) - [https://demo.timegrid.io](https://demo.timegrid.io/)
 * [The Laravel.io Community Portal](https://github.com/laravelio/laravel.io) - [http://laravel.io](http://laravel.io)
 * [Laravel Tricks](https://github.com/CodepadME/laravel-tricks) - [http://laravel-tricks.com](http://laravel-tricks.com)
 * [Attendize -  Ticket selling and event management platform](https://github.com/Attendize/Attendize) - [https://www.attendize.com](https://www.attendize.com)
