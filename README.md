@@ -37,3 +37,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 * [AbuseIO - Abuse Management for network operators](https://github.com/AbuseIO/AbuseIO)
 * [Nahid.co - Personal Portfolio and blog project](https://github.com/nahid/nahid.co) - [http://nahid.co](http://nahid.co)
 
+
+## Rails
+* [Helpy - Mobile First Helpdesk Application](https://github.com/helpyio/helpy) - [http://helpy.io](http://helpy.io)
+
