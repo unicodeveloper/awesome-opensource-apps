@@ -49,3 +49,4 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 * [OpenSourceBilling - Beautiful Simple Billing Software](http://www.opensourcerails.com/open-source-billing) - [http://opensourcebilling.org](http://opensourcebilling.org)
 * [Hours - Time registration that doesn't suck](https://github.com/DefactoSoftware/Hours) - [https://happyhours.io](https://happyhours.io)
 * [OpenProject - Project Management System](https://github.com/opf/openproject) - [https://www.openproject.org](https://www.openproject.org)
+* [Huginn - Agent system that perform tasks online for you](https://github.com/cantino/huginn)
