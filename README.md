@@ -46,4 +46,5 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 * [Loomio -  Make decisions together](https://github.com/loomio/loomio) - [https://www.loomio.org](https://www.loomio.org)
 * [Rails port of OpenstreetMap](https://github.com/openstreetmap/openstreetmap-website) - [http://www.openstreetmap.org](http://www.openstreetmap.org)
 * [Help - Small help request system](https://github.com/netguru/help)
+* [OpenSourceBilling - Beautiful Simple Billing Software](http://www.opensourcerails.com/open-source-billing)
 
