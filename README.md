@@ -57,3 +57,4 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 * [Spree - Ecommerce Solution](https://github.com/spree/spree) - [http://spreecommerce.com](http://spreecommerce.com)
 * [RedMine - Project Management Application](https://github.com/edavis10/redmine) - [http://www.redmine.org](http://www.redmine.org)
 * [Diaspora - Distributed Social Network ](https://github.com/diaspora/diaspora) - [https://diasporafoundation.org](https://diasporafoundation.org)
+* [SprintApp - Time tracking and Project Management App ](https://github.com/macfanatic/SprintApp) - [http://www.sprintapp.com](http://www.sprintapp.com)
