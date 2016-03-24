@@ -15,3 +15,4 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 
 
 ## Laravel
+* [Invoice Ninja][https://www.invoiceninja.com/](https://github.com/invoiceninja/invoiceninja)
