@@ -54,3 +54,4 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 * [Squash - Collection of tools that helps developers find and kill bugs](https://github.com/SquareSquash/web) - [http://squash.io](http://squash.io)
 * [Eventx - Event Management System without Hassle](https://github.com/andela/eventx) - [http://www.eventtx.com](http://www.eventtx.com)
 * [Fulcrum - Agile Project Management Tool](https://github.com/fulcrum-agile/fulcrum) - [http://wholemeal.co.nz/projects/fulcrum.html](http://wholemeal.co.nz/projects/fulcrum.html)
+* [Spree - Ecommerce Solution](https://github.com/spree/spree) - [http://spreecommerce.com](http://spreecommerce.com)
