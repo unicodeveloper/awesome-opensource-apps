@@ -2,8 +2,6 @@
 
 > An awesome curated list of open source crafted web applications - Learn, Fork, Contribute &amp; Most Importantly Enjoy!.
 
-I love to learn and provide others with easy ways of learning better and faster. 
-
 You want to develop an app, write tests for a feature or implement a feature and you don't know how to go about it, there might just be one app here with the solution to your problem.
 
 Even if you are just a developer, manager or co-founder looking for a sample app to demo or test your ideas, it might just be right here.
