@@ -51,3 +51,4 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 * [OpenProject - Project Management System](https://github.com/opf/openproject) - [https://www.openproject.org](https://www.openproject.org)
 * [Huginn - Agent system that perform tasks online for you](https://github.com/cantino/huginn)
 * [Discourse - A Platform for Community Discussion](https://github.com/discourse/discourse) - [http://www.discourse.org](http://www.discourse.org)
+* [Squash - Collection of tools that helps developers find and kill bugs](https://github.com/SquareSquash/web) - [http://squash.io](http://squash.io)
