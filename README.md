@@ -34,4 +34,5 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 * [Scrumwala - Your very own Scrum/Agile web app for personal use](https://github.com/modestkdr/Scrumwala)
 * [SnipeIT - IT Asset/license Management System](https://github.com/snipe/snipe-it) - [http://snipeitapp.com](http://snipeitapp.com)
 * [Neontsunami - Personal Website and blog](https://github.com/dwightwatson/neontsunami) - [http://www.neontsunami.com](http://www.neontsunami.com)
+* [AbuseIO - Abuse Management for network operators](https://github.com/AbuseIO/AbuseIO)
 
