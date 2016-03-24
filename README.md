@@ -43,4 +43,5 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 * [Coderwall - Professional network for Software engineers](https://github.com/coderwall/coderwall-legacy) - [https://coderwall.com](https://coderwall.com)
 * [Sharetribe - A Marketplace Platform](https://github.com/sharetribe/sharetribe) - [https://www.sharetribe.com](https://www.sharetribe.com)
 * [Spina - A beautiful CMS for Rails Developers](https://github.com/denkGroot/Spina) - [http://www.spinacms.com](http://www.spinacms.com)
+* [Loomio -  Make decisions together](https://github.com/loomio/loomio) - [https://www.loomio.org](https://www.loomio.org)
 
