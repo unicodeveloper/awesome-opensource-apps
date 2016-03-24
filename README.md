@@ -39,8 +39,11 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 
 
 ## Rails
-* [Helpy - Mobile First Helpdesk Application](https://github.com/helpyio/helpy) - [http://helpy.io](http://helpy.io)
-* [Coderwall - Professional network for Software engineers](https://github.com/coderwall/coderwall-legacy) - [https://coderwall.com](https://coderwall.com)
+
+| Name | Description | Link |
+|------|-------------|------|
+| [Helpy](http://helpy.io) | Mobile First Helpdesk Application | [http://helpy.io](http://helpy.io) |
+| [Coderwall](https://github.com/coderwall/coderwall-legacy) | Professional network for Software | | engineers](https://github.com/coderwall/coderwall-legacy) - [https://coderwall.com](https://coderwall.com)
 * [Sharetribe - A Marketplace Platform](https://github.com/sharetribe/sharetribe) - [https://www.sharetribe.com](https://www.sharetribe.com)
 * [Spina - A beautiful CMS for Rails Developers](https://github.com/denkGroot/Spina) - [http://www.spinacms.com](http://www.spinacms.com)
 * [Loomio -  Make decisions together](https://github.com/loomio/loomio) - [https://www.loomio.org](https://www.loomio.org)
