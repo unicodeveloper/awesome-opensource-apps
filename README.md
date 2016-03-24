@@ -22,4 +22,5 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 * [Laravel Snippets](https://github.com/basco-johnkevin/laravelsnippets)
 * [Freelancer Notes](https://github.com/porimol/freelancer-notes)
 * [Critter - Mini-twitter-like app](https://github.com/msurguy/critterapp) - [http://demos.maxoffsky.com/critter](http://demos.maxoffsky.com/critter)
+* [PHPhub](https://github.com/summerblue/phphub) - [http://phphub.org/](http://phphub.org/)
 
