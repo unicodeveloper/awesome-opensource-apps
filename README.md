@@ -19,6 +19,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 * [The Laravel.io Community Portal](https://github.com/laravelio/laravel.io) - [http://laravel.io](http://laravel.io)
 * [Laravel Tricks](https://github.com/CodepadME/laravel-tricks) - [http://laravel-tricks.com](http://laravel-tricks.com)
 * [Attendize -  Ticket selling and event management platform](https://github.com/Attendize/Attendize) - [https://www.attendize.com](https://www.attendize.com)
+* [FullyCMS - Multi Language Content Management System ](https://github.com/sseffa/fullycms)
 * [Podcastwala](https://github.com/modestkdr/Podcastwala)
 * [Laravel Snippets](https://github.com/basco-johnkevin/laravelsnippets)
 * [Freelancer Notes](https://github.com/porimol/freelancer-notes)
