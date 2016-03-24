@@ -47,4 +47,5 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 * [Rails port of OpenstreetMap](https://github.com/openstreetmap/openstreetmap-website) - [http://www.openstreetmap.org](http://www.openstreetmap.org)
 * [Help - Small help request system](https://github.com/netguru/help)
 * [OpenSourceBilling - Beautiful Simple Billing Software](http://www.opensourcerails.com/open-source-billing) - [http://opensourcebilling.org](http://opensourcebilling.org)
+* [Hours - Time registration that doesn't suck](https://github.com/DefactoSoftware/Hours) - [https://happyhours.io](https://happyhours.io)
 
