@@ -15,4 +15,6 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 
 
 ## Laravel
-* [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) - [Invoice Ninja](https://github.com/invoiceninja/invoiceninja)
+* [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) - [https://www.invoiceninja.com/](https://www.invoiceninja.com/)
+* [The Laravel.io Community Portal](https://github.com/laravelio/laravel.io) - [http://laravel.io](http://laravel.io/)
+* []()
