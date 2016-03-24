@@ -53,3 +53,4 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 * [Discourse - A Platform for Community Discussion](https://github.com/discourse/discourse) - [http://www.discourse.org](http://www.discourse.org)
 * [Squash - Collection of tools that helps developers find and kill bugs](https://github.com/SquareSquash/web) - [http://squash.io](http://squash.io)
 * [Eventx - Event Management System without Hassle](https://github.com/andela/eventx) - [http://www.eventtx.com](http://www.eventtx.com)
+* [Fulcrum - Agile Project Management Tool](https://github.com/fulcrum-agile/fulcrum) - [http://wholemeal.co.nz/projects/fulcrum.html](http://wholemeal.co.nz/projects/fulcrum.html)
