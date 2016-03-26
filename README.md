@@ -27,7 +27,8 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [OctoberCMS](https://github.com/octobercms/october) | CMS platform built on Laravel | [http://octobercms.com](http://octobercms.com) |
 | [antVel](https://github.com/ant-vel/antVel) | Laravel eCommerce | [http://antvel.com](http://antvel.com) |
 | [LaraShop](https://github.com/ZENLIX/LaraShop) | A Simple PHP Shop CMS | [http://it-toys.com](http://it-toys.com) |
-| [92five](https://github.com/chintanbanugaria/92five) | Self-hosted Project Management App | [http://92fiveapp.com](http://92fiveapp.com)
+| [92five](https://github.com/chintanbanugaria/92five) | Self-hosted Project Management App | [http://92fiveapp.com](http://92fiveapp.com) |
+| [Deployer](https://github.com/REBELinBLUE/deployer) | A free and open source deployment tool. | [http://phpdeployment.org](http://phpdeployment.org) |
 | [FullyCMS](https://github.com/sseffa/fullycms) | Multi Language Content Management System | |
 | [Podcastwala](https://github.com/modestkdr/Podcastwala) | Podcast System | |
 | [Laravel Snippets](https://github.com/basco-johnkevin/laravelsnippets) | A repository of useful code snippets for Laravel PHP framework | |
