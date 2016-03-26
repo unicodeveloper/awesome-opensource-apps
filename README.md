@@ -15,27 +15,30 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 
 
 ## Laravel
-* [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) - [https://www.invoiceninja.com](https://www.invoiceninja.com)
-* [Faveo Helpdesk Ticketing System](https://github.com/ladybirdweb/faveo-helpdesk) - [http://www.faveohelpdesk.com](http://www.faveohelpdesk.com)
-* [Timegrid - Online Reservation Platform](https://github.com/timegridio/timegrid) - [https://demo.timegrid.io](https://demo.timegrid.io/)
-* [The Laravel.io Community Portal](https://github.com/laravelio/laravel.io) - [http://laravel.io](http://laravel.io)
-* [Laravel Tricks](https://github.com/CodepadME/laravel-tricks) - [http://laravel-tricks.com](http://laravel-tricks.com)
-* [Attendize -  Ticket selling and event management platform](https://github.com/Attendize/Attendize) - [https://www.attendize.com](https://www.attendize.com)
-* [OctoberCMS - CMS platform built on Laravel](https://github.com/octobercms/october) - [http://octobercms.com](http://octobercms.com)
-* [antVel - Laravel eCommerce](https://github.com/ant-vel/antVel) - [http://antvel.com](http://antvel.com)
-* [FullyCMS - Multi Language Content Management System ](https://github.com/sseffa/fullycms)
-* [Podcastwala](https://github.com/modestkdr/Podcastwala)
-* [Laravel Snippets](https://github.com/basco-johnkevin/laravelsnippets)
-* [Freelancer Notes](https://github.com/porimol/freelancer-notes)
-* [Critter - Mini-twitter-like app](https://github.com/msurguy/critterapp) - [http://demos.maxoffsky.com/critter](http://demos.maxoffsky.com/critter)
-* [PHPhub](https://github.com/summerblue/phphub) - [http://phphub.org/](http://phphub.org/)
-* [Cachet - Open Source Status Page System](https://github.com/CachetHQ/Cachet) - [https://cachethq.io](https://github.com/CachetHQ/Cachet)
-* [Ribbon -  A project management system for Artisans](https://github.com/canvasowl/ribbbon)
-* [Scrumwala - Your very own Scrum/Agile web app for personal use](https://github.com/modestkdr/Scrumwala)
-* [SnipeIT - IT Asset/license Management System](https://github.com/snipe/snipe-it) - [http://snipeitapp.com](http://snipeitapp.com)
-* [Neontsunami - Personal Website and blog](https://github.com/dwightwatson/neontsunami) - [http://www.neontsunami.com](http://www.neontsunami.com)
-* [AbuseIO - Abuse Management for network operators](https://github.com/AbuseIO/AbuseIO)
-* [Nahid.co - Personal Portfolio and blog project](https://github.com/nahid/nahid.co) - [http://nahid.co](http://nahid.co)
+
+| Name | Description | Link |
+|------|-------------|------|
+| [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) | Invoice Generation System | [https://www.invoiceninja.com](https://www.invoiceninja.com) |
+| [Faveo](https://github.com/ladybirdweb/faveo-helpdesk) | Helpdesk Ticketing System | [http://www.faveohelpdesk.com](http://www.faveohelpdesk.com) |
+| [Timegrid](https://github.com/timegridio/timegrid) |  Online Reservation Platform | [https://demo.timegrid.io](https://demo.timegrid.io/) |
+| [Laravel.io](https://github.com/laravelio/laravel.io) | Laravel Community Portal | [http://laravel.io](http://laravel.io) |
+| [Laravel Tricks](https://github.com/CodepadME/laravel-tricks) | Laravel Tips and Tricks | [http://laravel-tricks.com](http://laravel-tricks.com)||
+| [Attendize](https://github.com/Attendize/Attendize) | Ticket selling and event management platform | [https://www.attendize.com](https://www.attendize.com) |
+| [OctoberCMS](https://github.com/octobercms/october) | CMS platform built on Laravel | [http://octobercms.com](http://octobercms.com) |
+| [antVel](https://github.com/ant-vel/antVel) | Laravel eCommerce | [http://antvel.com](http://antvel.com) |
+| [FullyCMS](https://github.com/sseffa/fullycms) | Multi Language Content Management System | |
+| [Podcastwala](https://github.com/modestkdr/Podcastwala) | Podcast System | |
+| [Laravel Snippets](https://github.com/basco-johnkevin/laravelsnippets) | Laravel Snippets | |
+| [Freelancer Notes](https://github.com/porimol/freelancer-notes) | Freelancer Notes | |
+| [Critter](https://github.com/msurguy/critterapp) | Mini-twitter-like app | [http://demos.maxoffsky.com/critter](http://demos.maxoffsky.com/critter) |
+| [PHPhub](https://github.com/summerblue/phphub) | Chinese PHP Community | [http://phphub.org/](http://phphub.org/) |
+| [Cachet](https://github.com/CachetHQ/Cachet) | Open Source Status Page System | [https://cachethq.io](https://github.com/CachetHQ/Cachet) |
+| [Ribbon](https://github.com/canvasowl/ribbbon) | A project management system for Artisans | |
+| [Scrumwala](https://github.com/modestkdr/Scrumwala) | Your very own Scrum/Agile web app for personal use | |
+| [SnipeIT](https://github.com/snipe/snipe-it) | IT Asset/license Management System | [http://snipeitapp.com](http://snipeitapp.com) |
+| [Neontsunami](https://github.com/dwightwatson/neontsunami) | Personal Website and blog | [http://www.neontsunami.com](http://www.neontsunami.com) |
+| [AbuseIO](https://github.com/AbuseIO/AbuseIO) | Abuse Management for network operators | |
+| [Nahid.co](https://github.com/nahid/nahid.co) | Personal Portfolio and blog project | [http://nahid.co](http://nahid.co) |
 
 
 ## Rails
