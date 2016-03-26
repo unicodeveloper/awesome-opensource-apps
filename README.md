@@ -26,10 +26,11 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Attendize](https://github.com/Attendize/Attendize) | Ticket selling and event management platform | [https://www.attendize.com](https://www.attendize.com) |
 | [OctoberCMS](https://github.com/octobercms/october) | CMS platform built on Laravel | [http://octobercms.com](http://octobercms.com) |
 | [antVel](https://github.com/ant-vel/antVel) | Laravel eCommerce | [http://antvel.com](http://antvel.com) |
-| [LaraShop](https://github.com/ZENLIX/LaraShop) | A Simple PHP Shop CMS | [http://it-toys.com](http://it-toys.com) 
+| [LaraShop](https://github.com/ZENLIX/LaraShop) | A Simple PHP Shop CMS | [http://it-toys.com](http://it-toys.com) |
+| [92five](https://github.com/chintanbanugaria/92five) | Self-hosted Project Management App | [http://92fiveapp.com](http://92fiveapp.com)
 | [FullyCMS](https://github.com/sseffa/fullycms) | Multi Language Content Management System | |
 | [Podcastwala](https://github.com/modestkdr/Podcastwala) | Podcast System | |
-| [Laravel Snippets](https://github.com/basco-johnkevin/laravelsnippets) | Laravel Snippets | |
+| [Laravel Snippets](https://github.com/basco-johnkevin/laravelsnippets) | A repository of useful code snippets for Laravel PHP framework | |
 | [Freelancer Notes](https://github.com/porimol/freelancer-notes) | Freelancer Notes | |
 | [Critter](https://github.com/msurguy/critterapp) | Mini-twitter-like app | [http://demos.maxoffsky.com/critter](http://demos.maxoffsky.com/critter) |
 | [PHPhub](https://github.com/summerblue/phphub) | Chinese PHP Community | [http://phphub.org/](http://phphub.org/) |
