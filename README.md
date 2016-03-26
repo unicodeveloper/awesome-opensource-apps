@@ -19,6 +19,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | Name | Description | Link |
 |------|-------------|------|
 | [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) | Invoice Generation System | [https://www.invoiceninja.com](https://www.invoiceninja.com) |
+| [Koel](https://github.com/phanan/koel) | A personal music streaming server that works. | [http://koel.phanan.net](http://koel.phanan.net) |
 | [Faveo](https://github.com/ladybirdweb/faveo-helpdesk) | Helpdesk Ticketing System | [http://www.faveohelpdesk.com](http://www.faveohelpdesk.com) |
 | [Timegrid](https://github.com/timegridio/timegrid) |  Online Reservation Platform | [https://demo.timegrid.io](https://demo.timegrid.io/) |
 | [Laravel.io](https://github.com/laravelio/laravel.io) | Laravel Community Portal | [http://laravel.io](http://laravel.io) |
