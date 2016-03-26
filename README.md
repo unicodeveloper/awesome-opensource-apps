@@ -26,6 +26,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Attendize](https://github.com/Attendize/Attendize) | Ticket selling and event management platform | [https://www.attendize.com](https://www.attendize.com) |
 | [OctoberCMS](https://github.com/octobercms/october) | CMS platform built on Laravel | [http://octobercms.com](http://octobercms.com) |
 | [antVel](https://github.com/ant-vel/antVel) | Laravel eCommerce | [http://antvel.com](http://antvel.com) |
+| [LaraShop](https://github.com/ZENLIX/LaraShop) | A Simple PHP Shop CMS | [http://it-toys.com](http://it-toys.com) 
 | [FullyCMS](https://github.com/sseffa/fullycms) | Multi Language Content Management System | |
 | [Podcastwala](https://github.com/modestkdr/Podcastwala) | Podcast System | |
 | [Laravel Snippets](https://github.com/basco-johnkevin/laravelsnippets) | Laravel Snippets | |
