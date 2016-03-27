@@ -27,6 +27,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Attendize](https://github.com/Attendize/Attendize) | Ticket selling and event management platform | [https://www.attendize.com](https://www.attendize.com) |
 | [OctoberCMS](https://github.com/octobercms/october) | CMS platform built on Laravel | [http://octobercms.com](http://octobercms.com) |
 | [PyroCMS](https://github.com/pyrocms/pyrocms) | PHP CMS | [https://www.pyrocms.com](https://www.pyrocms.com) |
+| [LavaliteCMS](https://github.com/LavaLite/cms) | CMS built on Laravel 5.2 | [http://www.lavalite.org](http://www.lavalite.org)
 | [WardRobeCMS](https://github.com/wardrobecms/wardrobe) | A minimal blogging application | [http://wardrobecms.com](http://wardrobecms.com) |
 | [BoostrapCMS](https://github.com/BootstrapCMS/CMS)| A PHP CMS powered by Laravel 5 and Sentry | |
 | [TypiCMS](https://github.com/TypiCMS/Base) | Multilingual and modular CMS built with Laravel 5.2 | |
