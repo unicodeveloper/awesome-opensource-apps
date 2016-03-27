@@ -48,7 +48,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Neontsunami](https://github.com/dwightwatson/neontsunami) | Personal Website and blog | [http://www.neontsunami.com](http://www.neontsunami.com) |
 | [AbuseIO](https://github.com/AbuseIO/AbuseIO) | Abuse Management for network operators | |
 | [Nahid.co](https://github.com/nahid/nahid.co) | Personal Portfolio and blog project | [http://nahid.co](http://nahid.co) |
-
+| [Laramap](https://github.com/laramap/laramap.com) | A Map of Laravel Developers | [https://laramap.com](https://laramap.com) |
 
 ## Rails
 
