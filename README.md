@@ -56,6 +56,8 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Laramap](https://github.com/laramap/laramap.com) | A Map of Laravel Developers | [https://laramap.com](https://laramap.com) |
 | [Learn Party](https://github.com/andela-jkariuki/checkpoint-four-learn-party) | A Dead Simple Learning Management System | [https://learn-party.herokuapp.com](https://learn-party.herokuapp.com) |
 | [Techademia](https://github.com/andela-fokosun/Checkpoint4) | Organize Your Youtube Videos to Learn | [http://techademia.herokuapp.com](http://techademia.herokuapp.com) 
+| [BookStack](https://github.com/ssddanbrown/BookStack) | A platform to create documentation/wiki content | [https://www.bookstackapp.com](https://www.bookstackapp.com) |
+| [Gruik](https://github.com/grena/gruik) | An open-source markdown note-taking web app | [http://gruik.io](http://gruik.io) |
 
 ## Rails
 
@@ -80,7 +82,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [RedMine](https://github.com/edavis10/redmine) | Project Management Application | [http://www.redmine.org](http://www.redmine.org) |
 | [Diaspora](https://github.com/diaspora/diaspora) | Distributed Social Network | [https://diasporafoundation.org](https://diasporafoundation.org) |
 | [SprintApp](https://github.com/macfanatic/SprintApp)| Time tracking and Project Management App | [http://www.sprintapp.com](http://www.sprintapp.com) |
-| [BookStack](https://github.com/ssddanbrown/BookStack) | A platform to create documentation/wiki content | [https://www.bookstackapp.com](https://www.bookstackapp.com) |
+
 
 ## Django
 | Name | Description | Link |
