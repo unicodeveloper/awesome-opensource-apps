@@ -26,6 +26,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Laravel Tricks](https://github.com/CodepadME/laravel-tricks) | Laravel Tips and Tricks | [http://laravel-tricks.com](http://laravel-tricks.com)||
 | [Attendize](https://github.com/Attendize/Attendize) | Ticket selling and event management platform | [https://www.attendize.com](https://www.attendize.com) |
 | [Larasites](https://github.com/we-are-next/larasites.com) | Showcasing the best websites made with Laravel & Lumen | [https://www.larasites.com](https://www.larasites.com)
+| [Flarum](https://github.com/flarum/flarum) | Delightfully simple forum software. | [http://flarum.org](http://flarum.org) |
 | [OctoberCMS](https://github.com/octobercms/october) | CMS platform built on Laravel | [http://octobercms.com](http://octobercms.com) |
 | [PyroCMS](https://github.com/pyrocms/pyrocms) | PHP CMS | [https://www.pyrocms.com](https://www.pyrocms.com) |
 | [LavaliteCMS](https://github.com/LavaLite/cms) | CMS built on Laravel 5.2 | [http://www.lavalite.org](http://www.lavalite.org)
