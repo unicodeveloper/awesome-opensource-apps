@@ -51,7 +51,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [AbuseIO](https://github.com/AbuseIO/AbuseIO) | Abuse Management for network operators | |
 | [Nahid.co](https://github.com/nahid/nahid.co) | Personal Portfolio and blog project | [http://nahid.co](http://nahid.co) |
 | [Laramap](https://github.com/laramap/laramap.com) | A Map of Laravel Developers | [https://laramap.com](https://laramap.com) |
-
+| [Learn Party](https://github.com/andela-jkariuki/checkpoint-four-learn-party) | A Dead Simple Learning Management System | [https://learn-party.herokuapp.com](https://learn-party.herokuapp.com) |
 ## Rails
 
 | Name | Description | Link |
