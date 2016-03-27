@@ -2,7 +2,7 @@
 
 > An awesome curated list of open source crafted web applications - Learn, Fork, Contribute &amp; Most Importantly Enjoy!.
 
-You want to develop an app, write tests for a feature or implement a feature and you don't know how to go about it, there might just be one app here with the solution to your problem.
+You want to develop an app, write tests for a feature or implement a feature and you don't know how to go about it, there might just be one app/repository here with the solution to your problem.
 
 Even if you are just a developer, manager or co-founder looking for a sample app to demo or test your ideas, it might just be right here.
 
@@ -58,21 +58,21 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | Name | Description | Link |
 |------|-------------|------|
 | [Helpy](http://helpy.io) | Mobile First Helpdesk Application | [http://helpy.io](http://helpy.io) |
-| [Coderwall](https://github.com/coderwall/coderwall-legacy) | Professional network for Software | | engineers](https://github.com/coderwall/coderwall-legacy) - [https://coderwall.com](https://coderwall.com)
-* [Sharetribe - A Marketplace Platform](https://github.com/sharetribe/sharetribe) - [https://www.sharetribe.com](https://www.sharetribe.com)
-* [Spina - A beautiful CMS for Rails Developers](https://github.com/denkGroot/Spina) - [http://www.spinacms.com](http://www.spinacms.com)
-* [Loomio -  Make decisions together](https://github.com/loomio/loomio) - [https://www.loomio.org](https://www.loomio.org)
-* [Rails port of OpenstreetMap](https://github.com/openstreetmap/openstreetmap-website) - [http://www.openstreetmap.org](http://www.openstreetmap.org)
-* [Help - Small help request system](https://github.com/netguru/help)
-* [OpenSourceBilling - Beautiful Simple Billing Software](http://www.opensourcerails.com/open-source-billing) - [http://opensourcebilling.org](http://opensourcebilling.org)
-* [Hours - Time registration that doesn't suck](https://github.com/DefactoSoftware/Hours) - [https://happyhours.io](https://happyhours.io)
-* [OpenProject - Project Management System](https://github.com/opf/openproject) - [https://www.openproject.org](https://www.openproject.org)
-* [Huginn - Agent system that perform tasks online for you](https://github.com/cantino/huginn)
-* [Discourse - A Platform for Community Discussion](https://github.com/discourse/discourse) - [http://www.discourse.org](http://www.discourse.org)
-* [Squash - Collection of tools that helps developers find and kill bugs](https://github.com/SquareSquash/web) - [http://squash.io](http://squash.io)
-* [Eventx - Event Management System without Hassle](https://github.com/andela/eventx) - [http://www.eventtx.com](http://www.eventtx.com)
-* [Fulcrum - Agile Project Management Tool](https://github.com/fulcrum-agile/fulcrum) - [http://wholemeal.co.nz/projects/fulcrum.html](http://wholemeal.co.nz/projects/fulcrum.html)
-* [Spree - Ecommerce Solution](https://github.com/spree/spree) - [http://spreecommerce.com](http://spreecommerce.com)
-* [RedMine - Project Management Application](https://github.com/edavis10/redmine) - [http://www.redmine.org](http://www.redmine.org)
-* [Diaspora - Distributed Social Network ](https://github.com/diaspora/diaspora) - [https://diasporafoundation.org](https://diasporafoundation.org)
-* [SprintApp - Time tracking and Project Management App ](https://github.com/macfanatic/SprintApp) - [http://www.sprintapp.com](http://www.sprintapp.com)
+| [Coderwall](https://github.com/coderwall/coderwall-legacy) | Professional network for Software | [engineers](https://github.com/coderwall/coderwall-legacy) - [https://coderwall.com](https://coderwall.com) |
+| [Sharetribe](https://github.com/sharetribe/sharetribe) | A Marketplace Platform | [https://www.sharetribe.com](https://www.sharetribe.com) |
+| [Spina](https://github.com/denkGroot/Spina) | A beautiful CMS for Rails Developers | [http://www.spinacms.com](http://www.spinacms.com) |
+| [Loomio](https://github.com/loomio/loomio) |  Make decisions together | [https://www.loomio.org](https://www.loomio.org) |
+| [Rails port of OpenstreetMap](https://github.com/openstreetmap/openstreetmap-website) | Open Street Map | [http://www.openstreetmap.org](http://www.openstreetmap.org) |
+| [Help](https://github.com/netguru/help) | Small help request system | |
+| [OpenSourceBilling](http://www.opensourcerails.com/open-source-billing) | Beautiful Simple Billing Software | [http://opensourcebilling.org](http://opensourcebilling.org) |
+| [Hours](https://github.com/DefactoSoftware/Hours) | Time registration that doesn't suck | [https://happyhours.io](https://happyhours.io) |
+| [OpenProject](https://github.com/opf/openproject) | Project Management System | [https://www.openproject.org](https://www.openproject.org) |
+| [Huginn](https://github.com/cantino/huginn) | Agent system that perform tasks online for you | |
+| [Discourse](https://github.com/discourse/discourse) | A Platform for Community Discussion | [http://www.discourse.org](http://www.discourse.org) |
+| [Squash](https://github.com/SquareSquash/web) | Collection of tools that helps developers find and kill bugs | [http://squash.io](http://squash.io) |
+| [Eventx](https://github.com/andela/eventx) | Event Management System without Hassle | [http://www.eventtx.com](http://www.eventtx.com) |
+| [Fulcrum](https://github.com/fulcrum-agile/fulcrum) | Agile Project Management Tool | [http://wholemeal.co.nz/projects/fulcrum.html](http://wholemeal.co.nz/projects/fulcrum.html) |
+| [Spree](https://github.com/spree/spree) | Ecommerce Solution | [http://spreecommerce.com](http://spreecommerce.com) |
+| [RedMine](https://github.com/edavis10/redmine) | Project Management Application | [http://www.redmine.org](http://www.redmine.org) |
+| [Diaspora](https://github.com/diaspora/diaspora) | Distributed Social Network | [https://diasporafoundation.org](https://diasporafoundation.org) |
+| [SprintApp](https://github.com/macfanatic/SprintApp)| Time tracking and Project Management App | [http://www.sprintapp.com](http://www.sprintapp.com) |
