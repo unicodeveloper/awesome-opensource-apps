@@ -26,6 +26,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Laravel Tricks](https://github.com/CodepadME/laravel-tricks) | Laravel Tips and Tricks | [http://laravel-tricks.com](http://laravel-tricks.com)||
 | [Attendize](https://github.com/Attendize/Attendize) | Ticket selling and event management platform | [https://www.attendize.com](https://www.attendize.com) |
 | [OctoberCMS](https://github.com/octobercms/october) | CMS platform built on Laravel | [http://octobercms.com](http://octobercms.com) |
+| [PyroCMS](https://github.com/pyrocms/pyrocms) | PHP CMS | [https://www.pyrocms.com](https://www.pyrocms.com) |
 | [antVel](https://github.com/ant-vel/antVel) | Laravel eCommerce | [http://antvel.com](http://antvel.com) |
 | [LaraShop](https://github.com/ZENLIX/LaraShop) | A Simple PHP Shop CMS | [http://it-toys.com](http://it-toys.com) |
 | [92five](https://github.com/chintanbanugaria/92five) | Self-hosted Project Management App | [http://92fiveapp.com](http://92fiveapp.com) |
