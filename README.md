@@ -39,6 +39,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [TypiCMS](https://github.com/TypiCMS/Base) | Multilingual and modular CMS built with Laravel 5.2 | |
 | [FullyCMS](https://github.com/sseffa/fullycms) | Multi Language Content Management System | |
 | [Quarx](https://github.com/YABhq/Quarx) | A CMS for Laravel Apps | |
+| [Oez](https://github.com/gaaarfild/0ez) | Lightweight Blogging CMS | |
 | [antVel](https://github.com/ant-vel/antVel) | Laravel eCommerce | [http://antvel.com](http://antvel.com) |
 | [LaraShop](https://github.com/ZENLIX/LaraShop) | A Simple PHP Shop CMS | [http://it-toys.com](http://it-toys.com) |
 | [92five](https://github.com/chintanbanugaria/92five) | Self-hosted Project Management App | [http://92fiveapp.com](http://92fiveapp.com) |
