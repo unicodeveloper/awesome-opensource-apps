@@ -33,6 +33,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [LavaliteCMS](https://github.com/LavaLite/cms) | CMS built on Laravel 5.2 | [http://www.lavalite.org](http://www.lavalite.org) |
 | [AsgardCMS](https://github.com/AsgardCms/Platform) | A modular multilingual CMS built with Laravel 5. | [http://asgardcms.com](http://asgardcms.com) |
 | [WardRobeCMS](https://github.com/wardrobecms/wardrobe) | A minimal blogging application | [http://wardrobecms.com](http://wardrobecms.com) |
+| [KodiCMS](https://github.com/KodiCMS/kodicms-laravel) | The CMS built on Laravel 5.2 | [http://laravel.kodicms.ru](http://laravel.kodicms.ru)|
 | [MicroweberCMS](https://github.com/microweber/microweber) | Drag and Drop CMS and online shop | [https://microweber.com](https://microweber.com) |
 | [BoostrapCMS](https://github.com/BootstrapCMS/CMS)| A PHP CMS powered by Laravel 5 and Sentry | |
 | [TypiCMS](https://github.com/TypiCMS/Base) | Multilingual and modular CMS built with Laravel 5.2 | |
