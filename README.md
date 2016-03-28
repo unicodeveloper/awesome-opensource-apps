@@ -30,7 +30,8 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Flarum](https://github.com/flarum/flarum) | Delightfully simple forum software. | [http://flarum.org](http://flarum.org) |
 | [OctoberCMS](https://github.com/octobercms/october) | CMS platform built on Laravel | [http://octobercms.com](http://octobercms.com) |
 | [PyroCMS](https://github.com/pyrocms/pyrocms) | PHP CMS | [https://www.pyrocms.com](https://www.pyrocms.com) |
-| [LavaliteCMS](https://github.com/LavaLite/cms) | CMS built on Laravel 5.2 | [http://www.lavalite.org](http://www.lavalite.org)
+| [LavaliteCMS](https://github.com/LavaLite/cms) | CMS built on Laravel 5.2 | [http://www.lavalite.org](http://www.lavalite.org) |
+| [AsgardCMS](https://github.com/AsgardCms/Platform) | A modular multilingual CMS built with Laravel 5. | [http://asgardcms.coM](http://asgardcms.com) |
 | [WardRobeCMS](https://github.com/wardrobecms/wardrobe) | A minimal blogging application | [http://wardrobecms.com](http://wardrobecms.com) |
 | [MicroweberCMS](https://github.com/microweber/microweber) | Drag and Drop CMS and online shop | [https://microweber.com](https://microweber.com) |
 | [BoostrapCMS](https://github.com/BootstrapCMS/CMS)| A PHP CMS powered by Laravel 5 and Sentry | |
