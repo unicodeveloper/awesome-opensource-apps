@@ -13,6 +13,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 - [Django](#django)
 - [Android](#android)
 - [iOs](#iOs)
+- [Meteor](#meteor)
 
 
 ## Laravel
@@ -93,3 +94,14 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 |------|-------------|------|
 | [Shoop](https://github.com/shoopio/shoop) | E-commerce Platform | [https://shoop.io](https://shoop.io) |
 | [Codango](https://github.com/andela/codango) | Social Network for Coders | |
+
+
+## Meteor
+| Name | Description | Link |
+|------|-------------|------|
+| [Rocket.Chat](https://rocket.chat/) | A web chat platform | [https://rocket.chat/](https://rocket.chat/) |
+| [ColourCode](http://www.colourco.de/) | An online colour code app | [http://www.colourco.de/](http://www.colourco.de/) |
+| [ReactionCommerce](https://reactioncommerce.com/) | A JavaScript Ecommerce App | [https://reactioncommerce.com/](https://reactioncommerce.com/) |
+|[CoderMania](http://www.codermania.com/) | An E-Learning Platform | [http://www.codermania.com/](http://www.codermania.com/)|
+| [Telescope](http://www.telescopeapp.org/) | Lauch Sites Easily | [http://www.telescopeapp.org/](http://www.telescopeapp.org/)|
+| [Loop Pulse](http://www.looppulse.com/)| Data Analysis Platform| [http://www.looppulse.com/](http://www.looppulse.com/)|
