@@ -99,9 +99,9 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 ## Meteor
 | Name | Description | Link |
 |------|-------------|------|
-| [Rocket.Chat](https://rocket.chat/) | A web chat platform | [https://rocket.chat/](https://rocket.chat/) |
-| [ColourCode](http://www.colourco.de/) | An online colour code app | [http://www.colourco.de/](http://www.colourco.de/) |
-| [ReactionCommerce](https://reactioncommerce.com/) | A JavaScript Ecommerce App | [https://reactioncommerce.com/](https://reactioncommerce.com/) |
-|[CoderMania](http://www.codermania.com/) | An E-Learning Platform | [http://www.codermania.com/](http://www.codermania.com/)|
-| [Telescope](http://www.telescopeapp.org/) | Lauch Sites Easily | [http://www.telescopeapp.org/](http://www.telescopeapp.org/)|
+| [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | A web chat platform | [https://rocket.chat/](https://rocket.chat/) |
+| [ColourCode](https://github.com/tamino-martinius/colourco.de) | An online colour code app | [http://www.colourco.de/](http://www.colourco.de/) |
+| [ReactionCommerce](https://github.com/reactioncommerce/reaction) | A JavaScript Ecommerce App | [https://reactioncommerce.com/](https://reactioncommerce.com/) |
+|[CoderMania](https://github.com/Elfoslav/codermania) | An E-Learning Platform | [http://www.codermania.com/](http://www.codermania.com/)|
+| [Telescope](https://github.com/TelescopeJS/Telescope) | Lauch Sites Easily | [http://www.telescopeapp.org/](http://www.telescopeapp.org/)|
 | [Loop Pulse](http://www.looppulse.com/)| Data Analysis Platform| [http://www.looppulse.com/](http://www.looppulse.com/)|
