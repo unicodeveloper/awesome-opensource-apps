@@ -65,6 +65,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Gruik](https://github.com/grena/gruik) | An open-source markdown note-taking web app | [http://gruik.io](http://gruik.io) |
 | [Laravel.com](https://github.com/laravel/laravel.com) | Official Website and Documentation of Laravel | [https://laravel.com](https://laravel.com) |
 
+
 ## Rails
 
 | Name | Description | Link |
@@ -91,6 +92,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 
 
 ## Django
+
 | Name | Description | Link |
 |------|-------------|------|
 | [Shoop](https://github.com/shoopio/shoop) | E-commerce Platform | [https://shoop.io](https://shoop.io) |
@@ -98,6 +100,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 
 
 ## Meteor
+
 | Name | Description | Link |
 |------|-------------|------|
 | [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | A web chat platform | [https://rocket.chat](https://rocket.chat) |
