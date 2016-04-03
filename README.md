@@ -21,22 +21,22 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | Name | Description | Link |
 |------|-------------|------|
 | [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) | Invoice Generation System | [https://www.invoiceninja.com](https://www.invoiceninja.com) |
-| [Koel](https://github.com/phanan/koel) | A personal music streaming server that works. | [http://koel.phanan.net](http://koel.phanan.net) |
+| [Koel](https://github.com/phanan/koel) | A personal music streaming server that works | [http://koel.phanan.net](http://koel.phanan.net) |
 | [Faveo](https://github.com/ladybirdweb/faveo-helpdesk) | Helpdesk Ticketing System | [http://www.faveohelpdesk.com](http://www.faveohelpdesk.com) |
 | [Timegrid](https://github.com/timegridio/timegrid) |  Online Reservation Platform | [https://demo.timegrid.io](https://demo.timegrid.io/) |
 | [Laravel.io](https://github.com/laravelio/laravel.io) | Laravel Community Portal | [http://laravel.io](http://laravel.io) |
-| [Laravel Tricks](https://github.com/CodepadME/laravel-tricks) | Laravel Tips and Tricks | [http://laravel-tricks.com](http://laravel-tricks.com)||
+| [Laravel Tricks](https://github.com/CodepadME/laravel-tricks) | Laravel Tips and Tricks | [http://laravel-tricks.com](http://laravel-tricks.com) |
 | [Attendize](https://github.com/Attendize/Attendize) | Ticket selling and event management platform | [https://www.attendize.com](https://www.attendize.com) |
-| [Larasites](https://github.com/we-are-next/larasites.com) | Showcasing the best websites made with Laravel & Lumen | [https://www.larasites.com](https://www.larasites.com)
-| [Flarum](https://github.com/flarum/flarum) | Delightfully simple forum software. | [http://flarum.org](http://flarum.org) |
+| [Larasites](https://github.com/we-are-next/larasites.com) | Showcasing the best websites made with Laravel & Lumen | [https://www.larasites.com](https://www.larasites.com) |
+| [Flarum](https://github.com/flarum/flarum) | Delightfully simple forum software | [http://flarum.org](http://flarum.org) |
 | [OctoberCMS](https://github.com/octobercms/october) | CMS platform built on Laravel | [http://octobercms.com](http://octobercms.com) |
 | [PyroCMS](https://github.com/pyrocms/pyrocms) | PHP CMS | [https://www.pyrocms.com](https://www.pyrocms.com) |
 | [LavaliteCMS](https://github.com/LavaLite/cms) | CMS built on Laravel 5.2 | [http://www.lavalite.org](http://www.lavalite.org) |
-| [AsgardCMS](https://github.com/AsgardCms/Platform) | A modular multilingual CMS built with Laravel 5. | [http://asgardcms.com](http://asgardcms.com) |
+| [AsgardCMS](https://github.com/AsgardCms/Platform) | A modular multilingual CMS built with Laravel 5 | [http://asgardcms.com](http://asgardcms.com) |
 | [WardRobeCMS](https://github.com/wardrobecms/wardrobe) | A minimal blogging application | [http://wardrobecms.com](http://wardrobecms.com) |
-| [KodiCMS](https://github.com/KodiCMS/kodicms-laravel) | The CMS built on Laravel 5.2 | [http://laravel.kodicms.ru](http://laravel.kodicms.ru)|
+| [KodiCMS](https://github.com/KodiCMS/kodicms-laravel) | The CMS built on Laravel 5.2 | [http://laravel.kodicms.ru](http://laravel.kodicms.ru) |
 | [MicroweberCMS](https://github.com/microweber/microweber) | Drag and Drop CMS and online shop | [https://microweber.com](https://microweber.com) |
-| [BoostrapCMS](https://github.com/BootstrapCMS/CMS)| A PHP CMS powered by Laravel 5 and Sentry | |
+| [BoostrapCMS](https://github.com/BootstrapCMS/CMS) | A PHP CMS powered by Laravel 5 and Sentry | |
 | [TypiCMS](https://github.com/TypiCMS/Base) | Multilingual and modular CMS built with Laravel 5.2 | |
 | [FullyCMS](https://github.com/sseffa/fullycms) | Multi Language Content Management System | |
 | [Quarx](https://github.com/YABhq/Quarx) | A CMS for Laravel Apps | |
@@ -44,13 +44,13 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [antVel](https://github.com/ant-vel/antVel) | Laravel eCommerce | [http://antvel.com](http://antvel.com) |
 | [LaraShop](https://github.com/ZENLIX/LaraShop) | A Simple PHP Shop CMS | [http://it-toys.com](http://it-toys.com) |
 | [92five](https://github.com/chintanbanugaria/92five) | Self-hosted Project Management App | [http://92fiveapp.com](http://92fiveapp.com) |
-| [Deployer](https://github.com/REBELinBLUE/deployer) | A free and open source deployment tool. | [http://phpdeployment.org](http://phpdeployment.org) |
+| [Deployer](https://github.com/REBELinBLUE/deployer) | A free and open source deployment tool | [http://phpdeployment.org](http://phpdeployment.org) |
 | [Paperwork](https://github.com/twostairs/paperwork) | OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep | [http://paperwork.rocks](http://paperwork.rocks) |
 | [Podcastwala](https://github.com/modestkdr/Podcastwala) | Podcast System | |
 | [Laravel Snippets](https://github.com/basco-johnkevin/laravelsnippets) | A repository of useful code snippets for Laravel PHP framework | |
 | [Freelancer Notes](https://github.com/porimol/freelancer-notes) | Freelancer Notes | |
 | [Critter](https://github.com/msurguy/critterapp) | Mini-twitter-like app | [http://demos.maxoffsky.com/critter](http://demos.maxoffsky.com/critter) |
-| [PHPhub](https://github.com/summerblue/phphub) | Chinese PHP Community | [http://phphub.org/](http://phphub.org/) |
+| [PHPhub](https://github.com/summerblue/phphub) | Chinese PHP Community | [http://phphub.org](http://phphub.org) |
 | [Cachet](https://github.com/CachetHQ/Cachet) | Open Source Status Page System | [https://cachethq.io](https://github.com/CachetHQ/Cachet) |
 | [Ribbon](https://github.com/canvasowl/ribbbon) | A project management system for Artisans | |
 | [Scrumwala](https://github.com/modestkdr/Scrumwala) | Your very own Scrum/Agile web app for personal use | |
@@ -60,9 +60,11 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Nahid.co](https://github.com/nahid/nahid.co) | Personal Portfolio and blog project | [http://nahid.co](http://nahid.co) |
 | [Laramap](https://github.com/laramap/laramap.com) | A Map of Laravel Developers | [https://laramap.com](https://laramap.com) |
 | [Learn Party](https://github.com/andela-jkariuki/checkpoint-four-learn-party) | A Dead Simple Learning Management System | [https://learn-party.herokuapp.com](https://learn-party.herokuapp.com) |
-| [Techademia](https://github.com/andela-fokosun/Checkpoint4) | Organize Your Youtube Videos to Learn | [http://techademia.herokuapp.com](http://techademia.herokuapp.com) 
+| [Techademia](https://github.com/andela-fokosun/Checkpoint4) | Organize Your Youtube Videos to Learn | [http://techademia.herokuapp.com](http://techademia.herokuapp.com) |
 | [BookStack](https://github.com/ssddanbrown/BookStack) | A platform to create documentation/wiki content | [https://www.bookstackapp.com](https://www.bookstackapp.com) |
 | [Gruik](https://github.com/grena/gruik) | An open-source markdown note-taking web app | [http://gruik.io](http://gruik.io) |
+| [Laravel.com](https://github.com/laravel/laravel.com) | Official Website and Documentation of Laravel | [https://laravel.com](https://laravel.com) |
+
 
 ## Rails
 
@@ -86,10 +88,11 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Spree](https://github.com/spree/spree) | Ecommerce Solution | [http://spreecommerce.com](http://spreecommerce.com) |
 | [RedMine](https://github.com/edavis10/redmine) | Project Management Application | [http://www.redmine.org](http://www.redmine.org) |
 | [Diaspora](https://github.com/diaspora/diaspora) | Distributed Social Network | [https://diasporafoundation.org](https://diasporafoundation.org) |
-| [SprintApp](https://github.com/macfanatic/SprintApp)| Time tracking and Project Management App | [http://www.sprintapp.com](http://www.sprintapp.com) |
+| [SprintApp](https://github.com/macfanatic/SprintApp) | Time tracking and Project Management App | [http://www.sprintapp.com](http://www.sprintapp.com) |
 
 
 ## Django
+
 | Name | Description | Link |
 |------|-------------|------|
 | [Shoop](https://github.com/shoopio/shoop) | E-commerce Platform | [https://shoop.io](https://shoop.io) |
@@ -97,11 +100,12 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 
 
 ## Meteor
+
 | Name | Description | Link |
 |------|-------------|------|
-| [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | A web chat platform | [https://rocket.chat/](https://rocket.chat/) |
-| [ColourCode](https://github.com/tamino-martinius/colourco.de) | An online colour code app | [http://www.colourco.de/](http://www.colourco.de/) |
-| [ReactionCommerce](https://github.com/reactioncommerce/reaction) | A JavaScript Ecommerce App | [https://reactioncommerce.com/](https://reactioncommerce.com/) |
-|[CoderMania](https://github.com/Elfoslav/codermania) | An E-Learning Platform | [http://www.codermania.com/](http://www.codermania.com/)|
-| [Telescope](https://github.com/TelescopeJS/Telescope) | Lauch Sites Easily | [http://www.telescopeapp.org/](http://www.telescopeapp.org/)|
-| [Loop Pulse](https://github.com/clionelabs/looppulse.web.manage)| Data Analysis Platform| [http://www.looppulse.com/](http://www.looppulse.com/)|
+| [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | A web chat platform | [https://rocket.chat](https://rocket.chat) |
+| [ColourCode](https://github.com/tamino-martinius/colourco.de) | An online colour code app | [http://www.colourco.de](http://www.colourco.de) |
+| [ReactionCommerce](https://github.com/reactioncommerce/reaction) | A JavaScript Ecommerce App | [https://reactioncommerce.com](https://reactioncommerce.com) |
+| [CoderMania](https://github.com/Elfoslav/codermania) | An E-Learning Platform | [http://www.codermania.com](http://www.codermania.com) |
+| [Telescope](https://github.com/TelescopeJS/Telescope) | Lauch Sites Easily | [http://www.telescopeapp.org](http://www.telescopeapp.org) |
+| [Loop Pulse](https://github.com/clionelabs/looppulse.web.manage) | Data Analysis Platform | [http://www.looppulse.com](http://www.looppulse.com) |
