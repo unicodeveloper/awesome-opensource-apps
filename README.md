@@ -66,6 +66,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Laravel.com](https://github.com/laravel/laravel.com) | Official Website and Documentation of Laravel | [https://laravel.com](https://laravel.com) |
 | [Katana](https://github.com/themsaid/katana) | Laravel static site/blog generator with markdown support |  |
 | [CoasterCMS](https://github.com/web-feet/coastercms) | Coaster CMS Project | [http://www.coastercms.org](http://www.coastercms.org) |
+| [Statamic](https://github.com/statamic) | Flat File CMS | [https://statamic.com](https://statamic.com) |
 
 
 ## Rails
