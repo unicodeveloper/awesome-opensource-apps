@@ -64,6 +64,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [BookStack](https://github.com/ssddanbrown/BookStack) | A platform to create documentation/wiki content | [https://www.bookstackapp.com](https://www.bookstackapp.com) |
 | [Gruik](https://github.com/grena/gruik) | An open-source markdown note-taking web app | [http://gruik.io](http://gruik.io) |
 | [Laravel.com](https://github.com/laravel/laravel.com) | Official Website and Documentation of Laravel | [https://laravel.com](https://laravel.com) |
+| [Katana](https://github.com/themsaid/katana) | Laravel static site/blog generator with markdown support. |  |
 
 
 ## Rails
