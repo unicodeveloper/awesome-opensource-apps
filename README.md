@@ -101,6 +101,12 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 |------|-------------|------|
 | [Shoop](https://github.com/shoopio/shoop) | E-commerce Platform | [https://shoop.io](https://shoop.io) |
 | [Codango](https://github.com/andela/codango) | Social Network for Coders | |
+| [Django-CMS](https://github.com/divio/django-cms) | Easy to use and developer friendly CMS | [http://www.django-cms.org](http://www.django-cms.org) |
+| [Django-fiber](https://github.com/ridethepony/django-fiber) | A simple, user-friendly CMS for all your Django projects | [http://ridethepony.org](http://ridethepony.org) |
+| [Feincms](https://github.com/feincms/feincms) | A Django-based CMS with a focus on extensibility and concise code | [http://www.feincms.org](http://www.feincms.org) |
+| [Mezzanine](https://github.com/stephenmcd/mezzanine) | CMS framework for Django | [http://mezzanine.jupo.org](http://mezzanine.jupo.org) |
+| [Wagtail](https://github.com/torchbox/wagtail) | A Django content management system focused on flexibility and user experience | [http://wagtail.io](http://wagtail.io) |
+| [Django-leonardo](https://github.com/django-leonardo/django-leonardo) | CMS for everyone, easy to deploy and scale, robust modular system with many packages | [https://www.leonardo-cms.org](https://www.leonardo-cms.org) |
 
 
 ## Meteor
