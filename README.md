@@ -105,6 +105,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Django-fiber](https://github.com/ridethepony/django-fiber) | A simple, user-friendly CMS for all your Django projects | [http://ridethepony.org](http://ridethepony.org) |
 | [Feincms](https://github.com/feincms/feincms) | A Django-based CMS with a focus on extensibility and concise code | [http://www.feincms.org](http://www.feincms.org) |
 | [Mezzanine](https://github.com/stephenmcd/mezzanine) | CMS framework for Django | [http://mezzanine.jupo.org](http://mezzanine.jupo.org) |
+| [Wagtail](https://github.com/torchbox/wagtail) | A Django content management system focused on flexibility and user experience | [http://wagtail.io](http://wagtail.io) |
 
 
 ## Meteor
