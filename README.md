@@ -106,6 +106,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Feincms](https://github.com/feincms/feincms) | A Django-based CMS with a focus on extensibility and concise code | [http://www.feincms.org](http://www.feincms.org) |
 | [Mezzanine](https://github.com/stephenmcd/mezzanine) | CMS framework for Django | [http://mezzanine.jupo.org](http://mezzanine.jupo.org) |
 | [Wagtail](https://github.com/torchbox/wagtail) | A Django content management system focused on flexibility and user experience | [http://wagtail.io](http://wagtail.io) |
+| [Django-leonardo](https://github.com/django-leonardo/django-leonardo) | CMS for everyone, easy to deploy and scale, robust modular system with many packages | [https://www.leonardo-cms.org](https://www.leonardo-cms.org) |
 
 
 ## Meteor
