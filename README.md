@@ -93,6 +93,8 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [RedMine](https://github.com/edavis10/redmine) | Project Management Application | [http://www.redmine.org](http://www.redmine.org) |
 | [Diaspora](https://github.com/diaspora/diaspora) | Distributed Social Network | [https://diasporafoundation.org](https://diasporafoundation.org) |
 | [SprintApp](https://github.com/macfanatic/SprintApp) | Time tracking and Project Management App | [http://www.sprintapp.com](http://www.sprintapp.com) |
+| [Copycopter](https://github.com/copycopter/copycopter-server) | A service for editing the copy text of a Rails application. | [http://www.sprintapp.com](http://copycopter.com/) |
+
 
 
 ## Django
