@@ -13,6 +13,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 - [Django](#django)
 - [Android](#android)
 - [iOs](#iOs)
+- [Meteor](#meteor)
 
 
 ## Laravel
@@ -93,3 +94,15 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 |------|-------------|------|
 | [Shoop](https://github.com/shoopio/shoop) | E-commerce Platform | [https://shoop.io](https://shoop.io) |
 | [Codango](https://github.com/andela/codango) | Social Network for Coders | |
+
+
+## Meteor
+| Name | Description | Link |
+|------|-------------|------|
+| [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | A web chat platform | [https://rocket.chat/](https://rocket.chat/) |
+| [ColourCode](https://github.com/tamino-martinius/colourco.de) | An online colour code app | [http://www.colourco.de/](http://www.colourco.de/) |
+| [ReactionCommerce](https://github.com/reactioncommerce/reaction) | A JavaScript Ecommerce App | [https://reactioncommerce.com/](https://reactioncommerce.com/) |
+|[CoderMania](https://github.com/Elfoslav/codermania) | An E-Learning Platform | [http://www.codermania.com/](http://www.codermania.com/)|
+| [Telescope](https://github.com/TelescopeJS/Telescope) | Lauch Sites Easily | [http://www.telescopeapp.org/](http://www.telescopeapp.org/)|
+| [Loop Pulse](https://github.com/clionelabs/looppulse.web.manage)| Data Analysis Platform| [http://www.looppulse.com/](http://www.looppulse.com/)|
+| [Wekan](https://github.com/wekan/wekan) | A Trello-like collaboration platform | [https://wekan.io](https://wekan.io) |
