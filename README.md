@@ -105,4 +105,3 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 |[CoderMania](https://github.com/Elfoslav/codermania) | An E-Learning Platform | [http://www.codermania.com/](http://www.codermania.com/)|
 | [Telescope](https://github.com/TelescopeJS/Telescope) | Lauch Sites Easily | [http://www.telescopeapp.org/](http://www.telescopeapp.org/)|
 | [Loop Pulse](https://github.com/clionelabs/looppulse.web.manage)| Data Analysis Platform| [http://www.looppulse.com/](http://www.looppulse.com/)|
-| [Wekan](https://github.com/wekan/wekan) | A Trello-like collaboration platform | [https://wekan.io](https://wekan.io) |
