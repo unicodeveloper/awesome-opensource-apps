@@ -112,6 +112,15 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Django-leonardo](https://github.com/django-leonardo/django-leonardo) | CMS for everyone, easy to deploy and scale, robust modular system with many packages | [https://www.leonardo-cms.org](https://www.leonardo-cms.org) |
 
 
+## Android
+
+| Name | Description | Link |
+|------|-------------|------|
+| [Plaid](https://github.com/nickbutcher/plaid) | An app that showcases Material Design | [https://play.google.com/store/apps/details?id=io.plaidapp](https://play.google.com/store/apps/details?id=io.plaidapp) |
+| [Google I/O Scheduler](https://github.com/google/iosched) | Offcial Android app for Google I/O | [https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched](https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched) |
+| [Project Frisbee](https://github.com/gdg-x/frisbee) | All GDG content in one place | [https://play.google.com/store/apps/details?id=org.gdg.frisbee.android](https://play.google.com/store/apps/details?id=org.gdg.frisbee.android) |
+
+
 ## Meteor
 
 | Name | Description | Link |
