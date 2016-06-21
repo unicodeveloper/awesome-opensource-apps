@@ -119,7 +119,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Plaid](https://github.com/nickbutcher/plaid) | An app that showcases Material Design | [https://play.google.com/store/apps/details?id=io.plaidapp](https://play.google.com/store/apps/details?id=io.plaidapp) |
 | [Google I/O Scheduler](https://github.com/google/iosched) | Offcial Android app for Google I/O | [https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched](https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched) |
 | [Project Frisbee](https://github.com/gdg-x/frisbee) | All GDG content in one place | [https://play.google.com/store/apps/details?id=org.gdg.frisbee.android](https://play.google.com/store/apps/details?id=org.gdg.frisbee.android) |
-
+| [Wallsplash](https://github.com/mikepenz/wallsplash-android) | Wallsplash is the cutting edge wallpaper app for your device! | https://play.google.com/store/apps/details?id=com.mikepenz.unsplash |
 
 ## Meteor
 
