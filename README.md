@@ -1,6 +1,6 @@
-# Awesome-opensource-webapps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
+# Awesome-opensource-apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
 
-> An awesome curated list of open source crafted web applications - Learn, Fork, Contribute &amp; Most Importantly Enjoy!.
+> An awesome curated list of open source crafted web & mobile applications - Learn, Fork, Contribute &amp; Most Importantly Enjoy!.
 
 You want to develop an app, write tests for a feature or implement a feature and you don't know how to go about it, there might just be one app/repository here with the solution to your problem.
 
