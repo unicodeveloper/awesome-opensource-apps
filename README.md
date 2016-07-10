@@ -70,6 +70,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Statamic](https://github.com/statamic) | Flat File CMS | [https://statamic.com](https://statamic.com) |
 | [Larasocial](https://github.com/msalom28/Larasocial) | A Social Network Application | [http://larasocial.info](http://larasocial.info) |
 | [Aimeos](https://github.com/aimeos/aimeos-laravel) | Ecommerce package for high performance online shops | [https://aimeos.org/Laravel](https://aimeos.org/Laravel) |
+| [Gitamin](https://github.com/GitaminHQ/Gitamin) | A self-hosted git repository management software | [http://gitamin.com](http://gitamin.com) |
 
 
 ## Rails
