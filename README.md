@@ -73,6 +73,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Aimeos](https://github.com/aimeos/aimeos-laravel) | Ecommerce package for high performance online shops | [https://aimeos.org/Laravel](https://aimeos.org/Laravel) |
 | [Gitamin](https://github.com/GitaminHQ/Gitamin) | A self-hosted git repository management software | [http://gitamin.com](http://gitamin.com) |
 | [Vuedo](https://github.com/vuedo/vuedo) | Vuedo is blog platform, built with Laravel and Vue.js. | [https://vuejsfeed.com](https://vuejsfeed.com) |
+| [Condor](https://github.com/condorrocks/condor) |  Service monitor that watches diverse statuses, and elegantly reports every drift | [https://condor.rocks](https://condor.rocks/) |
 
 
 ## Rails
