@@ -14,6 +14,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 - [Android](#android)
 - [iOs](#iOs)
 - [Meteor](#meteor)
+- [Windows](#windows)
 
 
 ## Laravel
@@ -137,3 +138,10 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Telescope](https://github.com/TelescopeJS/Telescope) | Lauch Sites Easily | [http://www.telescopeapp.org](http://www.telescopeapp.org) |
 | [Loop Pulse](https://github.com/clionelabs/looppulse.web.manage) | Data Analysis Platform | [http://www.looppulse.com](http://www.looppulse.com) |
 | [Wekan](https://github.com/wekan/wekan)| The open-source Trello-like kanban | [https://wekan.io/](https://wekan.io/) |
+
+## Windows
+
+| Name | Description | Link |
+|------|-------------|------|
+| [Windows 10 development for absolute beginners](https://github.com/Windows-Readiness/AbsoluteBeginnersWin10) | A series of tutorials for beginners in Windows 10 app development | [http://goo.gl/en0b2D](http://goo.gl/en0b2D) |
+| [Universal Windows Platform (UWP) app samples](https://github.com/Microsoft/Windows-universal-samples) | Contains samples that demonstrate the API usage patterns for the Universal Windows Platform (UWP) | [http://goo.gl/yM1MeY](http://goo.gl/yM1MeY) |
