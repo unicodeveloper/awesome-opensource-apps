@@ -15,6 +15,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 - [iOs](#iOs)
 - [Meteor](#meteor)
 - [ReactJS](#reactjs)
+- [Firebase](#firebase)
 
 
 ## Laravel
@@ -145,3 +146,10 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 |------|-------------|------|
 | [microapps-donation](https://github.com/iamraphson/microapps-donation) | A single page application that allows people to donate money | [https://microapp-donation.herokuapp.com](https://microapp-donation.herokuapp.com/) |
 | [docue](https://github.com/kevgathuku/docue) | Document Management System With React Frontend | [https://docue.herokuapp.com](https://docue.herokuapp.com) |
+
+## Firebase
+| Name | Description | Link |
+|------|-------------|------|
+| [Friendlychat](https://github.com/firebase/friendlychat) | Firebase codelab for building a cross-platform chat app | |
+| [Friendlypix](https://github.com/firebase/friendlypix) | FriendlyPix is a cross-platform Firebase example app | |
+| [Firefeed](https://github.com/firebase/firefeed) | Firefeed is a web app that lets users post small messages called sparks to their feed. | |
