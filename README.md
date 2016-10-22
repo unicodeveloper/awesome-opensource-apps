@@ -77,6 +77,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Vuedo](https://github.com/vuedo/vuedo) | Vuedo is blog platform, built with Laravel and Vue.js. | [https://vuejsfeed.com](https://vuejsfeed.com) |
 | [Condor](https://github.com/condorrocks/condor) |  Service monitor that watches diverse statuses, and elegantly reports every drift | [https://condor.rocks](https://condor.rocks/) |
 | [DevTv](https://github.com/iamraphson/DEV-TV) |  DevTv is your online Video Subscription Platform | [http://dev-tv.herokuapp.com](http://dev-tv.herokuapp.com/) |
+| [SЁCU](https://github.com/secusu/secusu) | SЁCU is a service to create password protected self-destructing data packages and anonymous chat-rooms. | [https://secu.su/](https://secu.su/) | 
 
 
 ## Rails
