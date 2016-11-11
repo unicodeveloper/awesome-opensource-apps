@@ -81,6 +81,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [SЁCU](https://github.com/secusu/secusu) | SЁCU is a service to create password protected self-destructing data packages and anonymous chat-rooms. | [https://secu.su/](https://secu.su/) |
 | [Confomo](https://github.com/mattstauffer/confomo) |  A service that facilitates meeting Twitter friends at conferences | |
 | [File Manager](https://github.com/UniSharp/laravel-filemanager) |  A File manager (for CKEditor and TinyMCE) with multi-users support. | |
+| [FlyMyShop](https://github.com/aasisvinayak/flymyshop) |  An e-commerce platform for online merchants. | [https://flymyshop.com](https://flymyshop.com) |
 
 
 ## Rails
