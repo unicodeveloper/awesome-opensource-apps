@@ -42,6 +42,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [BoostrapCMS](https://github.com/BootstrapCMS/CMS) | A PHP CMS powered by Laravel 5 and Sentry | |
 | [TypiCMS](https://github.com/TypiCMS/Base) | Multilingual and modular CMS built with Laravel 5.2 | |
 | [FullyCMS](https://github.com/sseffa/fullycms) | Multi Language Content Management System | |
+| [FlarepointCRM](https://github.com/Bottelet/Flarepoint-crm) |  Self-hosted CRM platform built with Laravel 5 | |
 | [Quarx](https://github.com/YABhq/Quarx) | A CMS for Laravel Apps | |
 | [Oez](https://github.com/gaaarfild/0ez) | Lightweight Blogging CMS | |
 | [Airflix](https://github.com/wells/airflix) | A near-netflix Clone  | |
