@@ -56,7 +56,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Critter](https://github.com/msurguy/critterapp) | Mini-twitter-like app | [http://demos.maxoffsky.com/critter](http://demos.maxoffsky.com/critter) |
 | [PHPhub](https://github.com/summerblue/phphub) | Chinese PHP Community | [http://phphub.org](http://phphub.org) |
 | [Cachet](https://github.com/CachetHQ/Cachet) | Open Source Status Page System | [https://cachethq.io](https://github.com/CachetHQ/Cachet) |
-| [Ribbon](https://github.com/canvasowl/ribbbon) | A project management system for Artisans | |
+| [Ribbbon](https://github.com/canvasowl/ribbbon) | A project management system for Artisans | |
 | [Scrumwala](https://github.com/modestkdr/Scrumwala) | Your very own Scrum/Agile web app for personal use | |
 | [SnipeIT](https://github.com/snipe/snipe-it) | IT Asset/license Management System | [http://snipeitapp.com](http://snipeitapp.com) |
 | [Neontsunami](https://github.com/dwightwatson/neontsunami) | Personal Website and blog | [http://www.neontsunami.com](http://www.neontsunami.com) |
@@ -77,7 +77,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Vuedo](https://github.com/vuedo/vuedo) | Vuedo is blog platform, built with Laravel and Vue.js. | [https://vuejsfeed.com](https://vuejsfeed.com) |
 | [Condor](https://github.com/condorrocks/condor) |  Service monitor that watches diverse statuses, and elegantly reports every drift | [https://condor.rocks](https://condor.rocks/) |
 | [DevTv](https://github.com/iamraphson/DEV-TV) |  DevTv is your online Video Subscription Platform | [http://dev-tv.herokuapp.com](http://dev-tv.herokuapp.com/) |
-| [SЁCU](https://github.com/secusu/secusu) | SЁCU is a service to create password protected self-destructing data packages and anonymous chat-rooms. | [https://secu.su/](https://secu.su/) | 
+| [SЁCU](https://github.com/secusu/secusu) | SЁCU is a service to create password protected self-destructing data packages and anonymous chat-rooms. | [https://secu.su/](https://secu.su/) |
 
 
 ## Rails
