@@ -151,6 +151,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 |------|-------------|------|
 | [microapps-donation](https://github.com/iamraphson/microapps-donation) | A single page application that allows people to donate money | [https://microapp-donation.herokuapp.com](https://microapp-donation.herokuapp.com/) |
 | [docue](https://github.com/kevgathuku/docue) | Document Management System With React Frontend | [https://docue.herokuapp.com](https://docue.herokuapp.com) |
+| [Cerebro](https://github.com/KELiON/cerebro) | One-input productivity booster | [http://www.cerebroapp.com](http://www.cerebroapp.com) |
 
 ## Firebase
 | Name | Description | Link |
