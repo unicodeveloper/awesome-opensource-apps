@@ -153,6 +153,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [docue](https://github.com/kevgathuku/docue) | Document Management System With React Frontend | [https://docue.herokuapp.com](https://docue.herokuapp.com) |
 | [Cerebro](https://github.com/KELiON/cerebro) | One-input productivity booster | [http://www.cerebroapp.com](http://www.cerebroapp.com) |
 | [Itsquiz-wall](https://github.com/WebbyLab/itsquiz-wall) | Isomorphic "Quiz Wall" for itsquiz.com | [https://itsquiz.com](https://itsquiz.com) |
+| [SoundRedux - SoundCloud Client](https://github.com/andrewngu/sound-redux) | Isomorphic "Quiz Wall" for itsquiz.com | [https://soundredux.io](https://soundredux.io) |
 
 ## Firebase
 | Name | Description | Link |
