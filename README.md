@@ -160,6 +160,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [In-Browser Playground](https://github.com/fatiherikli/fil) | A playground for in-browser interpreters. Built with React/Redux. | [http://fatiherikli.github.io/fil](http://fatiherikli.github.io/fil) |
 | [Spectacle](https://github.com/FormidableLabs/spectacle) | A React library for Deck/Slide Presentations. | [http://stack.formidable.com/spectacle](https://github.com/FormidableLabs/spectacle) |
 | [Google Map Clustering](https://github.com/istarkov/google-map-clustering-example) | A Google Map Clustering Example | [http://istarkov.github.io/google-map-clustering-example](http://istarkov.github.io/google-map-clustering-example) |
+| [Kinematic](https://github.com/docker/kitematic) | Visual Docker Container Management on Mac & Windows | [https://github.com/docker/kitematic](https://github.com/docker/kitematic) |
 
 
 ## Firebase
