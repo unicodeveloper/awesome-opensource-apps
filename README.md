@@ -155,6 +155,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Itsquiz-wall](https://github.com/WebbyLab/itsquiz-wall) | Isomorphic "Quiz Wall" for itsquiz.com | [https://itsquiz.com](https://itsquiz.com) |
 | [SoundRedux - SoundCloud Client](https://github.com/andrewngu/sound-redux) | Isomorphic "Quiz Wall" for itsquiz.com | [https://soundredux.io](https://soundredux.io) |
 | [React-Powered Hacker News Client](https://github.com/insin/react-hn) | React-Powered Hacker News Client | [https://react-hn.appspot.com](https://react-hn.appspot.com) |
+| [Calypso](https://github.com/Automattic/wp-calypso) | The new JavaScript- and API-powered WordPress.com | [https://developer.wordpress.com/calypso](https://developer.wordpress.com/calypso) |
 
 
 ## Firebase
