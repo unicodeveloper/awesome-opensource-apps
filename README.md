@@ -154,6 +154,8 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Cerebro](https://github.com/KELiON/cerebro) | One-input productivity booster | [http://www.cerebroapp.com](http://www.cerebroapp.com) |
 | [Itsquiz-wall](https://github.com/WebbyLab/itsquiz-wall) | Isomorphic "Quiz Wall" for itsquiz.com | [https://itsquiz.com](https://itsquiz.com) |
 | [SoundRedux - SoundCloud Client](https://github.com/andrewngu/sound-redux) | Isomorphic "Quiz Wall" for itsquiz.com | [https://soundredux.io](https://soundredux.io) |
+| [React-Powered Hacker News Client](https://github.com/insin/react-hn) | React-Powered Hacker News Client | [https://react-hn.appspot.com](https://react-hn.appspot.com) |
+
 
 ## Firebase
 | Name | Description | Link |
