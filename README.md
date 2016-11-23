@@ -162,6 +162,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Google Map Clustering](https://github.com/istarkov/google-map-clustering-example) | A Google Map Clustering Example | [http://istarkov.github.io/google-map-clustering-example](http://istarkov.github.io/google-map-clustering-example) |
 | [Kinematic](https://github.com/docker/kitematic) | Visual Docker Container Management on Mac & Windows | [https://github.com/docker/kitematic](https://github.com/docker/kitematic) |
 | [Perseus](https://github.com/Khan/perseus) | Perseus is Khan Academy's new exercise question editor and renderer | [http://khan.github.io/perseus](http://khan.github.io/perseus) |
+| [Favesound-redux](https://github.com/rwieruch/favesound-redux) | The SoundCloud Client in React + Redux made with passion! | [http://www.robinwieruch.de/the-soundcloud-client-in-react-redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux) |
 
 
 ## Firebase
