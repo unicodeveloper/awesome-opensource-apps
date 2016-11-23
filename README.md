@@ -158,6 +158,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Calypso](https://github.com/Automattic/wp-calypso) | The new JavaScript- and API-powered WordPress.com | [https://developer.wordpress.com/calypso](https://developer.wordpress.com/calypso) |
 | [Trello tribute](https://github.com/bigardone/phoenix-trello) | A clone of Trello with React and Phoenix | [https://phoenix-trello.herokuapp.com](https://phoenix-trello.herokuapp.com) |
 | [In-Browser Playground](https://github.com/fatiherikli/fil) | A playground for in-browser interpreters. Built with React/Redux. | [http://fatiherikli.github.io/fil](http://fatiherikli.github.io/fil) |
+| [Spectacle](https://github.com/FormidableLabs/spectacle) | A React library for Deck/Slide Presentations. | [http://stack.formidable.com/spectacle](https://github.com/FormidableLabs/spectacle) |
 
 
 ## Firebase
