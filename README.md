@@ -15,6 +15,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 - [iOs](#iOs)
 - [Meteor](#meteor)
 - [ReactJS](#reactjs)
+- [Firebase](#firebase)
 
 
 ## Laravel
@@ -41,6 +42,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [BoostrapCMS](https://github.com/BootstrapCMS/CMS) | A PHP CMS powered by Laravel 5 and Sentry | |
 | [TypiCMS](https://github.com/TypiCMS/Base) | Multilingual and modular CMS built with Laravel 5.2 | |
 | [FullyCMS](https://github.com/sseffa/fullycms) | Multi Language Content Management System | |
+| [FlarepointCRM](https://github.com/Bottelet/Flarepoint-crm) |  Self-hosted CRM platform built with Laravel 5 | |
 | [Quarx](https://github.com/YABhq/Quarx) | A CMS for Laravel Apps | |
 | [Oez](https://github.com/gaaarfild/0ez) | Lightweight Blogging CMS | |
 | [Airflix](https://github.com/wells/airflix) | A near-netflix Clone  | |
@@ -55,7 +57,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Critter](https://github.com/msurguy/critterapp) | Mini-twitter-like app | [http://demos.maxoffsky.com/critter](http://demos.maxoffsky.com/critter) |
 | [PHPhub](https://github.com/summerblue/phphub) | Chinese PHP Community | [http://phphub.org](http://phphub.org) |
 | [Cachet](https://github.com/CachetHQ/Cachet) | Open Source Status Page System | [https://cachethq.io](https://github.com/CachetHQ/Cachet) |
-| [Ribbon](https://github.com/canvasowl/ribbbon) | A project management system for Artisans | |
+| [Ribbbon](https://github.com/canvasowl/ribbbon) | A project management system for Artisans | |
 | [Scrumwala](https://github.com/modestkdr/Scrumwala) | Your very own Scrum/Agile web app for personal use | |
 | [SnipeIT](https://github.com/snipe/snipe-it) | IT Asset/license Management System | [http://snipeitapp.com](http://snipeitapp.com) |
 | [Neontsunami](https://github.com/dwightwatson/neontsunami) | Personal Website and blog | [http://www.neontsunami.com](http://www.neontsunami.com) |
@@ -76,8 +78,12 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Vuedo](https://github.com/vuedo/vuedo) | Vuedo is blog platform, built with Laravel and Vue.js. | [https://vuejsfeed.com](https://vuejsfeed.com) |
 | [Condor](https://github.com/condorrocks/condor) |  Service monitor that watches diverse statuses, and elegantly reports every drift | [https://condor.rocks](https://condor.rocks/) |
 | [DevTv](https://github.com/iamraphson/DEV-TV) |  DevTv is your online Video Subscription Platform | [http://dev-tv.herokuapp.com](http://dev-tv.herokuapp.com/) |
+| [SЁCU](https://github.com/secusu/secusu) | SЁCU is a service to create password protected self-destructing data packages and anonymous chat-rooms. | [https://secu.su/](https://secu.su/) |
+| [Confomo](https://github.com/mattstauffer/confomo) |  A service that facilitates meeting Twitter friends at conferences | |
+| [File Manager](https://github.com/UniSharp/laravel-filemanager) |  A File manager (for CKEditor and TinyMCE) with multi-users support. | |
+| [FlyMyShop](https://github.com/aasisvinayak/flymyshop) |  An e-commerce platform for online merchants. | [https://flymyshop.com](https://flymyshop.com) |
+| [Laravel GitScrum](https://github.com/renatomarinho/laravel-gitscrum) | GitScrum is a project to help developer team. | |
 | [MIT-2014-2015-YEARBOOK](https://github.com/iamraphson/MIT-2014-2015-YEARBOOK) |  E-YearBook for 2014/2015 UNILAG MIT students  | [http://unilagmitfaces.ml](http://unilagmitfaces.ml/) |
-
 
 ## Rails
 
@@ -147,3 +153,22 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [microapps-donation](https://github.com/iamraphson/microapps-donation) | A single page application that allows people to donate money | [https://microapp-donation.herokuapp.com](https://microapp-donation.herokuapp.com/) |
 | [docue](https://github.com/kevgathuku/docue) | Document Management System With React Frontend | [https://docue.herokuapp.com](https://docue.herokuapp.com) |
 |[MERNMAP](https://github.com/iamraphson/mernmap) | An interactive map for MERN(MongoDB, ExpressJS, ReactJS, NodeJS) Stack Developers | [http://mernmap.herokuapp.com](http://mernmap.herokuapp.com/) |
+| [Cerebro](https://github.com/KELiON/cerebro) | One-input productivity booster | [http://www.cerebroapp.com](http://www.cerebroapp.com) |
+| [Itsquiz-wall](https://github.com/WebbyLab/itsquiz-wall) | Isomorphic "Quiz Wall" for itsquiz.com | [https://itsquiz.com](https://itsquiz.com) |
+| [SoundRedux - SoundCloud Client](https://github.com/andrewngu/sound-redux) | Isomorphic "Quiz Wall" for itsquiz.com | [https://soundredux.io](https://soundredux.io) |
+| [React-Powered Hacker News Client](https://github.com/insin/react-hn) | React-Powered Hacker News Client | [https://react-hn.appspot.com](https://react-hn.appspot.com) |
+| [Calypso](https://github.com/Automattic/wp-calypso) | The new JavaScript- and API-powered WordPress.com | [https://developer.wordpress.com/calypso](https://developer.wordpress.com/calypso) |
+| [Trello tribute](https://github.com/bigardone/phoenix-trello) | A clone of Trello with React and Phoenix | [https://phoenix-trello.herokuapp.com](https://phoenix-trello.herokuapp.com) |
+| [In-Browser Playground](https://github.com/fatiherikli/fil) | A playground for in-browser interpreters. Built with React/Redux. | [http://fatiherikli.github.io/fil](http://fatiherikli.github.io/fil) |
+| [Spectacle](https://github.com/FormidableLabs/spectacle) | A React library for Deck/Slide Presentations. | [http://stack.formidable.com/spectacle](https://github.com/FormidableLabs/spectacle) |
+| [Google Map Clustering](https://github.com/istarkov/google-map-clustering-example) | A Google Map Clustering Example | [http://istarkov.github.io/google-map-clustering-example](http://istarkov.github.io/google-map-clustering-example) |
+| [Kinematic](https://github.com/docker/kitematic) | Visual Docker Container Management on Mac & Windows | [https://github.com/docker/kitematic](https://github.com/docker/kitematic) |
+| [Perseus](https://github.com/Khan/perseus) | Perseus is Khan Academy's new exercise question editor and renderer | [http://khan.github.io/perseus](http://khan.github.io/perseus) |
+| [Favesound-redux](https://github.com/rwieruch/favesound-redux) | The SoundCloud Client in React + Redux made with passion! | [http://www.robinwieruch.de/the-soundcloud-client-in-react-redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux) |
+
+## Firebase
+| Name | Description | Link |
+|------|-------------|------|
+| [Friendlychat](https://github.com/firebase/friendlychat) | Firebase codelab for building a cross-platform chat app | |
+| [Friendlypix](https://github.com/firebase/friendlypix) | FriendlyPix is a cross-platform Firebase example app | |
+| [Firefeed](https://github.com/firebase/firefeed) | Firefeed is a web app that lets users post small messages called sparks to their feed. | |
