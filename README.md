@@ -15,6 +15,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 - [iOs](#iOs)
 - [Meteor](#meteor)
 - [ReactJS](#reactjs)
+- [VueJS](#vuejs)
 - [Firebase](#firebase)
 
 
