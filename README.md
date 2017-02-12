@@ -167,6 +167,12 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Perseus](https://github.com/Khan/perseus) | Perseus is Khan Academy's new exercise question editor and renderer | [http://khan.github.io/perseus](http://khan.github.io/perseus) |
 | [Favesound-redux](https://github.com/rwieruch/favesound-redux) | The SoundCloud Client in React + Redux made with passion! | [http://www.robinwieruch.de/the-soundcloud-client-in-react-redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux) |
 
+## VueJS
+| Name | Description | Link |
+|------|-------------|------|
+| [Attendant](https://github.com/phppirate/attendant) | Laravel Valet GUI - An app to monitor your sites running on Valet. Packaged with Electron |
+
+
 ## Firebase
 | Name | Description | Link |
 |------|-------------|------|
