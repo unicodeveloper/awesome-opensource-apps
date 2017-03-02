@@ -181,6 +181,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [21mobile](https://github.com/sonnylazuardi/21mobile) | Cinema 21 movie schedule app built with react native, graphql, redux | [21mobile.sonnylab.com](http://21mobile.sonnylab.com) |
 | [Dribbble](https://github.com/catalinmiron/react-native-dribbble-app) | Dribbble app built with React Native | |
 | [Whatsapp Clone](https://github.com/VctrySam/whatsapp) | Whatsapp Clone app built with React Native | [Demo](https://youtu.be/UQYsVd-rI54) | 
+| [London React](https://github.com/JoeStanton/london-react) | React Native app for the London React Meetup | | 
 
 
 ## VueJS
