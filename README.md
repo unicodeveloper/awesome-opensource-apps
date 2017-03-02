@@ -173,6 +173,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | Name | Description | Link |
 |------|-------------|------|
 | [Yahoo Finance](https://github.com/7kfpun/FinanceReactNative) | iOS's Stocks App clone written in React Native for demo purpose (available both iOS and Android). Data is pulled from Yahoo Finance. | [App on Play Store](https://play.google.com/store/apps/details?id=com.kfpun.finance) |
+| [Pokemon Go Clone](https://github.com/VctrySam/Pokemon) | Pokemon Go in React Native. | [Demo](https://youtu.be/RG6FFL2ny3s)|
 
 
 ## VueJS
