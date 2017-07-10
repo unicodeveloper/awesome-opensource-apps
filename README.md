@@ -199,3 +199,4 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Friendlychat](https://github.com/firebase/friendlychat) | Firebase codelab for building a cross-platform chat app | |
 | [Friendlypix](https://github.com/firebase/friendlypix) | FriendlyPix is a cross-platform Firebase example app | |
 | [Firefeed](https://github.com/firebase/firefeed) | Firefeed is a web app that lets users post small messages called sparks to their feed. | |
+| [Fun Retro](https://github.com/funretro/distributed) | Fun Retro is a distributed retrospective app that is easy and simple to use. | |
