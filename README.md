@@ -141,6 +141,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Google I/O Scheduler](https://github.com/google/iosched) | Offcial Android app for Google I/O | [https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched](https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched) |
 | [Project Frisbee](https://github.com/gdg-x/frisbee) | All GDG content in one place | [https://play.google.com/store/apps/details?id=org.gdg.frisbee.android](https://play.google.com/store/apps/details?id=org.gdg.frisbee.android) |
 | [Wallsplash](https://github.com/mikepenz/wallsplash-android) | Wallsplash is the cutting edge wallpaper app for your device! | https://play.google.com/store/apps/details?id=com.mikepenz.unsplash |
+| [Easy Diary](https://github.com/hanjoongcho/aaf-easydiary) | This is a diary application optimized to user experience. | https://play.google.com/store/apps/details?id=me.blog.korn123.easydiary |
 
 ## Meteor
 
