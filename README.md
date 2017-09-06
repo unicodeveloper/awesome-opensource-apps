@@ -173,6 +173,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Perseus](https://github.com/Khan/perseus) | Perseus is Khan Academy's new exercise question editor and renderer | [http://khan.github.io/perseus](http://khan.github.io/perseus) |
 | [Favesound-redux](https://github.com/rwieruch/favesound-redux) | The SoundCloud Client in React + Redux made with passion! | [http://www.robinwieruch.de/the-soundcloud-client-in-react-redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux) |
 | [How to GraphQL](https://github.com/howtographql/howtographql) | The Fullstack Tutorial for GraphQL | [https://www.howtographql.com](https://www.howtographql.com) |
+| [Picatic - Ticketing Selling](https://github.com/picatic/picatic-examples/tree/master/react-checkout) | Ticketing widget built with create-react-app | [http://developer.picatic.com/](http://developer.picatic.com/) |
 
 
 ## React Native
