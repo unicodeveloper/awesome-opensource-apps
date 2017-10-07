@@ -18,6 +18,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 - [ReactNative](#react-native)
 - [VueJS](#vuejs)
 - [Firebase](#firebase)
+- [Amber](#amber)
 
 
 ## Laravel
@@ -207,3 +208,9 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Friendlypix](https://github.com/firebase/friendlypix) | FriendlyPix is a cross-platform Firebase example app | |
 | [Firefeed](https://github.com/firebase/firefeed) | Firefeed is a web app that lets users post small messages called sparks to their feed. | |
 | [Fun Retro](https://github.com/funretro/distributed) | Fun Retro is a distributed retrospective app that is easy and simple to use. | |
+
+## Amber
+
+| Name | Description | Link |
+|------|-------------|------|
+| [Crystal ANN](https://github.com/crystal-community/crystal-ann) | Web site to announce new [Crystal](https://crystal-lang.org/) projects, blog posts, updates and other work activities | [https://crystal-ann.com](https://crystal-ann.com) |
