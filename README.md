@@ -87,7 +87,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [FlyMyShop](https://github.com/aasisvinayak/flymyshop) |  An e-commerce platform for online merchants. | [https://flymyshop.com](https://flymyshop.com) |
 | [Laravel GitScrum](https://github.com/renatomarinho/laravel-gitscrum) | GitScrum is a project to help developer team. | |
 | [MIT-2014-2015-YEARBOOK](https://github.com/iamraphson/MIT-2014-2015-YEARBOOK) |  E-YearBook for 2014/2015 UNILAG MIT students  | [http://unilagmitfaces.ml](http://unilagmitfaces.ml/) | |
-| [Despark's igniCMS](https://github.com/despark/ignicms) |  Simple Laravel Based CMS, which allows you to generate content management modules based on your app's models   | [https://despark.com/](https://despark.com/) |
+| [Despark's igniCMS](https://github.com/despark/igni-core) |  Easy to use featherlight CMS, which provides you with a shortcut to bootstrapping the backend of PHP (Laravel), MySQL based projects.   | [https://despark.com/](https://despark.com/) |
 | [Voten](https://github.com/voten-co/voten) | Voten.co is a real-time social bookmarking platform for the 21st century| [https://voten.co](https://voten.co/) |
 | [Handesk](https://github.com/BadChoice/handesk) |  A Powerful Laravel Help Desk and Lead Management App. | |
 | [Multitrust](https://github.com/BadChoice/handesk) |  Latest roles and permission for multi-auth or single-auth. | [https://hellolaravel.org/mk/multitrust/](https://hellolaravel.org/mk/multitrust/) |
