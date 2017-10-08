@@ -198,6 +198,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | Name | Description | Link |
 |------|-------------|------|
 | [Attendant](https://github.com/phppirate/attendant) | Laravel Valet GUI - An app to monitor your sites running on Valet. Packaged with Electron |
+| [Vuetify](https://github.com/vuetifyjs/vuetify) | Material Component Framework for Vue.js 2 |
 
 
 ## Firebase
