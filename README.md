@@ -12,7 +12,6 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 - [Rails](#rails)
 - [Django](#django)
 - [Android](#android)
-- [iOS](#iOs)
 - [Meteor](#meteor)
 - [ReactJS](#reactjs)
 - [ReactNative](#react-native)
