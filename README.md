@@ -199,7 +199,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | Name | Description | Link |
 |------|-------------|------|
 | [Attendant](https://github.com/phppirate/attendant) | Laravel Valet GUI - An app to monitor your sites running on Valet. Packaged with Electron |
-
+| [Bolognese Timer](https://github.com/vmarcosp/bolognese-timer) | Pomodoro Timer - A simple and configurable pomodoro timer. | https://bolognesetimer.netlify.com/#/ |
 
 ## Firebase
 | Name | Description | Link |
