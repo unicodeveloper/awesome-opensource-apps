@@ -24,6 +24,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 
 | Name | Description | Link |
 |------|-------------|------|
+| [Admin Architect](http://github.com/adminarchitect/core) | Administration Framework. Active Admin for Laravel | [http://adminarchitect.com](http://adminarchitect.com) |
 | [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) | Invoice Generation System | [https://www.invoiceninja.com](https://www.invoiceninja.com) |
 | [Koel](https://github.com/phanan/koel) | A personal music streaming server that works | [http://koel.phanan.net](http://koel.phanan.net) |
 | [Faveo](https://github.com/ladybirdweb/faveo-helpdesk) | Helpdesk Ticketing System | [http://www.faveohelpdesk.com](http://www.faveohelpdesk.com) |
