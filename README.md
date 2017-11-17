@@ -194,6 +194,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [London React](https://github.com/JoeStanton/london-react) | React Native app for the London React Meetup | | 
 | [Snapchat Clone](https://github.com/VctrySam/SnapChat)| SnapChat clone written with React Native | [Demo](https://www.youtube.com/watch?v=sStf_ZbTXss) |
 | [Civis Face](https://github.com/civisanalytics/CivisFace)| An app for exploring facial recognition using react-native, AWS Rekognition, and AWS Polly. | [Demo](https://www.youtube.com/watch?v=hBKbCzUa5aA) |
+| [Standard Notes](https://github.com/standardnotes/mobile) | A simple and private notes app | [App on Play Store](https://play.google.com/store/apps/details?id=com.standardnotes) |
 
 
 ## VueJS
