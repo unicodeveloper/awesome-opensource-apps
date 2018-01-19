@@ -26,6 +26,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 |------|-------------|------|
 | [Admin Architect](http://github.com/adminarchitect/core) | Administration Framework. Active Admin for Laravel | [http://adminarchitect.com](http://adminarchitect.com) |
 | [Akaunting](https://github.com/akaunting/akaunting) | Free and Online Accounting Software | [https://akaunting.com](https://akaunting.com) |
+| [Laracom](https://github.com/jsdecena/laracom) | FREE E-Commerce Software | [https://laracom.net](https://laracom.net) |
 | [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) | Invoice Generation System | [https://www.invoiceninja.com](https://www.invoiceninja.com) |
 | [Koel](https://github.com/phanan/koel) | A personal music streaming server that works | [http://koel.phanan.net](http://koel.phanan.net) |
 | [Faveo](https://github.com/ladybirdweb/faveo-helpdesk) | Helpdesk Ticketing System | [http://www.faveohelpdesk.com](http://www.faveohelpdesk.com) |
