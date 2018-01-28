@@ -145,6 +145,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Wallsplash](https://github.com/mikepenz/wallsplash-android) | Wallsplash is the cutting edge wallpaper app for your device! | https://play.google.com/store/apps/details?id=com.mikepenz.unsplash |
 | [Easy Diary](https://github.com/hanjoongcho/aaf-easydiary) | This is a diary application optimized to user experience. | https://play.google.com/store/apps/details?id=me.blog.korn123.easydiary |
 | [Easy Photo Map](https://github.com/hanjoongcho/aaf-easyphotomap) | Easy Photo Map is a photomap application that displays the location of the photo on the map using the location information included in the photo. | https://play.google.com/store/apps/details?id=me.blog.korn123.easyphotomap |
+| [Easy Password](https://github.com/hanjoongcho/aaf-easypassword) | A password manager using a single lock pattern for various type passwords management. | https://play.google.com/store/apps/details?id=io.github.hanjoongcho.easypassword |
 
 ## Meteor
 
