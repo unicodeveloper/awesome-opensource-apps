@@ -24,6 +24,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 
 | Name | Description | Link |
 |------|-------------|------|
+| [AbuseIO](https://github.com/AbuseIO/AbuseIO) | Abuse Management for network operators | [https://abuse.io](https://abuse.io) |
 | [Admin Architect](http://github.com/adminarchitect/core) | Administration Framework. Active Admin for Laravel | [http://adminarchitect.com](http://adminarchitect.com) |
 | [Akaunting](https://github.com/akaunting/akaunting) | Free and Online Accounting Software | [https://akaunting.com](https://akaunting.com) |
 | [Laracom](https://github.com/jsdecena/laracom) | FREE E-Commerce Software | [https://laracom.net](https://laracom.net) |
@@ -67,7 +68,6 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Scrumwala](https://github.com/modestkdr/Scrumwala) | Your very own Scrum/Agile web app for personal use | |
 | [SnipeIT](https://github.com/snipe/snipe-it) | IT Asset/license Management System | [http://snipeitapp.com](http://snipeitapp.com) |
 | [Neontsunami](https://github.com/dwightwatson/neontsunami) | Personal Website and blog | [http://www.neontsunami.com](http://www.neontsunami.com) |
-| [AbuseIO](https://github.com/AbuseIO/AbuseIO) | Abuse Management for network operators | [https://abuse.io] |
 | [Nahid.co](https://github.com/nahid/nahid.co) | Personal Portfolio and blog project | [http://nahid.co](http://nahid.co) |
 | [Laramap](https://github.com/laramap/laramap.com) | A Map of Laravel Developers | [https://laramap.com](https://laramap.com) |
 | [Learn Party](https://github.com/andela-jkariuki/checkpoint-four-learn-party) | A Dead Simple Learning Management System | [https://learn-party.herokuapp.com](https://learn-party.herokuapp.com) |
