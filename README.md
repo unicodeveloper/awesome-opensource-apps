@@ -181,6 +181,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Favesound-redux](https://github.com/rwieruch/favesound-redux) | The SoundCloud Client in React + Redux made with passion! | [http://www.robinwieruch.de/the-soundcloud-client-in-react-redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux) |
 | [How to GraphQL](https://github.com/howtographql/howtographql) | The Fullstack Tutorial for GraphQL | [https://www.howtographql.com](https://www.howtographql.com) |
 | [Picatic - Ticketing Selling](https://github.com/picatic/picatic-examples/tree/master/react-checkout) | Ticketing widget built with create-react-app | [http://developer.picatic.com/](http://developer.picatic.com/) |
+| [Github Desktop](https://github.com/desktop/desktop) | Git client on Mac & Windows | [https://desktop.github.com](https://desktop.github.com) |
 
 
 ## React Native
