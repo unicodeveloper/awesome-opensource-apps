@@ -95,6 +95,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Voten](https://github.com/voten-co/voten) | Voten.co is a real-time social bookmarking platform for the 21st century| [https://voten.co](https://voten.co/) |
 | [Handesk](https://github.com/BadChoice/handesk) |  A Powerful Laravel Help Desk and Lead Management App. | |
 | [Multitrust](https://github.com/BadChoice/handesk) |  Latest roles and permission for multi-auth or single-auth. | [https://hellolaravel.org/mk/multitrust/](https://hellolaravel.org/mk/multitrust/) |
+| [VotePen](https://github.com/VotePen/VotePen) |  Online Bookmarking System, Best Alternative to Reddit. | |
 
 ## Rails
 
