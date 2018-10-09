@@ -137,6 +137,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Wagtail](https://github.com/torchbox/wagtail) | A Django content management system focused on flexibility and user experience | [http://wagtail.io](http://wagtail.io) |
 | [Django-leonardo](https://github.com/django-leonardo/django-leonardo) | CMS for everyone, easy to deploy and scale, robust modular system with many packages | [https://www.leonardo-cms.org](https://www.leonardo-cms.org) |
 | [Mayan EDMS](https://gitlab.com/mayan-edms/mayan-edms) | Django based document management system with OCR, indexing, full text searching, previewing and more | [https://www.mayan-edms.com/](https://www.mayan-edms.com/) |
+| [Travel Mate Server](https://github.com/project-travel-mate/server) | Django based document management system with OCR, indexing, full text searching, previewing and more | [App on PlayStore](https://goo.gl/1iAq94) |
 
 
 ## Android
