@@ -96,6 +96,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Handesk](https://github.com/BadChoice/handesk) |  A Powerful Laravel Help Desk and Lead Management App. | |
 | [Multitrust](https://github.com/BadChoice/handesk) |  Latest roles and permission for multi-auth or single-auth. | [https://hellolaravel.org/mk/multitrust/](https://hellolaravel.org/mk/multitrust/) |
 | [VotePen](https://github.com/VotePen/VotePen) |  Online Bookmarking System, Best Alternative to Reddit. | |
+| [Library Management System](https://github.com/prabhakar267/library-management-system) | An automated system to manage a public library. Admin panel for librarians to control and manage the system easily through an interactive interface. | |
 
 ## Rails
 
