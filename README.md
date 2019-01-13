@@ -19,6 +19,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 - [Firebase](#firebase)
 - [Amber](#amber)
 - [C#](#c#)
+- [Node.js](#nodejs)
 
 
 ## Laravel
@@ -229,3 +230,8 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | Name | Description | Link |
 |------|-------------|------|
 | [MySQL Database Library](https://github.com/Ezeji/MySQL-Database-Library) | C# tool for seamless MySQL connection and CRUD operations | [https://medium.com/@franklinezeji/mysql-database-library-for-c-developers-4bec985dc009](https://medium.com/@franklinezeji/mysql-database-library-for-c-developers-4bec985dc009) |
+
+## NodeJS
+| Name | Description | Link |
+|------|-------------|------|
+| [Twitter Sentiment Visualisations](https://github.com/Lissy93/twitter-sentiment-visualisation) | Sentiment analysis on realtime social data, with lots of cool data visualisations | [http://sentiment-sweep.com/](http://sentiment-sweep.com/) |
