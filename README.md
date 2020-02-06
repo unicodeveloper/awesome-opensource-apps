@@ -19,7 +19,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 - [Firebase](#firebase)
 - [Amber](#amber)
 - [C#](#c#)
-
+- [Yii](#yii)
 
 ## Laravel
 
@@ -230,3 +230,21 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | Name | Description | Link |
 |------|-------------|------|
 | [MySQL Database Library](https://github.com/Ezeji/MySQL-Database-Library) | C# tool for seamless MySQL connection and CRUD operations | [https://medium.com/@franklinezeji/mysql-database-library-for-c-developers-4bec985dc009](https://medium.com/@franklinezeji/mysql-database-library-for-c-developers-4bec985dc009) |
+
+## Yii
+
+| Name | Description | Link |
+|------|-------------|------|
+| [LUYA CMS](https://github.com/luyadev/luya) | a scalable web framework and content management system with the goal to please developers, clients and users alike | [https://demo.luya.io/](https://demo.luya.io/) |
+| Open-School | School Management Software | [https://open-school.org/](https://open-school.org/) |
+| HumHub | Social Network Software | [https://www.humhub.org/en](https://www.humhub.org/en) |
+| YiiPowered | showcase | [https://yiipowered.com](https://yiipowered.com) |
+| LimeSurvey | open source survey software | [https://www.limesurvey.org/](https://www.limesurvey.org/) |
+| Craft CMS | CMS | [https://craftcms.com/](https://craftcms.com/) |
+| 2gis | GIS | [https://2gis.ru/](https://2gis.ru/) |
+| Codermap | Social Network Software | [https://codermap.io](https://codermap.io) |
+| Russian Yii community | Community Software | [http://yiiframework.ru/](http://yiiframework.ru/) |
+| Yupe | CMS, Ecommerce | [https://yupe.ru](https://yupe.ru) |
+| Economizzer | Open Source Personal Finance Manager | [http://www.economizzer.org/](http://www.economizzer.org/) |
+| Asset Packagist | composer compatible repository | [https://asset-packagist.org/](https://asset-packagist.org/) |
+ 
