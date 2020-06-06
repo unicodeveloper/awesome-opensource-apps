@@ -129,7 +129,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 
 | Name | Description | Link |
 |------|-------------|------|
-| [Lazylead](https://lazylead.org) | Self-hosted application that allows you to manage routine, annoying tasks within the ticketing systems like JIRA, GitHub, Trello. | [https://github.com/dgroup/lazylead] |
+| [Lazylead](https://lazylead.org) | Self-hosted application that allows you to manage routine, annoying tasks within the ticketing systems like JIRA, GitHub, Trello. | https://github.com/dgroup/lazylead |
 
 ## Django
 
