@@ -1,6 +1,6 @@
 # Awesome-opensource-apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
 
-> An awesome curated list of open source crafted web & mobile applications - Learn, Fork, Contribute &amp; Most Importantly Enjoy!.
+> An awesome curated list of open source crafted web & mobile applications - Learn, Fork, Contribute &amp; Most Importantly Enjoy!
 
 You want to develop an app, write tests for a feature or implement a feature and you don't know how to go about it, there might just be one app/repository here with the solution to your problem.
 
@@ -19,6 +19,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 - [Firebase](#firebase)
 - [Amber](#amber)
 - [C#](#c#)
+- [Electron](#electron)
 
 
 ## Laravel
@@ -235,3 +236,8 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | Name | Description | Link |
 |------|-------------|------|
 | [MySQL Database Library](https://github.com/Ezeji/MySQL-Database-Library) | C# tool for seamless MySQL connection and CRUD operations | [https://medium.com/@franklinezeji/mysql-database-library-for-c-developers-4bec985dc009](https://medium.com/@franklinezeji/mysql-database-library-for-c-developers-4bec985dc009) |
+
+## Electron
+| Name | Description | Link |
+|------|-------------|------|
+| [ExifCleaner](https://exifcleaner.com) | Cross platform desktop app to remove exif metadata from images | [https://exifcleaner.com](https://exifcleaner.com)
