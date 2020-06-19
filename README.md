@@ -169,6 +169,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 ## ReactJS
 | Name | Description | Link |
 |------|-------------|------|
+| [Filestash](https://github.com/mickael-kerjean/filestash) | A Dropbox like file manager built in React | [https://filestash.app](https://filestash.app) |
 | [microapps-donation](https://github.com/iamraphson/microapps-donation) | A single page application that allows people to donate money | [https://microapp-donation.herokuapp.com](https://microapp-donation.herokuapp.com/) |
 | [Feednext](https://github.com/feednext/feednext) | A central source of object reviewing | [https://feednext.io](https://feednext.io) |
 | [docue](https://github.com/kevgathuku/docue) | Document Management System With React Frontend | [https://docue.herokuapp.com](https://docue.herokuapp.com) |
