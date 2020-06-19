@@ -95,6 +95,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Voten](https://github.com/voten-co/voten) | Voten.co is a real-time social bookmarking platform for the 21st century| [https://voten.co](https://voten.co/) |
 | [Handesk](https://github.com/BadChoice/handesk) |  A Powerful Laravel Help Desk and Lead Management App. | |
 | [Multitrust](https://github.com/BadChoice/handesk) |  Latest roles and permission for multi-auth or single-auth. | [https://hellolaravel.org/mk/multitrust/](https://hellolaravel.org/mk/multitrust/) |
+| [Unifiedtransform](https://github.com/changeweb/Unifiedtransform) |  A School Management Software. | [https://changeweb.github.io/Unifiedtransform/](https://changeweb.github.io/Unifiedtransform/) | |
 
 ## Rails
 
@@ -128,7 +129,6 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | Name | Description | Link |
 |------|-------------|------|
 | [Shoop](https://github.com/shoopio/shoop) | E-commerce Platform | [https://shoop.io](https://shoop.io) |
-| [Codango](https://github.com/andela/codango) | Social Network for Coders | |
 | [Django-CMS](https://github.com/divio/django-cms) | Easy to use and developer friendly CMS | [http://www.django-cms.org](http://www.django-cms.org) |
 | [Django-fiber](https://github.com/ridethepony/django-fiber) | A simple, user-friendly CMS for all your Django projects | [http://ridethepony.org](http://ridethepony.org) |
 | [Feincms](https://github.com/feincms/feincms) | A Django-based CMS with a focus on extensibility and concise code | [http://www.feincms.org](http://www.feincms.org) |
@@ -149,6 +149,8 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Easy Diary](https://github.com/hanjoongcho/aaf-easydiary) | This is a diary application optimized to user experience. | https://play.google.com/store/apps/details?id=me.blog.korn123.easydiary |
 | [Easy Photo Map](https://github.com/hanjoongcho/aaf-easyphotomap) | Easy Photo Map is a photomap application that displays the location of the photo on the map using the location information included in the photo. | https://play.google.com/store/apps/details?id=me.blog.korn123.easyphotomap |
 | [Easy Password](https://github.com/hanjoongcho/aaf-easypassword) | A password manager using a single lock pattern for various type passwords management. | https://play.google.com/store/apps/details?id=io.github.hanjoongcho.easypassword |
+| [Applozic Chat App](https://github.com/AppLozic/Applozic-Android-SDK) | Open source Android Chat SDK / Messaging SDK that lets you add real time chat and in-app messaging in your mobile (android, iOS) applications and website. | https://play.google.com/store/apps/details?id=com.applozic.messenger |
+
 
 ## Meteor
 
@@ -166,6 +168,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | Name | Description | Link |
 |------|-------------|------|
 | [microapps-donation](https://github.com/iamraphson/microapps-donation) | A single page application that allows people to donate money | [https://microapp-donation.herokuapp.com](https://microapp-donation.herokuapp.com/) |
+| [Feednext](https://github.com/feednext/feednext) | A central source of object reviewing | [https://feednext.io](https://feednext.io) |
 | [docue](https://github.com/kevgathuku/docue) | Document Management System With React Frontend | [https://docue.herokuapp.com](https://docue.herokuapp.com) |
 |[MERNMAP](https://github.com/iamraphson/mernmap) | An interactive map for MERN(MongoDB, ExpressJS, ReactJS, NodeJS) Stack Developers | [http://mernmap.herokuapp.com](http://mernmap.herokuapp.com/) |
 | [Cerebro](https://github.com/KELiON/cerebro) | One-input productivity booster | [http://www.cerebroapp.com](http://www.cerebroapp.com) |
@@ -183,6 +186,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [How to GraphQL](https://github.com/howtographql/howtographql) | The Fullstack Tutorial for GraphQL | [https://www.howtographql.com](https://www.howtographql.com) |
 | [Picatic - Ticketing Selling](https://github.com/picatic/picatic-examples/tree/master/react-checkout) | Ticketing widget built with create-react-app | [http://developer.picatic.com/](http://developer.picatic.com/) |
 | [Github Desktop](https://github.com/desktop/desktop) | Git client on Mac & Windows | [https://desktop.github.com](https://desktop.github.com) |
+| [react-handsontable](https://github.com/handsontable/react-handsontable) | A React wrapper for the the Handsontable spreadsheet component. | [https://handsontable.com](https://handsontable.com) |   |   |   |
 
 
 ## React Native
@@ -201,12 +205,14 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Snapchat Clone](https://github.com/VctrySam/SnapChat)| SnapChat clone written with React Native | [Demo](https://www.youtube.com/watch?v=sStf_ZbTXss) |
 | [Civis Face](https://github.com/civisanalytics/CivisFace)| An app for exploring facial recognition using react-native, AWS Rekognition, and AWS Polly. | [Demo](https://www.youtube.com/watch?v=hBKbCzUa5aA) |
 | [Standard Notes](https://github.com/standardnotes/mobile) | A simple and private notes app | [App on Play Store](https://play.google.com/store/apps/details?id=com.standardnotes) |
+| [Ulangi](https://github.com/ulangi/ulangi) | A flashcard app to learn language with different learning methods | [App on Play Store](https://play.google.com/store/apps/details?id=com.ulangi) |
 
 
 ## VueJS
 | Name | Description | Link |
 |------|-------------|------|
 | [Attendant](https://github.com/phppirate/attendant) | Laravel Valet GUI - An app to monitor your sites running on Valet. Packaged with Electron |
+| [vue-handsontable-official](https://github.com/handsontable/vue-handsontable-official) | Vue.js wrappers for the Handsontable and Handsontable Pro spreadsheet components. | [https://handsontable.com](https://handsontable.com)  |   |
 
 
 ## Firebase
