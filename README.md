@@ -117,7 +117,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Squash](https://github.com/SquareSquash/web) | Collection of tools that helps developers find and kill bugs | [http://squash.io](http://squash.io) |
 | [Eventx](https://github.com/andela/eventx) | Event Management System without Hassle | [http://www.eventtx.com](http://www.eventtx.com) |
 | [Fulcrum](https://github.com/fulcrum-agile/fulcrum) | Agile Project Management Tool | [http://wholemeal.co.nz/projects/fulcrum.html](http://wholemeal.co.nz/projects/fulcrum.html) |
-| [Spree](https://github.com/spree/spree) | Ecommerce Solution | [http://spreecommerce.com](http://spreecommerce.com) |
+| [Spree](https://github.com/spree/spree) | E-commerce Solution | [http://spreecommerce.com](http://spreecommerce.com) |
 | [RedMine](https://github.com/edavis10/redmine) | Project Management Application | [http://www.redmine.org](http://www.redmine.org) |
 | [Diaspora](https://github.com/diaspora/diaspora) | Distributed Social Network | [https://diasporafoundation.org](https://diasporafoundation.org) |
 | [SprintApp](https://github.com/macfanatic/SprintApp) | Time tracking and Project Management App | [http://www.sprintapp.com](http://www.sprintapp.com) |
@@ -214,6 +214,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | Name | Description | Link |
 |------|-------------|------|
 | [Attendant](https://github.com/phppirate/attendant) | Laravel Valet GUI - An app to monitor your sites running on Valet. Packaged with Electron |
+| [vue-music163](https://github.com/pluto1114/vue-music163)| A Vue.js app for music| |
 | [vue-handsontable-official](https://github.com/handsontable/vue-handsontable-official) | Vue.js wrappers for the Handsontable and Handsontable Pro spreadsheet components. | [https://handsontable.com](https://handsontable.com)  |   |
 
 
