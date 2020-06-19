@@ -1,6 +1,6 @@
 # Awesome-opensource-apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
 
-> An awesome curated list of open source crafted web & mobile applications - Learn, Fork, Contribute &amp; Most Importantly Enjoy!.
+> An awesome curated list of open source crafted web & mobile applications - Learn, Fork, Contribute &amp; Most Importantly Enjoy!
 
 You want to develop an app, write tests for a feature or implement a feature and you don't know how to go about it, there might just be one app/repository here with the solution to your problem.
 
@@ -19,6 +19,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 - [Firebase](#firebase)
 - [Amber](#amber)
 - [C#](#c#)
+- [Electron](#electron)
 
 
 ## Laravel
@@ -95,7 +96,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Voten](https://github.com/voten-co/voten) | Voten.co is a real-time social bookmarking platform for the 21st century| [https://voten.co](https://voten.co/) |
 | [Handesk](https://github.com/BadChoice/handesk) |  A Powerful Laravel Help Desk and Lead Management App. | |
 | [Multitrust](https://github.com/BadChoice/handesk) |  Latest roles and permission for multi-auth or single-auth. | [https://hellolaravel.org/mk/multitrust/](https://hellolaravel.org/mk/multitrust/) |
-| [VotePen](https://github.com/VotePen/VotePen) |  Online Bookmarking System, Best Alternative to Reddit. | |
+| [Unifiedtransform](https://github.com/changeweb/Unifiedtransform) |  A School Management Software. | [https://changeweb.github.io/Unifiedtransform/](https://changeweb.github.io/Unifiedtransform/) | |
 
 ## Rails
 
@@ -136,6 +137,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Wagtail](https://github.com/torchbox/wagtail) | A Django content management system focused on flexibility and user experience | [http://wagtail.io](http://wagtail.io) |
 | [Django-leonardo](https://github.com/django-leonardo/django-leonardo) | CMS for everyone, easy to deploy and scale, robust modular system with many packages | [https://www.leonardo-cms.org](https://www.leonardo-cms.org) |
 | [Mayan EDMS](https://gitlab.com/mayan-edms/mayan-edms) | Django based document management system with OCR, indexing, full text searching, previewing and more | [https://www.mayan-edms.com/](https://www.mayan-edms.com/) |
+| [Travel Mate Server](https://github.com/project-travel-mate/server) | Django based document management system with OCR, indexing, full text searching, previewing and more | [App on PlayStore](https://goo.gl/1iAq94) |
 
 
 ## Android
@@ -149,6 +151,8 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Easy Diary](https://github.com/hanjoongcho/aaf-easydiary) | This is a diary application optimized to user experience. | https://play.google.com/store/apps/details?id=me.blog.korn123.easydiary |
 | [Easy Photo Map](https://github.com/hanjoongcho/aaf-easyphotomap) | Easy Photo Map is a photomap application that displays the location of the photo on the map using the location information included in the photo. | https://play.google.com/store/apps/details?id=me.blog.korn123.easyphotomap |
 | [Easy Password](https://github.com/hanjoongcho/aaf-easypassword) | A password manager using a single lock pattern for various type passwords management. | https://play.google.com/store/apps/details?id=io.github.hanjoongcho.easypassword |
+| [Applozic Chat App](https://github.com/AppLozic/Applozic-Android-SDK) | Open source Android Chat SDK / Messaging SDK that lets you add real time chat and in-app messaging in your mobile (android, iOS) applications and website. | https://play.google.com/store/apps/details?id=com.applozic.messenger |
+
 
 ## Meteor
 
@@ -166,6 +170,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | Name | Description | Link |
 |------|-------------|------|
 | [microapps-donation](https://github.com/iamraphson/microapps-donation) | A single page application that allows people to donate money | [https://microapp-donation.herokuapp.com](https://microapp-donation.herokuapp.com/) |
+| [Feednext](https://github.com/feednext/feednext) | A central source of object reviewing | [https://feednext.io](https://feednext.io) |
 | [docue](https://github.com/kevgathuku/docue) | Document Management System With React Frontend | [https://docue.herokuapp.com](https://docue.herokuapp.com) |
 |[MERNMAP](https://github.com/iamraphson/mernmap) | An interactive map for MERN(MongoDB, ExpressJS, ReactJS, NodeJS) Stack Developers | [http://mernmap.herokuapp.com](http://mernmap.herokuapp.com/) |
 | [Cerebro](https://github.com/KELiON/cerebro) | One-input productivity booster | [http://www.cerebroapp.com](http://www.cerebroapp.com) |
@@ -177,12 +182,13 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [In-Browser Playground](https://github.com/fatiherikli/fil) | A playground for in-browser interpreters. Built with React/Redux. | [http://fatiherikli.github.io/fil](http://fatiherikli.github.io/fil) |
 | [Spectacle](https://github.com/FormidableLabs/spectacle) | A React library for Deck/Slide Presentations. | [http://stack.formidable.com/spectacle](https://github.com/FormidableLabs/spectacle) |
 | [Google Map Clustering](https://github.com/istarkov/google-map-clustering-example) | A Google Map Clustering Example | [http://istarkov.github.io/google-map-clustering-example](http://istarkov.github.io/google-map-clustering-example) |
-| [Kinematic](https://github.com/docker/kitematic) | Visual Docker Container Management on Mac & Windows | [https://github.com/docker/kitematic](https://github.com/docker/kitematic) |
+| [Kitematic](https://github.com/docker/kitematic) | Visual Docker Container Management on Mac & Windows | [https://github.com/docker/kitematic](https://github.com/docker/kitematic) |
 | [Perseus](https://github.com/Khan/perseus) | Perseus is Khan Academy's new exercise question editor and renderer | [http://khan.github.io/perseus](http://khan.github.io/perseus) |
 | [Favesound-redux](https://github.com/rwieruch/favesound-redux) | The SoundCloud Client in React + Redux made with passion! | [http://www.robinwieruch.de/the-soundcloud-client-in-react-redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux) |
 | [How to GraphQL](https://github.com/howtographql/howtographql) | The Fullstack Tutorial for GraphQL | [https://www.howtographql.com](https://www.howtographql.com) |
 | [Picatic - Ticketing Selling](https://github.com/picatic/picatic-examples/tree/master/react-checkout) | Ticketing widget built with create-react-app | [http://developer.picatic.com/](http://developer.picatic.com/) |
 | [Github Desktop](https://github.com/desktop/desktop) | Git client on Mac & Windows | [https://desktop.github.com](https://desktop.github.com) |
+| [react-handsontable](https://github.com/handsontable/react-handsontable) | A React wrapper for the the Handsontable spreadsheet component. | [https://handsontable.com](https://handsontable.com) |   |   |   |
 
 
 ## React Native
@@ -209,7 +215,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 |------|-------------|------|
 | [Attendant](https://github.com/phppirate/attendant) | Laravel Valet GUI - An app to monitor your sites running on Valet. Packaged with Electron |
 | [vue-music163](https://github.com/pluto1114/vue-music163)| A Vue.js app for music| |
-| [VueCompomnentGenerator](https://github.com/ChangJoo-Park/vue-component-generator)| Generate vue single file component on browser. | |
+| [vue-handsontable-official](https://github.com/handsontable/vue-handsontable-official) | Vue.js wrappers for the Handsontable and Handsontable Pro spreadsheet components. | [https://handsontable.com](https://handsontable.com)  |   |
 
 
 ## Firebase
@@ -231,3 +237,8 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | Name | Description | Link |
 |------|-------------|------|
 | [MySQL Database Library](https://github.com/Ezeji/MySQL-Database-Library) | C# tool for seamless MySQL connection and CRUD operations | [https://medium.com/@franklinezeji/mysql-database-library-for-c-developers-4bec985dc009](https://medium.com/@franklinezeji/mysql-database-library-for-c-developers-4bec985dc009) |
+
+## Electron
+| Name | Description | Link |
+|------|-------------|------|
+| [ExifCleaner](https://exifcleaner.com) | Cross platform desktop app to remove exif metadata from images | [https://exifcleaner.com](https://exifcleaner.com)
