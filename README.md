@@ -10,6 +10,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 
 - [Laravel](#laravel)
 - [Rails](#rails)
+- [Ruby](#ruby)
 - [Django](#django)
 - [Android](#android)
 - [Meteor](#meteor)
@@ -124,6 +125,11 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Copycopter](https://github.com/copycopter/copycopter-server) | A service for editing the copy text of a Rails application. | [http://copycopter.com](http://copycopter.com) |
 
 
+## Ruby
+
+| Name | Description | Link |
+|------|-------------|------|
+| [Lazylead](https://lazylead.org) | Self-hosted application that allows automate (without admin access) daily actions with ticketing systems (Jira, GitHub, Trello) like tickets fields verification, email notifications by JQL/GQL, meeting requests to your (or teammates) calendar. | https://github.com/dgroup/lazylead |
 
 ## Django
 
