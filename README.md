@@ -254,3 +254,5 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | Name | Description | Link |
 |------|-------------|------|
 | [ExifCleaner](https://exifcleaner.com) | Cross platform desktop app to remove exif metadata from images | [https://exifcleaner.com](https://exifcleaner.com)
+| [Lavendel](http://github.com/timo-cmd/lavendel) | Cross platform desktop app >2.5kb containing a cute timer | [https://github.com/timo-cmd/Lavendel](https://github.com/timo-cmd/Lavendel)
+
