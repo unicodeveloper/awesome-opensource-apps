@@ -98,6 +98,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Handesk](https://github.com/BadChoice/handesk) |  A Powerful Laravel Help Desk and Lead Management App. | |
 | [Multitrust](https://github.com/BadChoice/handesk) |  Latest roles and permission for multi-auth or single-auth. | [https://hellolaravel.org/mk/multitrust/](https://hellolaravel.org/mk/multitrust/) |
 | [Unifiedtransform](https://github.com/changeweb/Unifiedtransform) |  A School Management Software. | [https://changeweb.github.io/Unifiedtransform/](https://changeweb.github.io/Unifiedtransform/) | |
+| [Tinre](https://github.com/devpri/tinre) |  A fast and powerful URL Shortener built with Laravel, VueJS, and Tailwind CSS. | [https://github.com/devpri/tinre](https://github.com/devpri/tinre) | |
 
 ## Rails
 
