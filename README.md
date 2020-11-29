@@ -164,6 +164,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Applozic Chat App](https://github.com/AppLozic/Applozic-Android-SDK) | Open source Android Chat SDK / Messaging SDK that lets you add real time chat and in-app messaging in your mobile (android, iOS) applications and website. | https://play.google.com/store/apps/details?id=com.applozic.messenger |
 | [InstaGrabber](https://github.com/austinhuang0131/instagrabber) | Open source alternative Instagram client. | https://instagrabber.austinhuang.me |
 | [Simple Random Stock](https://github.com/WillWcchan/Simple-Random-Stock) | A simple application that will randomly select stocks for you. | https://play.google.com/store/apps/details?id=com.willchan.simple_random_stock |
+| [RTranslator](https://github.com/niedev/RTranslator) | World's first open-source simultaneous translation app. | https://play.google.com/store/apps/details?id=nie.translator.rtranslatordevedition |
 
 
 ## Meteor
