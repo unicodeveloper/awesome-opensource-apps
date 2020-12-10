@@ -19,6 +19,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 - [VueJS](#vuejs)
 - [Firebase](#firebase)
 - [Amber](#amber)
+- [Kotlin](#kotlin)
 - [C#](#c#)
 - [Electron](#electron)
 
@@ -239,6 +240,12 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [PriceTrack](https://github.com/duyetdev/pricetrack) | API / Website for E-commerce price tracking. Built with Firebase functions and Firebase Hosting. | |
 
 ## Amber
+
+| Name | Description | Link |
+|------|-------------|------|
+| [Haiku](https://github.com/timo-cmd/haiku) | A small decentralised and private blockchain network written entirely in Kotlin. | [timo-cmd/haiku](https://github.vom/timo-cmd/haiku) |
+
+## Kotlin
 
 | Name | Description | Link |
 |------|-------------|------|
