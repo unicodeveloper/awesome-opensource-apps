@@ -162,7 +162,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Easy Photo Map](https://github.com/hanjoongcho/aaf-easyphotomap) | Easy Photo Map is a photomap application that displays the location of the photo on the map using the location information included in the photo. | https://play.google.com/store/apps/details?id=me.blog.korn123.easyphotomap |
 | [Easy Password](https://github.com/hanjoongcho/aaf-easypassword) | A password manager using a single lock pattern for various type passwords management. | https://play.google.com/store/apps/details?id=io.github.hanjoongcho.easypassword |
 | [Applozic Chat App](https://github.com/AppLozic/Applozic-Android-SDK) | Open source Android Chat SDK / Messaging SDK that lets you add real time chat and in-app messaging in your mobile (android, iOS) applications and website. | https://play.google.com/store/apps/details?id=com.applozic.messenger |
-| [InstaGrabber](https://github.com/austinhuang0131/instagrabber) | Open source alternative Instagram client. | https://instagrabber.austinhuang.me |
+| [Barinsta](https://github.com/austinhuang0131/barinsta) | Open source alternative Instagram client. | https://barinsta.austinhuang.me |
 | [Simple Random Stock](https://github.com/WillWcchan/Simple-Random-Stock) | A simple application that will randomly select stocks for you. | https://play.google.com/store/apps/details?id=com.willchan.simple_random_stock |
 
 
