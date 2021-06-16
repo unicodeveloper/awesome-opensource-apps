@@ -42,7 +42,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Larasites](https://github.com/we-are-next/larasites.com) | Showcasing the best websites made with Laravel & Lumen | [https://www.larasites.com](https://www.larasites.com) |
 | [Openlaravel](https://github.com/ammezie/openlaravel) | A collection of open source projects built using Laravel | [http://openlaravel.com](http://openlaravel.com) |
 | [Flarum](https://github.com/flarum/flarum) | Delightfully simple forum software | [http://flarum.org](http://flarum.org) |
-| [OctoberCMS](https://github.com/octobercms/october) | CMS platform built on Laravel | [http://octobercms.com](http://octobercms.com) |
+| [WinterCMS](https://github.com/wintercms/winter) | CMS platform built on Laravel | [https://wintercms.com/](https://wintercms.com/) |
 | [PyroCMS](https://github.com/pyrocms/pyrocms) | PHP CMS | [https://www.pyrocms.com](https://www.pyrocms.com) |
 | [LavaliteCMS](https://github.com/LavaLite/cms) | CMS built on Laravel 5.2 | [http://www.lavalite.org](http://www.lavalite.org) |
 | [AsgardCMS](https://github.com/AsgardCms/Platform) | A modular multilingual CMS built with Laravel 5 | [http://asgardcms.com](http://asgardcms.com) |
