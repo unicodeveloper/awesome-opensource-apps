@@ -21,6 +21,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 - [Amber](#amber)
 - [C#](#c#)
 - [Electron](#electron)
+- [Nodejs](#Nodejs)
 
 
 ## Laravel
@@ -262,3 +263,13 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [ExifCleaner](https://exifcleaner.com) | Cross platform desktop app to remove exif metadata from images | [https://exifcleaner.com](https://exifcleaner.com)
 | [Lavendel](http://github.com/timo-cmd/lavendel) | Cross platform desktop app >2.5kb containing a cute timer | [https://github.com/timo-cmd/Lavendel](https://github.com/timo-cmd/Lavendel)
 
+## Nodejs
+
+| Name | Description | Link |
+|------|-------------|------|
+| [Next.js PWA](https://github.com/msaaddev/create-next-pwa) | A cross-platform Node.js CLI to create Next.js PWAs using `npx create-next-pwa` | [https://github.com/msaaddev/create-next-pwa](https://github.com/msaaddev/create-next-pwa) |
+| [Tailwind CSS Web Apps](https://github.com/msaaddev/new-tailwind-app) | Set up six different types of Web app with Tailwind CSS integration using a single command | [https://github.com/msaaddev/new-tailwind-app](https://github.com/msaaddev/new-tailwind-app) |
+| [Docx To Markdown Converter](https://github.com/msaaddev/docx-to-markdown) | Convert docx files to markdown using your terminal | [https://github.com/msaaddev/docx-to-markdown](https://github.com/msaaddev/docx-to-markdown) |
+| [IP Address decoder](https://github.com/msaaddev/geo-location-cli) | Get location data of any IP Address within seconds. | [https://github.com/msaaddev/geo-location-cli](https://github.com/msaaddev/geo-location-cli) |
+| [Passwords](https://github.com/msaaddev/password-gen-cli) | Generate Random Secure passwords | [https://github.com/msaaddev/password-gen-cli](https://github.com/msaaddev/password-gen-cli) |
+| [StackOverflow CLI](https://github.com/msaaddev/stackoverflow-cli) | Interact with StackOverflow inside your terminal | [https://github.com/msaaddev/stackoverflow-cli](https://github.com/msaaddev/stackoverflow-cli)
