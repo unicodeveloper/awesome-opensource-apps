@@ -71,7 +71,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Scrumwala](https://github.com/modestkdr/Scrumwala) | Your very own Scrum/Agile web app for personal use | |
 | [SnipeIT](https://github.com/snipe/snipe-it) | IT Asset/license Management System | [http://snipeitapp.com](http://snipeitapp.com) |
 | [Neontsunami](https://github.com/dwightwatson/neontsunami) | Personal Website and blog | [http://www.neontsunami.com](http://www.neontsunami.com) |
-| [Nahid.co](https://github.com/nahid/nahid.co) | Personal Portfolio and blog project | [http://nahid.co](http://nahid.co) |
+| [Nahid.co](https://github.com/nahid/nahid.co) | Personal Portfolio and blog project | |
 | [Laramap](https://github.com/laramap/laramap.com) | A Map of Laravel Developers | [https://laramap.com](https://laramap.com) |
 | [Learn Party](https://github.com/andela-jkariuki/checkpoint-four-learn-party) | A Dead Simple Learning Management System | [https://learn-party.herokuapp.com](https://learn-party.herokuapp.com) |
 | [Techademia](https://github.com/andela-fokosun/Checkpoint4) | Organize Your Youtube Videos to Learn | [http://techademia.herokuapp.com](http://techademia.herokuapp.com) |
