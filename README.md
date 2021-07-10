@@ -92,14 +92,14 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [File Manager](https://github.com/UniSharp/laravel-filemanager) |  A File manager (for CKEditor and TinyMCE) with multi-users support. | |
 | [FlyMyShop](https://github.com/aasisvinayak/flymyshop) |  An e-commerce platform for online merchants. | [https://flymyshop.com](https://flymyshop.com) |
 | [Laravel GitScrum](https://github.com/renatomarinho/laravel-gitscrum) | GitScrum is a project to help developer team. | |
-| [MIT-2014-2015-YEARBOOK](https://github.com/iamraphson/MIT-2014-2015-YEARBOOK) |  E-YearBook for 2014/2015 UNILAG MIT students  | [http://unilagmitfaces.ml](http://unilagmitfaces.ml/) | |
+| [MIT-2014-2015-YEARBOOK](https://github.com/iamraphson/MIT-2014-2015-YEARBOOK) |  E-YearBook for 2014/2015 UNILAG MIT students  | [http://unilagmitfaces.ml](http://unilagmitfaces.ml/) |
 | [Despark's igniCMS](https://github.com/despark/igni-core) |  Easy to use featherlight CMS, which provides you with a shortcut to bootstrapping the backend of PHP (Laravel), MySQL based projects.   | [https://despark.com/](https://despark.com/) |
 | [Voten](https://github.com/voten-co/voten) | Voten.co is a real-time social bookmarking platform for the 21st century| [https://voten.co](https://voten.co/) |
 | [Handesk](https://github.com/BadChoice/handesk) |  A Powerful Laravel Help Desk and Lead Management App. | |
 | [Multitrust](https://github.com/BadChoice/handesk) |  Latest roles and permission for multi-auth or single-auth. | [https://hellolaravel.org/mk/multitrust/](https://hellolaravel.org/mk/multitrust/) |
-| [Unifiedtransform](https://github.com/changeweb/Unifiedtransform) |  A School Management Software. | [https://changeweb.github.io/Unifiedtransform/](https://changeweb.github.io/Unifiedtransform/) | |
-| [Tinre](https://github.com/devpri/tinre) |  A fast and powerful URL Shortener built with Laravel, VueJS, and Tailwind CSS. | [https://github.com/devpri/tinre](https://github.com/devpri/tinre) | |
-| [Taskord](https://gitlab.com/taskord/taskord) |  Get things done socially with community of makers. | [https://taskord.com](https://taskord.com) | |
+| [Unifiedtransform](https://github.com/changeweb/Unifiedtransform) |  A School Management Software. | [https://changeweb.github.io/Unifiedtransform/](https://changeweb.github.io/Unifiedtransform/) |
+| [Tinre](https://github.com/devpri/tinre) |  A fast and powerful URL Shortener built with Laravel, VueJS, and Tailwind CSS. | [https://github.com/devpri/tinre](https://github.com/devpri/tinre) |
+| [Taskord](https://gitlab.com/taskord/taskord) |  Get things done socially with community of makers. | [https://taskord.com](https://taskord.com) |
 
 ## Rails
 
@@ -204,8 +204,8 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Picatic - Ticketing Selling](https://github.com/picatic/picatic-examples/tree/master/react-checkout) | Ticketing widget built with create-react-app | [http://developer.picatic.com/](http://developer.picatic.com/) |
 | [Github Desktop](https://github.com/desktop/desktop) | Git client on Mac & Windows | [https://desktop.github.com](https://desktop.github.com) |
 | [Dnote](https://github.com/dnote/dnote) | A simple command line notebook with a web interface | [https://www.getdnote.com](https://www.getdnote.com) |
-| [react-handsontable](https://github.com/handsontable/react-handsontable) | A React wrapper for the the Handsontable spreadsheet component. | [https://handsontable.com](https://handsontable.com) |   |   |   |
-| [PopCritic](https://github.com/theabbie/PopCritic) | Movies Reviewed by people, for people. | [https://popcritic.web.app/](https://popcritic.web.app/) |   |   |   |
+| [react-handsontable](https://github.com/handsontable/react-handsontable) | A React wrapper for the the Handsontable spreadsheet component. | [https://handsontable.com](https://handsontable.com) |
+| [PopCritic](https://github.com/theabbie/PopCritic) | Movies Reviewed by people, for people. | [https://popcritic.web.app/](https://popcritic.web.app/) |
 
 
 ## React Native
@@ -232,7 +232,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 |------|-------------|------|
 | [Attendant](https://github.com/phppirate/attendant) | Laravel Valet GUI - An app to monitor your sites running on Valet. Packaged with Electron |
 | [vue-music163](https://github.com/pluto1114/vue-music163)| A Vue.js app for music| |
-| [vue-handsontable-official](https://github.com/handsontable/vue-handsontable-official) | Vue.js wrappers for the Handsontable and Handsontable Pro spreadsheet components. | [https://handsontable.com](https://handsontable.com)  |   |
+| [vue-handsontable-official](https://github.com/handsontable/vue-handsontable-official) | Vue.js wrappers for the Handsontable and Handsontable Pro spreadsheet components. | [https://handsontable.com](https://handsontable.com)  |
 
 
 ## Firebase
