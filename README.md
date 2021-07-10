@@ -100,6 +100,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Unifiedtransform](https://github.com/changeweb/Unifiedtransform) |  A School Management Software. | [https://changeweb.github.io/Unifiedtransform/](https://changeweb.github.io/Unifiedtransform/) | |
 | [Tinre](https://github.com/devpri/tinre) |  A fast and powerful URL Shortener built with Laravel, VueJS, and Tailwind CSS. | [https://github.com/devpri/tinre](https://github.com/devpri/tinre) | |
 | [Taskord](https://gitlab.com/taskord/taskord) |  Get things done socially with community of makers. | [https://taskord.com](https://taskord.com) | |
+| [Lychee](https://github.com/LycheeOrg/Lychee/) | A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos. | [lycheeorg.github.io](https://lycheeorg.github.io/) |
 
 ## Rails
 
