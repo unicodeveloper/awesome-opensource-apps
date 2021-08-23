@@ -233,7 +233,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Attendant](https://github.com/phppirate/attendant) | Laravel Valet GUI - An app to monitor your sites running on Valet. Packaged with Electron |
 | [vue-music163](https://github.com/pluto1114/vue-music163)| A Vue.js app for music| |
 | [vue-handsontable-official](https://github.com/handsontable/vue-handsontable-official) | Vue.js wrappers for the Handsontable and Handsontable Pro spreadsheet components. | [https://handsontable.com](https://handsontable.com)  |   |
-
+| [Materio-vuetify-vuejs-admin-template-free](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) | An open source Vuetify Vuejs admin template. | [https://themeselection.com](https://themeselection.com)  |
 
 ## Firebase
 | Name | Description | Link |
