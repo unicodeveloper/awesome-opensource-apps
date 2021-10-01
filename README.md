@@ -39,6 +39,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Laravel Tricks](https://github.com/CodepadME/laravel-tricks) | Laravel Tips and Tricks | [http://laravel-tricks.com](http://laravel-tricks.com) |
 | [Attendize](https://github.com/Attendize/Attendize) | Ticket selling and event management platform | [https://www.attendize.com](https://www.attendize.com) |
 | [Laraadmin](https://github.com/dwijitsolutions/laraadmin) | CRM for quickstart Admin based applications | [http://laraadmin.com](http://laraadmin.com/) |
+| [Materio Free Vuetify VueJS Laravel Admin Template](https://github.com/themeselection/materio-vuetify-vuejs-laravel-admin-template-free) | Open-source & easy to use Vuetify Vuejs Laravel Admin Template with Elegant Design & Unique Layout. | [https://themeselection.com/](https://themeselection.com/) |
 | [Larasites](https://github.com/we-are-next/larasites.com) | Showcasing the best websites made with Laravel & Lumen | [https://www.larasites.com](https://www.larasites.com) |
 | [Openlaravel](https://github.com/ammezie/openlaravel) | A collection of open source projects built using Laravel | [http://openlaravel.com](http://openlaravel.com) |
 | [Flarum](https://github.com/flarum/flarum) | Delightfully simple forum software | [http://flarum.org](http://flarum.org) |
