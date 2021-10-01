@@ -100,6 +100,8 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Unifiedtransform](https://github.com/changeweb/Unifiedtransform) |  A School Management Software. | [https://changeweb.github.io/Unifiedtransform/](https://changeweb.github.io/Unifiedtransform/) | |
 | [Tinre](https://github.com/devpri/tinre) |  A fast and powerful URL Shortener built with Laravel, VueJS, and Tailwind CSS. | [https://github.com/devpri/tinre](https://github.com/devpri/tinre) | |
 | [Taskord](https://gitlab.com/taskord/taskord) |  Get things done socially with community of makers. | [https://taskord.com](https://taskord.com) | |
+| [Materio  Free Vuetify VueJS Laravel Admin Template](https://github.com/themeselection/materio-vuetify-vuejs-laravel-admin-template-free) |  Open-source & easy to use Vuetify Vuejs Laravel Admin Template with Elegant Design & Unique Layout. | [https://themeselection.com/](https://themeselection.com/) | |
+
 
 ## Rails
 
