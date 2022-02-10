@@ -8,19 +8,22 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 
 ## Table of Contents
 
-- [Laravel](#laravel)
-- [Rails](#rails)
-- [Ruby](#ruby)
-- [Django](#django)
-- [Android](#android)
-- [Meteor](#meteor)
-- [ReactJS](#reactjs)
-- [ReactNative](#react-native)
-- [VueJS](#vuejs)
-- [Firebase](#firebase)
-- [Amber](#amber)
-- [C#](#c#)
-- [Electron](#electron)
+- [Awesome-opensource-apps ![Awesome](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)](#awesome-opensource-apps--)
+  - [Table of Contents](#table-of-contents)
+  - [Laravel](#laravel)
+  - [Rails](#rails)
+  - [Ruby](#ruby)
+  - [Django](#django)
+  - [Android](#android)
+  - [Meteor](#meteor)
+  - [ReactJS](#reactjs)
+  - [React Native](#react-native)
+  - [VueJS](#vuejs)
+  - [Firebase](#firebase)
+  - [Amber](#amber)
+  - [C](#c)
+  - [Electron](#electron)
+  - [shell](#shell)
 
 
 ## Laravel
@@ -262,3 +265,8 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [ExifCleaner](https://exifcleaner.com) | Cross platform desktop app to remove exif metadata from images | [https://exifcleaner.com](https://exifcleaner.com)
 | [Lavendel](http://github.com/timo-cmd/lavendel) | Cross platform desktop app >2.5kb containing a cute timer | [https://github.com/timo-cmd/Lavendel](https://github.com/timo-cmd/Lavendel)
 
+
+## Shell
+| Name | Description | Link |
+|------|-------------|------|
+| [betterLockScreen](https://github.com/betterlockscreen/betterlockscreen) | fast and sweet looking lockscreen for linux systems with effects! | [https://github.com/betterlockscreen/betterlockscreen]()
