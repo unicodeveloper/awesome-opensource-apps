@@ -269,4 +269,4 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 ## Shell
 | Name | Description | Link |
 |------|-------------|------|
-| [betterLockScreen](https://github.com/betterlockscreen/betterlockscreen) | fast and sweet looking lockscreen for linux systems with effects! | [PavanJadhaw]()
+| [betterLockScreen](https://github.com/betterlockscreen/betterlockscreen) | fast and sweet looking lockscreen for linux systems with effects! | [https://github.com/betterlockscreen/betterlockscreen]()
