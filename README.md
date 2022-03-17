@@ -206,7 +206,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Dnote](https://github.com/dnote/dnote) | A simple command line notebook with a web interface | [https://www.getdnote.com](https://www.getdnote.com) |
 | [react-handsontable](https://github.com/handsontable/react-handsontable) | A React wrapper for the the Handsontable spreadsheet component. | [https://handsontable.com](https://handsontable.com) |   |   |   |
 | [PopCritic](https://github.com/theabbie/PopCritic) | Movies Reviewed by people, for people. | [https://popcritic.web.app/](https://popcritic.web.app/) |   |   |   |
-
+| [Materio Free MUI React NextJS Admin Template](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free) | Most Powerful & Comprehensive Free MUI React NextJS Admin Dashboard Template built for developers. | [https://themeselection.com/](https://themeselection.com/) |   |   |   |
 
 ## React Native
 | Name | Description | Link |
