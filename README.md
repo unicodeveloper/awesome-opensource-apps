@@ -205,8 +205,8 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Github Desktop](https://github.com/desktop/desktop) | Git client on Mac & Windows | [https://desktop.github.com](https://desktop.github.com) |
 | [Dnote](https://github.com/dnote/dnote) | A simple command line notebook with a web interface | [https://www.getdnote.com](https://www.getdnote.com) |
 | [react-handsontable](https://github.com/handsontable/react-handsontable) | A React wrapper for the the Handsontable spreadsheet component. | [https://handsontable.com](https://handsontable.com) |   |   |   |
-| [PopCritic](https://github.com/theabbie/PopCritic) | Movies Reviewed by people, for people. | [https://popcritic.web.app/](https://popcritic.web.app/) |   |   |   |
-
+| [PopCritic](https://github.com/theabbie/PopCritic) | Movies Reviewed by people, for people. | [https://popcritic.web.app/](https://popcritic.web.app/) |   
+| [Tolgee](https://github.com/tolgee/tolgee-platform)) | Web-based localization platform | [https://tolgee.io](https://tolgee.io) |
 
 ## React Native
 | Name | Description | Link |
