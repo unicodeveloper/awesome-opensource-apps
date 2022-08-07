@@ -12,7 +12,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 - [Rails](#rails)
 - [Ruby](#ruby)
 - [Django](#django)
-- [Android](#android)
+- [Android](#android) 
 - [Meteor](#meteor)
 - [ReactJS](#reactjs)
 - [ReactNative](#react-native)
@@ -268,5 +268,5 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | Name | Description | Link |
 |------|-------------|------|
 | [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) | Open source PDF, eBook (epub, mobi), comic book (cbz/cbr), DjVu, XPS, CHM, image viewer for Windows.
-Small, fast, customizable, free. | [https://github.com/sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) |
+| [https://github.com/sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) 
 
