@@ -21,6 +21,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 - [Amber](#amber)
 - [C#](#c#)
 - [Electron](#electron)
+- [C++](#cpp)
 
 
 ## Laravel
@@ -262,4 +263,10 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 |------|-------------|------|
 | [ExifCleaner](https://exifcleaner.com) | Cross platform desktop app to remove exif metadata from images | [https://exifcleaner.com](https://exifcleaner.com)
 | [Lavendel](http://github.com/timo-cmd/lavendel) | Cross platform desktop app >2.5kb containing a cute timer | [https://github.com/timo-cmd/Lavendel](https://github.com/timo-cmd/Lavendel)
+
+## C++
+| Name | Description | Link |
+|------|-------------|------|
+| [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) | Open source PDF, eBook (epub, mobi), comic book (cbz/cbr), DjVu, XPS, CHM, image viewer for Windows.
+Small, fast, customizable, free. | [https://github.com/sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) |
 
