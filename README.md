@@ -269,3 +269,8 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 |------|-------------|------|
 | [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) | Open source PDF, eBook (epub, mobi), comic book (cbz/cbr), DjVu, XPS, CHM, image viewer for Windows. | [https://github.com/sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) 
 
+
+## JavaScript
+| Name | Description | Link |
+|------|-------------|------|
+| [FreeTube](https://freetubeapp.io/#download) | Open source desktop YouTube player built with privacy in mind. No advertisements or Google Tracking. | [https://github.com/FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
