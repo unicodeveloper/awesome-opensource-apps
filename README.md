@@ -269,3 +269,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 |------|-------------|------|
 | [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) | Open source PDF, eBook (epub, mobi), comic book (cbz/cbr), DjVu, XPS, CHM, image viewer for Windows. | [https://github.com/sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) 
 
+## Python
+| Name | Description | Link |
+|------|-------------|------|
+| [Streamlink](https://streamlink.github.io/index.html) | CLI utility which pipes video streams from various services into a video player. | [https://github.com/streamlink/streamlink](https://github.com/streamlink/streamlink)
