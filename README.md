@@ -274,3 +274,4 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | Name | Description | Link |
 |------|-------------|------|
 | [FreeTube](https://freetubeapp.io/#download) | Open source desktop YouTube player built with privacy in mind. No advertisements or Google Tracking. | [https://github.com/FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+| [Snapdrop](https://snapdrop.net/) | A Progressive Web App for local file sharing | [https://github.com/RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop)
