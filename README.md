@@ -257,6 +257,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | Name | Description | Link |
 |------|-------------|------|
 | [MySQL Database Library](https://github.com/Ezeji/MySQL-Database-Library) | C# tool for seamless MySQL connection and CRUD operations | [https://medium.com/@franklinezeji/mysql-database-library-for-c-developers-4bec985dc009](https://medium.com/@franklinezeji/mysql-database-library-for-c-developers-4bec985dc009) |
+| [Duplicati](https://github.com/duplicati/duplicati) | Free, open source, backup client that securely stores encrypted, incremental, compressed backups on cloud storage services and remote file servers | [https://www.duplicati.com/download](https://www.duplicati.com/download) |
 
 ## Electron
 | Name | Description | Link |
