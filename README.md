@@ -269,3 +269,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 |------|-------------|------|
 | [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) | Open source PDF, eBook (epub, mobi), comic book (cbz/cbr), DjVu, XPS, CHM, image viewer for Windows. | [https://github.com/sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) 
 
+## Python
+| Name | Description | Link |
+|------|-------------|------|
+| [Subliminal](https://subliminal.readthedocs.io/en/latest/) | A command line tool to search and download subtitles. | [https://github.com/Diaoul/subliminal](https://github.com/Diaoul/subliminal)
