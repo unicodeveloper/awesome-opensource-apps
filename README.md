@@ -268,4 +268,4 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | Name | Description | Link |
 |------|-------------|------|
 | [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) | Open source PDF, eBook (epub, mobi), comic book (cbz/cbr), DjVu, XPS, CHM, image viewer for Windows. | [https://github.com/sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) 
-
+| [AudioStellar](https://audiostellar.xyz/) | Open source data-driven musical instrument for latent sound structure discovery and music experimentation. | [https://gitlab.com/ayrsd/audiostellar/-/tree/units](https://gitlab.com/ayrsd/audiostellar/-/tree/units)
