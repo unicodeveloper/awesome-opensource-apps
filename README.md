@@ -268,4 +268,4 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | Name | Description | Link |
 |------|-------------|------|
 | [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) | Open source PDF, eBook (epub, mobi), comic book (cbz/cbr), DjVu, XPS, CHM, image viewer for Windows. | [https://github.com/sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) 
-
+| [Stellarium](https://stellarium.org/) |  A free open source planetarium for your computer. | [https://github.com/Stellarium/stellarium](https://github.com/Stellarium/stellarium)
