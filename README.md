@@ -257,6 +257,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | Name | Description | Link |
 |------|-------------|------|
 | [MySQL Database Library](https://github.com/Ezeji/MySQL-Database-Library) | C# tool for seamless MySQL connection and CRUD operations | [https://medium.com/@franklinezeji/mysql-database-library-for-c-developers-4bec985dc009](https://medium.com/@franklinezeji/mysql-database-library-for-c-developers-4bec985dc009) |
+| [jellyfin](https://jellyfin.org/) |  Free Software Media System that puts you in control of managing and streaming your media. | [https://github.com/jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) |
 
 ## Electron
 | Name | Description | Link |
