@@ -269,3 +269,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 |------|-------------|------|
 | [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) | Open source PDF, eBook (epub, mobi), comic book (cbz/cbr), DjVu, XPS, CHM, image viewer for Windows. | [https://github.com/sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) 
 
+## Go
+| Name | Description | Link |
+|------|-------------|------|
+| [Kopia](https://kopia.io/) | Fast and secure open-source backup/restore tool that allows you to create encrypted snapshots of your data and save the snapshots to remote or cloud storage of choice. | [https://github.com/kopia/kopia](https://github.com/kopia/kopia)
