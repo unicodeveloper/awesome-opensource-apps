@@ -257,6 +257,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | Name | Description | Link |
 |------|-------------|------|
 | [MySQL Database Library](https://github.com/Ezeji/MySQL-Database-Library) | C# tool for seamless MySQL connection and CRUD operations | [https://medium.com/@franklinezeji/mysql-database-library-for-c-developers-4bec985dc009](https://medium.com/@franklinezeji/mysql-database-library-for-c-developers-4bec985dc009) |
+| [NETworkManager](https://borntoberoot.net/NETworkManager/) | A powerful tool for managing networks and troubleshoot network problems. | [https://github.com/BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) | 
 
 ## Electron
 | Name | Description | Link |
