@@ -257,6 +257,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | Name | Description | Link |
 |------|-------------|------|
 | [MySQL Database Library](https://github.com/Ezeji/MySQL-Database-Library) | C# tool for seamless MySQL connection and CRUD operations | [https://medium.com/@franklinezeji/mysql-database-library-for-c-developers-4bec985dc009](https://medium.com/@franklinezeji/mysql-database-library-for-c-developers-4bec985dc009) |
+| [ShareX](https://github.com/ShareX/ShareX)  | Open source program that lets you capture or record any area of your screen and share it with a single press of a key | [https://getsharex.com/](https://getsharex.com/) |
 
 ## Electron
 | Name | Description | Link |
