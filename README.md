@@ -273,3 +273,8 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | Name | Description | Link |
 |------|-------------|------|
 | [Kopia](https://kopia.io/) | Fast and secure open-source backup/restore tool that allows you to create encrypted snapshots of your data and save the snapshots to remote or cloud storage of choice. | [https://github.com/kopia/kopia](https://github.com/kopia/kopia)
+
+## TypeScript
+| Name | Description | Link |
+|------|-------------|------|
+| [Dopamine](https://digimezzo.com/software/) | An elegant audio player which tries to make organizing and listening to music as simple and pretty as possible. | [https://github.com/digimezzo/dopamine](https://github.com/digimezzo/dopamine) | 
