@@ -208,6 +208,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [react-handsontable](https://github.com/handsontable/react-handsontable) | A React wrapper for the the Handsontable spreadsheet component. | [https://handsontable.com](https://handsontable.com) |   |   |   |
 | [React Admin](https://www.wrappixel.com/templates/category/react-templates/) | Download Free React Templates by WrapPixel | [https://www.wrappixel.com/](https://www.wrappixel.com/) |
 | [PopCritic](https://github.com/theabbie/PopCritic) | Movies Reviewed by people, for people. | [https://popcritic.web.app/](https://popcritic.web.app/) |   |   |   |
+| [Guftgoon](https://github.com/thekamalkashyap/chat-app2.0) | open source alternative to whatsapp and other chat app | [https://guftgoon.vercel.app/](https://guftgoon.vercel.app/) |   |   |   |
 
 
 ## React Native
