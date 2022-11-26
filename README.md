@@ -126,6 +126,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Diaspora](https://github.com/diaspora/diaspora) | Distributed Social Network | [https://diasporafoundation.org](https://diasporafoundation.org) |
 | [SprintApp](https://github.com/macfanatic/SprintApp) | Time tracking and Project Management App | [http://www.sprintapp.com](http://www.sprintapp.com) |
 | [Copycopter](https://github.com/copycopter/copycopter-server) | A service for editing the copy text of a Rails application. | [http://copycopter.com](http://copycopter.com) |
+| [Cartes.io API](https://github.com/M-Media-Group/Cartes.io) | Free, anonymous, and live maps for anyone and everything. | [https://app.cartes.io](https://app.cartes.io) |
 
 
 ## Ruby
