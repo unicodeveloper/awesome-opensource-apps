@@ -101,6 +101,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Unifiedtransform](https://github.com/changeweb/Unifiedtransform) |  A School Management Software. | [https://changeweb.github.io/Unifiedtransform/](https://changeweb.github.io/Unifiedtransform/) | |
 | [Tinre](https://github.com/devpri/tinre) |  A fast and powerful URL Shortener built with Laravel, VueJS, and Tailwind CSS. | [https://github.com/devpri/tinre](https://github.com/devpri/tinre) | |
 | [Taskord](https://gitlab.com/taskord/taskord) |  Get things done socially with community of makers. | [https://taskord.com](https://taskord.com) | |
+| [Sneat Free Bootstrap 5 HTML Laravel Admin Template](https://github.com/themeselection/sneat-html-laravel-admin-template-free) |  Open-source & Easy to use 🤩 Free Bootstrap 5 HTML Laravel Admin Template with Elegant Design & Unique Layout. | [Themeselection.com](https://themeselection.com/item/sneat-free-bootstrap-html-laravel-admin-template/) | |
 
 ## Rails
 
@@ -208,7 +209,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [react-handsontable](https://github.com/handsontable/react-handsontable) | A React wrapper for the the Handsontable spreadsheet component. | [https://handsontable.com](https://handsontable.com) |   |   |   |
 | [React Admin](https://www.wrappixel.com/templates/category/react-templates/) | Download Free React Templates by WrapPixel | [https://www.wrappixel.com/](https://www.wrappixel.com/) |
 | [PopCritic](https://github.com/theabbie/PopCritic) | Movies Reviewed by people, for people. | [https://popcritic.web.app/](https://popcritic.web.app/) |   |   |   |
-
+| [Materio Free MUI React NextJS Admin Template](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free) | Most Powerful & Comprehensive Free MUI React NextJS Admin Dashboard Template built for developers. | [https://themeselection.com/](https://themeselection.com/) |   |   |   |
 
 ## React Native
 | Name | Description | Link |
