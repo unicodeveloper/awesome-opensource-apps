@@ -258,7 +258,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Crystal ANN](https://github.com/crystal-community/crystal-ann) | Web site to announce new [Crystal](https://crystal-lang.org/) projects, blog posts, updates and other work activities | [https://crystal-ann.com](https://crystal-ann.com) |
 
 
-## C#
+## C# <a id="c#"></a>
 | Name | Description | Link |
 |------|-------------|------|
 | [MySQL Database Library](https://github.com/Ezeji/MySQL-Database-Library) | C# tool for seamless MySQL connection and CRUD operations | [https://medium.com/@franklinezeji/mysql-database-library-for-c-developers-4bec985dc009](https://medium.com/@franklinezeji/mysql-database-library-for-c-developers-4bec985dc009) |
@@ -270,7 +270,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [ExifCleaner](https://exifcleaner.com) | Cross platform desktop app to remove exif metadata from images | [https://exifcleaner.com](https://exifcleaner.com)
 | [Lavendel](http://github.com/timo-cmd/lavendel) | Cross platform desktop app >2.5kb containing a cute timer | [https://github.com/timo-cmd/Lavendel](https://github.com/timo-cmd/Lavendel)
 
-## C++
+## C++ <a id="cpp"></a>
 | Name | Description | Link |
 |------|-------------|------|
 | [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) | Open source PDF, eBook (epub, mobi), comic book (cbz/cbr), DjVu, XPS, CHM, image viewer for Windows. | [https://github.com/sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) 
