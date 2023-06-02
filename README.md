@@ -279,3 +279,9 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | Name | Description | Link |
 |------|-------------|------|
 | [Kopia](https://kopia.io/) | Fast and secure open-source backup/restore tool that allows you to create encrypted snapshots of your data and save the snapshots to remote or cloud storage of choice. | [https://github.com/kopia/kopia](https://github.com/kopia/kopia)
+
+
+## Java
+| Name | Description | Link |
+|------|-------------|------|
+| [SikuliX1](https://sikulix.github.io/) | Automates anything you see on the screen of your desktop computer running Windows, Mac or some Linux/Unix. | [https://github.com/RaiMan/SikuliX1](https://github.com/RaiMan/SikuliX1) |
