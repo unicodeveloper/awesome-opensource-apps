@@ -210,6 +210,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [React Admin](https://www.wrappixel.com/templates/category/react-templates/?ref=232) | Download Free React Templates by WrapPixel | [https://www.wrappixel.com/](https://www.wrappixel.com/templates/category/react-templates/?ref=232) |
 | [PopCritic](https://github.com/theabbie/PopCritic) | Movies Reviewed by people, for people. | [https://popcritic.web.app/](https://popcritic.web.app/) |   |   |   |
 | [React Admin Templates](https://adminmart.com/templates/react/?ref=6) | Download Best Free and Premium React Templates from AdminMart | [https://adminmart.com/](https://adminmart.com/templates/react/?ref=6) |
+| [React Admin Dashboard](https://themeselection.com/item/category/react-admin-templates/) | Production-ready 🤩, easy to use, and highly customizable React Admin Template Free & Pro | [https://themeselection.com/](https://themeselection.com/item/category/react-admin-templates/) |
 
 
 ## React Native
