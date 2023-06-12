@@ -22,6 +22,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 - [C#](#c#)
 - [Electron](#electron)
 - [C++](#cpp)
+- [Rust](#rust)
 
 
 ## Laravel
@@ -279,3 +280,8 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | Name | Description | Link |
 |------|-------------|------|
 | [Kopia](https://kopia.io/) | Fast and secure open-source backup/restore tool that allows you to create encrypted snapshots of your data and save the snapshots to remote or cloud storage of choice. | [https://github.com/kopia/kopia](https://github.com/kopia/kopia)
+
+## Rust
+| Name | Description | Link |
+|------|-------------|------|
+| [HyperSwitch](https://hyperswitch.io/) | An Open Source Financial Switch to make Payments fast, reliable & affordable. | [https://github.com/juspay/hyperswitch](https://github.com/juspay/hyperswitch)
