@@ -150,8 +150,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Django-shop](https://github.com/awesto/django-shop) | A Django based shop system | [https://django-shop.readthedocs.io/en/latest/index.html](https://django-shop.readthedocs.io/en/latest/index.html)|
 | [Django Project](https://www.djangoproject.com/) | Official Django Website and Documentation | [https://www.djangoproject.com/](https://www.djangoproject.com/)|
 | [Travel Mate Server](https://github.com/project-travel-mate/server) | Django based document management system with OCR, indexing, full text searching, previewing and more | [App on PlayStore](https://goo.gl/1iAq94) |
-
-
+| [Healthchecks](https://github.com/healthchecks/healthchecks) | Cron job and background task monitoring service | [https://healthchecks.io](https://healthchecks.io) |
 
 ## Android
 
