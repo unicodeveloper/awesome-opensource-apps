@@ -12,7 +12,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 - [Rails](#rails)
 - [Ruby](#ruby)
 - [Django](#django)
-- [Android](#android) 
+- [Android](#android)
 - [Meteor](#meteor)
 - [ReactJS](#reactjs)
 - [ReactNative](#react-native)
@@ -213,6 +213,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [PopCritic](https://github.com/theabbie/PopCritic) | Movies Reviewed by people, for people. | [https://popcritic.web.app/](https://popcritic.web.app/) |   |   |   |
 | [React Admin Templates](https://adminmart.com/templates/react/?ref=6) | Download Best Free and Premium React Templates from AdminMart | [https://adminmart.com/](https://adminmart.com/templates/react/?ref=6) |
 | [Unbroken](https://unbroken-app.com/) | Unbroken - A React-based Progressive Web App for strength & cardio tracking, based on the Tactical Barbell books | [https://unbroken-app.com/](https://unbroken-app.com/) |
+| [Next.js E-commerce App with Admin (OneEntry)](https://github.com/ONEENTRY-PLATFORM/nextjs-shop-demo) | Headless e-commerce app built with Next.js and OneEntry backend (catalog, cart, checkout flow). | https://github.com/ONEENTRY-PLATFORM/nextjs-shop-demo |
 
 
 ## React Native
@@ -277,7 +278,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 ## C++
 | Name | Description | Link |
 |------|-------------|------|
-| [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) | Open source PDF, eBook (epub, mobi), comic book (cbz/cbr), DjVu, XPS, CHM, image viewer for Windows. | [https://github.com/sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) 
+| [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) | Open source PDF, eBook (epub, mobi), comic book (cbz/cbr), DjVu, XPS, CHM, image viewer for Windows. | [https://github.com/sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf)
 
 ## Go
 | Name | Description | Link |
