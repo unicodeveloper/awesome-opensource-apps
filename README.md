@@ -213,6 +213,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [PopCritic](https://github.com/theabbie/PopCritic) | Movies Reviewed by people, for people. | [https://popcritic.web.app/](https://popcritic.web.app/) |   |   |   |
 | [React Admin Templates](https://adminmart.com/templates/react/?ref=6) | Download Best Free and Premium React Templates from AdminMart | [https://adminmart.com/](https://adminmart.com/templates/react/?ref=6) |
 | [Unbroken](https://unbroken-app.com/) | Unbroken - A React-based Progressive Web App for strength & cardio tracking, based on the Tactical Barbell books | [https://unbroken-app.com/](https://unbroken-app.com/) |
+| [Havoptic](https://github.com/scotthavird/havoptic.com) | A timeline tracking releases from AI coding tools like Claude Code, Cursor, Gemini CLI, and more. Auto-updated daily. | [https://havoptic.com](https://havoptic.com) |
 
 
 ## React Native
