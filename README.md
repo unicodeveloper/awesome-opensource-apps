@@ -213,6 +213,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [PopCritic](https://github.com/theabbie/PopCritic) | Movies Reviewed by people, for people. | [https://popcritic.web.app/](https://popcritic.web.app/) |   |   |   |
 | [React Admin Templates](https://adminmart.com/templates/react/?ref=6) | Download Best Free and Premium React Templates from AdminMart | [https://adminmart.com/](https://adminmart.com/templates/react/?ref=6) |
 | [Unbroken](https://unbroken-app.com/) | Unbroken - A React-based Progressive Web App for strength & cardio tracking, based on the Tactical Barbell books | [https://unbroken-app.com/](https://unbroken-app.com/) |
+| [MBTI Senpai](https://github.com/kmkhant/mbtisenpai/) | A quick, accurate, and open-source MBTI personality assessment web app. | [https://mbtisenpai.xyz/](https://mbtisenpai.xyz/) |
 
 
 ## React Native
