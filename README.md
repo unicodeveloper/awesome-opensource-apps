@@ -232,6 +232,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Civis Face](https://github.com/civisanalytics/CivisFace)| An app for exploring facial recognition using react-native, AWS Rekognition, and AWS Polly. | [Demo](https://www.youtube.com/watch?v=hBKbCzUa5aA) |
 | [Standard Notes](https://github.com/standardnotes/mobile) | A simple and private notes app | [App on Play Store](https://play.google.com/store/apps/details?id=com.standardnotes) |
 | [Ulangi](https://github.com/ulangi/ulangi) | A flashcard app to learn language with different learning methods | [App on Play Store](https://play.google.com/store/apps/details?id=com.ulangi) |
+| [Off Grid](https://github.com/alichherawalla/off-grid-mobile) | On-device AI suite for iOS & Android — LLM chat, vision models, and image generation, fully offline with no cloud or API keys. | [App Store](https://apps.apple.com/in/app/off-grid-on-device-ai/id6740649499) / [Play Store](https://play.google.com/store/apps/details?id=ai.offgridmobile) |
 
 
 ## VueJS
