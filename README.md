@@ -293,3 +293,4 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | Name | Description | Link |
 |------|-------------|------|
 | [ShotOG](https://github.com/nicepkg/shotog) | Open-source OG image generation API with 8 templates, batch generation, and custom fonts. Built with Hono + Satori on Cloudflare Workers. | [https://shotog.2214962083.workers.dev](https://shotog.2214962083.workers.dev) |
+| [Unpod](https://github.com/parvbhullar/unpod) | Open-source platform for building AI voice agents with dedicated phone numbers. Visual studio to create agents that handle calls and messages across channels. Built with Next.js, Django, LiveKit, and Pipecat. | [https://unpod.ai](https://unpod.ai) |
