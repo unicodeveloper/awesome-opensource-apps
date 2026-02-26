@@ -293,4 +293,4 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | Name | Description | Link |
 |------|-------------|------|
 | [ShotOG](https://github.com/nicepkg/shotog) | Open-source OG image generation API with 8 templates, batch generation, and custom fonts. Built with Hono + Satori on Cloudflare Workers. | [https://shotog.2214962083.workers.dev](https://shotog.2214962083.workers.dev) |
-- [Unpod](https://unpod.ai) – Real-time AI agent infrastructure with streaming LLMs, WebSocket APIs, voice (STT/TTS), and multi-model integrations.
+[Unpod](https://github.com/parvbhullar/unpod) – [Unpod](https://github.com/parvbhullar/unpod) – Open-source Voice AI platform that helps developers build, manage, and deploy real-time AI voice agents. Supports streaming LLM responses, WebSocket-based APIs, multi-model integrations, and voice capabilities (STT/TTS) — making it easy to create production-ready conversational AI applications.
