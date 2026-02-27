@@ -265,6 +265,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | Name | Description | Link |
 |------|-------------|------|
 | [MySQL Database Library](https://github.com/Ezeji/MySQL-Database-Library) | C# tool for seamless MySQL connection and CRUD operations | [https://medium.com/@franklinezeji/mysql-database-library-for-c-developers-4bec985dc009](https://medium.com/@franklinezeji/mysql-database-library-for-c-developers-4bec985dc009) |
+| [OpenHabitTracker](https://github.com/Jinjinov/OpenHabitTracker) | Free, open source habit tracker. Take notes, plan tasks, track habits. Web, Windows, Linux, Android, iOS and macOS. | [https://openhabittracker.net](https://openhabittracker.net) |
 | [Libation](https://github.com/rmcrackan/Libation) | Audible Audiobook manager and library. | [https://github.com/rmcrackan/Libation](https://github.com/rmcrackan/Libation) |
 
 ## Electron
