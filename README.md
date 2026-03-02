@@ -1,295 +1,216 @@
-# Awesome-opensource-apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
+# Awesome Python Scripts :snake: 
 
-> An awesome curated list of open source crafted web & mobile applications - Learn, Fork, Contribute &amp; Most Importantly Enjoy!
-
-You want to develop an app, write tests for a feature or implement a feature and you don't know how to go about it, there might just be one app/repository here with the solution to your problem.
-
-Even if you are just a developer, manager or co-founder looking for a sample app to demo or test your ideas, it might just be right here.
-
-## Table of Contents
-
-- [Laravel](#laravel)
-- [Rails](#rails)
-- [Ruby](#ruby)
-- [Django](#django)
-- [Android](#android) 
-- [Meteor](#meteor)
-- [ReactJS](#reactjs)
-- [ReactNative](#react-native)
-- [VueJS](#vuejs)
-- [Firebase](#firebase)
-- [Amber](#amber)
-- [C#](#c#)
-- [Electron](#electron)
-- [C++](#cpp)
-- [Lua](#lua)
-- [Node.js](#nodejs)
+<img alt="PyPI" src="https://pypi.org/static/images/logo-small.8998e9d1.svg" height="30px" width="auto"> [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hastagAB/Awesome-Python-Scripts) ![GitHub stars](https://img.shields.io/github/stars/hastagAB/Awesome-Python-Scripts?style=social)
 
 
-## Laravel
+## Contents:
 
-| Name | Description | Link |
-|------|-------------|------|
-| [AbuseIO](https://github.com/AbuseIO/AbuseIO) | Abuse Management for network operators | [https://abuse.io](https://abuse.io) |
-| [Admin Architect](http://github.com/adminarchitect/core) | Administration Framework. Active Admin for Laravel | [http://adminarchitect.com](http://adminarchitect.com) |
-| [Akaunting](https://github.com/akaunting/akaunting) | Free and Online Accounting Software | [https://akaunting.com](https://akaunting.com) |
-| [Laracom](https://github.com/jsdecena/laracom) | FREE E-Commerce Software | [https://laracom.net](https://laracom.net) |
-| [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) | Invoice Generation System | [https://www.invoiceninja.com](https://www.invoiceninja.com) |
-| [Koel](https://github.com/phanan/koel) | A personal music streaming server that works | [http://koel.phanan.net](http://koel.phanan.net) |
-| [Faveo](https://github.com/ladybirdweb/faveo-helpdesk) | Helpdesk Ticketing System | [http://www.faveohelpdesk.com](http://www.faveohelpdesk.com) |
-| [Timegrid](https://github.com/timegridio/timegrid) |  Online Reservation Platform | [https://demo.timegrid.io](https://demo.timegrid.io/) |
-| [Laravel.io](https://github.com/laravelio/laravel.io) | Laravel Community Portal | [http://laravel.io](http://laravel.io) |
-| [Laravel Tricks](https://github.com/CodepadME/laravel-tricks) | Laravel Tips and Tricks | [http://laravel-tricks.com](http://laravel-tricks.com) |
-| [Attendize](https://github.com/Attendize/Attendize) | Ticket selling and event management platform | [https://www.attendize.com](https://www.attendize.com) |
-| [Laraadmin](https://github.com/dwijitsolutions/laraadmin) | CRM for quickstart Admin based applications | [http://laraadmin.com](http://laraadmin.com/) |
-| [Larasites](https://github.com/we-are-next/larasites.com) | Showcasing the best websites made with Laravel & Lumen | [https://www.larasites.com](https://www.larasites.com) |
-| [Openlaravel](https://github.com/ammezie/openlaravel) | A collection of open source projects built using Laravel | [http://openlaravel.com](http://openlaravel.com) |
-| [Flarum](https://github.com/flarum/flarum) | Delightfully simple forum software | [http://flarum.org](http://flarum.org) |
-| [WinterCMS](https://github.com/wintercms/winter) | CMS platform built on Laravel | [https://wintercms.com/](https://wintercms.com/) |
-| [PyroCMS](https://github.com/pyrocms/pyrocms) | PHP CMS | [https://www.pyrocms.com](https://www.pyrocms.com) |
-| [LavaliteCMS](https://github.com/LavaLite/cms) | CMS built on Laravel 5.2 | [http://www.lavalite.org](http://www.lavalite.org) |
-| [AsgardCMS](https://github.com/AsgardCms/Platform) | A modular multilingual CMS built with Laravel 5 | [http://asgardcms.com](http://asgardcms.com) |
-| [WardRobeCMS](https://github.com/wardrobecms/wardrobe) | A minimal blogging application | [http://wardrobecms.com](http://wardrobecms.com) |
-| [KodiCMS](https://github.com/KodiCMS/kodicms-laravel) | The CMS built on Laravel 5.2 | [http://laravel.kodicms.ru](http://laravel.kodicms.ru) |
-| [MicroweberCMS](https://github.com/microweber/microweber) | Drag and Drop CMS and online shop | [https://microweber.com](https://microweber.com) |
-| [BoostrapCMS](https://github.com/BootstrapCMS/CMS) | A PHP CMS powered by Laravel 5 and Sentry | |
-| [TypiCMS](https://github.com/TypiCMS/Base) | Multilingual and modular CMS built with Laravel 5.2 | |
-| [FullyCMS](https://github.com/sseffa/fullycms) | Multi Language Content Management System | |
-| [FlarepointCRM](https://github.com/Bottelet/Flarepoint-crm) |  Self-hosted CRM platform built with Laravel 5 | |
-| [Quarx](https://github.com/YABhq/Quarx) | A CMS for Laravel Apps | |
-| [Oez](https://github.com/gaaarfild/0ez) | Lightweight Blogging CMS | |
-| [Airflix](https://github.com/wells/airflix) | A near-netflix Clone  | |
-| [Antvel](https://github.com/ant-vel/App) | Laravel eCommerce | [http://antvel.com](http://antvel.com) |
-| [LaraShop](https://github.com/ZENLIX/LaraShop) | A Simple PHP Shop CMS | [http://it-toys.com](http://it-toys.com) |
-| [92five](https://github.com/chintanbanugaria/92five) | Self-hosted Project Management App | [http://92fiveapp.com](http://92fiveapp.com) |
-| [Deployer](https://github.com/REBELinBLUE/deployer) | A free and open source deployment tool | [http://phpdeployment.org](http://phpdeployment.org) |
-| [Paperwork](https://github.com/twostairs/paperwork) | OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep | [http://paperwork.rocks](http://paperwork.rocks) |
-| [Podcastwala](https://github.com/modestkdr/Podcastwala) | Podcast System | |
-| [Laravel Snippets](https://github.com/basco-johnkevin/laravelsnippets) | A repository of useful code snippets for Laravel PHP framework | |
-| [Freelancer Notes](https://github.com/porimol/freelancer-notes) | Freelancer Notes | |
-| [Critter](https://github.com/msurguy/critterapp) | Mini-twitter-like app | [http://demos.maxoffsky.com/critter](http://demos.maxoffsky.com/critter) |
-| [PHPhub](https://github.com/summerblue/phphub) | Chinese PHP Community | [http://phphub.org](http://phphub.org) |
-| [Cachet](https://github.com/CachetHQ/Cachet) | Open Source Status Page System | [https://cachethq.io](https://github.com/CachetHQ/Cachet) |
-| [Ribbbon](https://github.com/canvasowl/ribbbon) | A project management system for Artisans | |
-| [Scrumwala](https://github.com/modestkdr/Scrumwala) | Your very own Scrum/Agile web app for personal use | |
-| [SnipeIT](https://github.com/snipe/snipe-it) | IT Asset/license Management System | [http://snipeitapp.com](http://snipeitapp.com) |
-| [Neontsunami](https://github.com/dwightwatson/neontsunami) | Personal Website and blog | [http://www.neontsunami.com](http://www.neontsunami.com) |
-| [Nahid.co](https://github.com/nahid/nahid.co) | Personal Portfolio and blog project | [http://nahid.co](http://nahid.co) |
-| [Laramap](https://github.com/laramap/laramap.com) | A Map of Laravel Developers | [https://laramap.com](https://laramap.com) |
-| [Learn Party](https://github.com/andela-jkariuki/checkpoint-four-learn-party) | A Dead Simple Learning Management System | [https://learn-party.herokuapp.com](https://learn-party.herokuapp.com) |
-| [Techademia](https://github.com/andela-fokosun/Checkpoint4) | Organize Your Youtube Videos to Learn | [http://techademia.herokuapp.com](http://techademia.herokuapp.com) |
-| [BookStack](https://github.com/ssddanbrown/BookStack) | A platform to create documentation/wiki content | [https://www.bookstackapp.com](https://www.bookstackapp.com) |
-| [Gruik](https://github.com/grena/gruik) | An open-source markdown note-taking web app | [http://gruik.io](http://gruik.io) |
-| [Laravel.com](https://github.com/laravel/laravel.com) | Official Website and Documentation of Laravel | [https://laravel.com](https://laravel.com) |
-| [Katana](https://github.com/themsaid/katana) | Laravel static site/blog generator with markdown support |  |
-| [CoasterCMS](https://github.com/web-feet/coastercms) | Coaster CMS Project | [http://www.coastercms.org](http://www.coastercms.org) |
-| [Statamic](https://github.com/statamic) | Flat File CMS | [https://statamic.com](https://statamic.com) |
-| [Larasocial](https://github.com/msalom28/Larasocial) | A Social Network Application | [http://larasocial.info](http://larasocial.info) |
-| [Aimeos](https://github.com/aimeos/aimeos-laravel) | Ecommerce package for high performance online shops | [https://aimeos.org/Laravel](https://aimeos.org/Laravel) |
-| [Gitamin](https://github.com/GitaminHQ/Gitamin) | A self-hosted git repository management software | [http://gitamin.com](http://gitamin.com) |
-| [Vuedo](https://github.com/vuedo/vuedo) | Vuedo is blog platform, built with Laravel and Vue.js. | [https://vuejsfeed.com](https://vuejsfeed.com) |
-| [Condor](https://github.com/condorrocks/condor) |  Service monitor that watches diverse statuses, and elegantly reports every drift | [https://condor.rocks](https://condor.rocks/) |
-| [DevTv](https://github.com/iamraphson/DEV-TV) |  DevTv is your online Video Subscription Platform | [http://dev-tv.herokuapp.com](http://dev-tv.herokuapp.com/) |
-| [SЁCU](https://github.com/secusu/secusu) | SЁCU is a service to create password protected self-destructing data packages and anonymous chat-rooms. | [https://secu.su/](https://secu.su/) |
-| [Confomo](https://github.com/mattstauffer/confomo) |  A service that facilitates meeting Twitter friends at conferences | |
-| [File Manager](https://github.com/UniSharp/laravel-filemanager) |  A File manager (for CKEditor and TinyMCE) with multi-users support. | |
-| [FlyMyShop](https://github.com/aasisvinayak/flymyshop) |  An e-commerce platform for online merchants. | [https://flymyshop.com](https://flymyshop.com) |
-| [Laravel GitScrum](https://github.com/renatomarinho/laravel-gitscrum) | GitScrum is a project to help developer team. | |
-| [MIT-2014-2015-YEARBOOK](https://github.com/iamraphson/MIT-2014-2015-YEARBOOK) |  E-YearBook for 2014/2015 UNILAG MIT students  | [http://unilagmitfaces.ml](http://unilagmitfaces.ml/) | |
-| [Despark's igniCMS](https://github.com/despark/igni-core) |  Easy to use featherlight CMS, which provides you with a shortcut to bootstrapping the backend of PHP (Laravel), MySQL based projects.   | [https://despark.com/](https://despark.com/) |
-| [Voten](https://github.com/voten-co/voten) | Voten.co is a real-time social bookmarking platform for the 21st century| [https://voten.co](https://voten.co/) |
-| [Handesk](https://github.com/BadChoice/handesk) |  A Powerful Laravel Help Desk and Lead Management App. | |
-| [Multitrust](https://github.com/BadChoice/handesk) |  Latest roles and permission for multi-auth or single-auth. | [https://hellolaravel.org/mk/multitrust/](https://hellolaravel.org/mk/multitrust/) |
-| [Unifiedtransform](https://github.com/changeweb/Unifiedtransform) |  A School Management Software. | [https://changeweb.github.io/Unifiedtransform/](https://changeweb.github.io/Unifiedtransform/) | |
-| [Tinre](https://github.com/devpri/tinre) |  A fast and powerful URL Shortener built with Laravel, VueJS, and Tailwind CSS. | [https://github.com/devpri/tinre](https://github.com/devpri/tinre) | |
-| [Taskord](https://gitlab.com/taskord/taskord) |  Get things done socially with community of makers. | [https://taskord.com](https://taskord.com) | |
+- [Awesome Python Scripts :sunglasses:    ](#awesome-python-scripts-sunglasses----)
+  - [Contents:](#contents)
+  - [What is this repo?](#what-is-this-repo)
+  - [What do we have:](#what-do-we-have)
+  - [How to use:](#how-to-use)
+  - [Contribution Guidelines:](#contribution-guidelines)
+    - [Steps required to follow before adding any script](#steps-required-to-follow-before-adding-any-script)
+- [If you like the project:](#if-you-like-the-project)
+- [Want to connect with me?](#want-to-connect-with-me)
 
-## Rails
+## What is this repo?
+This repo is a compilation of some *awesome* Python scripts that automate some boring tasks or simply make our life easier...or both!
 
-| Name | Description | Link |
-|------|-------------|------|
-| [Helpy](http://helpy.io) | Mobile First Helpdesk Application | [http://helpy.io](http://helpy.io) |
-| [Coderwall](https://github.com/coderwall/coderwall-legacy) | Professional network for Software | [engineers](https://github.com/coderwall/coderwall-legacy) - [https://coderwall.com](https://coderwall.com) |
-| [Sharetribe](https://github.com/sharetribe/sharetribe) | A Marketplace Platform | [https://www.sharetribe.com](https://www.sharetribe.com) |
-| [Spina](https://github.com/denkGroot/Spina) | A beautiful CMS for Rails Developers | [http://www.spinacms.com](http://www.spinacms.com) |
-| [Loomio](https://github.com/loomio/loomio) |  Make decisions together | [https://www.loomio.org](https://www.loomio.org) |
-| [Rails port of OpenstreetMap](https://github.com/openstreetmap/openstreetmap-website) | Open Street Map | [http://www.openstreetmap.org](http://www.openstreetmap.org) |
-| [Help](https://github.com/netguru/help) | Small help request system | |
-| [OpenSourceBilling](http://www.opensourcerails.com/open-source-billing) | Beautiful Simple Billing Software | [http://opensourcebilling.org](http://opensourcebilling.org) |
-| [Hours](https://github.com/DefactoSoftware/Hours) | Time registration that doesn't suck | [https://happyhours.io](https://happyhours.io) |
-| [OpenProject](https://github.com/opf/openproject) | Project Management System | [https://www.openproject.org](https://www.openproject.org) |
-| [Huginn](https://github.com/cantino/huginn) | Agent system that perform tasks online for you | |
-| [Discourse](https://github.com/discourse/discourse) | A Platform for Community Discussion | [http://www.discourse.org](http://www.discourse.org) |
-| [Squash](https://github.com/SquareSquash/web) | Collection of tools that helps developers find and kill bugs | [http://squash.io](http://squash.io) |
-| [Eventx](https://github.com/andela/eventx) | Event Management System without Hassle | [http://www.eventtx.com](http://www.eventtx.com) |
-| [Fulcrum](https://github.com/fulcrum-agile/fulcrum) | Agile Project Management Tool | [http://wholemeal.co.nz/projects/fulcrum.html](http://wholemeal.co.nz/projects/fulcrum.html) |
-| [Spree](https://github.com/spree/spree) | E-commerce Solution | [http://spreecommerce.com](http://spreecommerce.com) |
-| [RedMine](https://github.com/edavis10/redmine) | Project Management Application | [http://www.redmine.org](http://www.redmine.org) |
-| [Diaspora](https://github.com/diaspora/diaspora) | Distributed Social Network | [https://diasporafoundation.org](https://diasporafoundation.org) |
-| [SprintApp](https://github.com/macfanatic/SprintApp) | Time tracking and Project Management App | [http://www.sprintapp.com](http://www.sprintapp.com) |
-| [Copycopter](https://github.com/copycopter/copycopter-server) | A service for editing the copy text of a Rails application. | [http://copycopter.com](http://copycopter.com) |
-| [Cartes.io API](https://github.com/M-Media-Group/Cartes.io) | Free, anonymous, and live maps for anyone and everything. | [https://app.cartes.io](https://app.cartes.io) |
+:cookie: Cookies for all contributors as well~
 
+## What do we have:
+So far, the following projects have been integrated to this repo:
 
-## Ruby
+| Project Name | Contributors |
+|--|--|
+|[2048](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/2048)|[Krunal](https://github.com/gitkp11)| 
+|[AI chatbot](Artificial-intelligence_bot) |[umar abdullahi](https://github.com/umarbrowser) | 
+|[AI for guess the number](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/AI_for_Guess_the_number) | [Omar Sameh](https://github.com/ShadowHunter15) | 
+|[Address locator](Location_Of_Adress) | [Chris]() | 
+|[Asymmetric Encryption](asymmetric_cryptography) |[victor matheus](https://github.com/victormatheusc) | 
+|[Attachment Unique Mail](Attachment_Unique_Mail) |[Arnav Dandekar](https://github.com/4rnv) | 
+|[Automated calendar](automated_calendar) | [J.A. Hernández](https://github.com/jesusalberto18) | 
+|[Automated emails](automated_email) | [Suvigya](https://github.com/SuvigyaJain1) |  
+|[Battery_notification](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Battery_notification/)|[Krishna Sharma](https://github.com/krishnasharma1386)| 
+|[Better_CSV_Storage](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Better_CSV_Storage) | [Bhargav Kuvadiya](https://github.com/techdobz) | 
+|[Bitcoin price GUI](Bitcoin-Price-GUI) |[Amirul Abu](https://github.com/amirulabu) | 
+|[CLI Calculator](cli_calculator)|[Willian GL](https://github.com/williangl) | 
+|[COVID visualiser (real-time) ](covid_visualiser)|[Tushar Gupta](https://github.com/tushar5526)| 
+|[CSV to Excel](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/CSV-to-Excel)|[xemeds](https://github.com/xemeds) | 
+|[Caesar Cipher](caesar_cipher) |[epi052](https://github.com/epi052) |  
+|[Checksum tool](Checksum) |[Austin Ewens](https://github.com/aewens) | 
+|[Clean_up_photo](Clean_up_photo_directory)|[sritanmay001](https://github.com/sritanmy001)| 
+|[Codechef autosubmitter](Codechef-Code-Submitter) |[Harshit Mahajan](https://github.com/hmahajan99) |  
+|[Codeforces Checker](codeforcesChecker)|[Jinesh Parakh](https://github.com/jineshparakh)| 
+|[Colored B&W Image Converter](Color_to_BW_Converter) |[Nitish Srivastava](https://github.com/nitish-iiitd) | 
+|[Contact 'Leads' Distribution](Contact-Distribution) |[Tiago Cordeiro](https://github.com/tiagocordeiro) |  
+|[Countdown](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Countdown)|[Jeremias Gomes](https://github.com/j3r3mias)| 
+|[csv_to_json](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/csv_to_json)|[MoiZ](https://github.com/TechBoyy6)| 
+|[Cricket Matches web Scraper](CricBuzz_Score_Update) |[Divy Ranjan](https://github.com/divyranjan17) |
+|[Crypt socket](Crypt_Socket)|[Willian GL](https://github.com/williangl) |  
+|[Cryptocurrency Converter](Cryptocurrency-converter) |[AdnCodz](https://github.com/AdnCodez) |  
+|[Cryptocurrency Prices](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Cryptocurrency-Prices) |[xemeds](https://github.com/xemeds) | 
+|[Current City Weather](Current_City_Weather) |[Jesse Bridge](https://github.com/jessebridge) |  
+|[DNA Analysis Toolkit](https://github.com/shmlkv/dna-claude-analysis)|[shmlkv](https://github.com/shmlkv)|
+|[DOH DIG](DOH-Dig/) | [Ryan](https://github.com/awsumco) | 
+|[Database-As-Storage](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Database-As-Storage) | [Bhargav Kuvadiya](https://github.com/techdobz) | 
+|[Directory Tree Visualizer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Directory_Tree_Generator) | [Harpreet Singh Saluja](https://github.com/hssaluja25/) | 
+|[Directory organizer](Directory-organizer) | [Athul P](https://github.com/athulpn) | 
+|[Download Page as PDF](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Download-page-as-pdf)|[Jeremias Gomes](https://github.com/j3r3mias)| 
+|[Elasticsearch snapshot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/elastic-snapshot) | [Joe Ryan](https://github.com/joeryan) | 
+|[English Theasaurus](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/English_Theasauras/) | [Ansh Dhingra](https://github.com/anshdhinhgra47) | 
+|[Excel Files Merger](Excel_Files_Merger) | [Andrei N](https://github.com/Andrei-Niculae)|  
+|[Excel to List](Excel_to_ListofList) | [Nitish Srivastava](https://github.com/nitish-iiitd)| 
+|[Extended_ip_address_info](extended_ip_address_info) | [hafpaf](https://github.com/hafpaf)|
+|[Face Recognition](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Face_recognition)|[LOKESH KHURANA](https://github.com/theluvvkhurana)| 
+|[Fibonacci_Sequence_Generator](Fibonacci_Sequence_Generator) | [John Wesley Kommala](https://github.com/JohnWesleyK)| 
+|[File Carving](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/File_Carving) | [Yeryeong Kim](https://github.com/icarusicarus/) | 
+|[File Encrypt Decrypt](file-encrypt-decrypt)|[Aditya Arakeri](https://github.com/adityaarakeri)| 
+|[FileMagic Organizer](./FileMagic_Organizer)|[malivinayak](https://github.com/malivinayak)|
+|[File Organizer](File-Organizer)|[Ayush Bhardwaj](https://github.com/hastagAB)| 
+|[File Sharing Bot](File-Sharing-Bot) | [Darshan Patel](https://github.com/DarshanPatel11)| 
+|[File explorer](File-Explorer-Dialog-Box) | [Nikhil Kumar Singh](https://github.com/nikhilkumarsingh)|  
+|[Find PhoneNumber in String](Find-PhoneNumber-in-String)|[Austin Zuniga](https://github.com/AustinZuniga)| 
+|[Flash card quizzer](Flash-card-Challenge) |[Utkarsh Sharma](https://github.com/Utkarsh1308) |
+|[Folder Locker and hider](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Folder%20Locker%20%26%20Hider)|[Prajjwal Pathak](https://github.com/pyguru123)| 
+|[Folder Manager](Folder_Manager)|[Harsh Raj](https://github.com/DeadProgrammer0)| 
+|[Frammed text generator](FramedText) | [jcdwalle](https://github.com/jcdwalle)| 
+|[Get Time By TimeZone](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Get_Time_TimezoneWise)|[Parth Shah](https://github.com/codingis4noobs) | 
+|[git_automation](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/git_automation)| [loge1998](https://github.com/loge1998)| 
+|[Github repo creator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Git_repo_creator)|[Harish Tiwari ](https://github.com/optimist2309)|
+|[Github Review Bot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Github-Review-Bot)|[Gaurav Giri](https://github.com/gaurovgiri)|  
+|[GithubBot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Github_Bot)|[Abhilasha](https://github.com/Abhilasha06)|
+|[Gmail Mailing Script](mailing) |[mayank-kapur](https://github.com/kapurm17) | 
+|[Google Meet Joiner](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/google_meet_joiner)|[JohanSanSebastian](https://github.com/JohanSanSebastian)| 
+|[HTML Table to List](HTML_Table_to_List) | [Nitish Srivastava](https://github.com/nitish-iiitd)|  
+|[Handwrting DNN recognizer](Handwriting_Recognizer) |[Chris]() |
+|[Harry Potter Cloak](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Harry-Potter-Cloak) | [thesmartdeveloperr](https://github.com/thesmartdeveloperr)| 
+|[IMDB TV Series Info Extractor](imdb_episode_ratings)|[Yash Raj Sarrof](https://github.com/yashYRS) | 
+|[IMDBQuerier](IMDBQuerier)|[Burak Bekci](https://github.com/Bekci)| 
+|[IP Address ](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/ipaddress)|[Xenium](https://github.com/xeniumcode)| 
+|[Image Compressor](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Image_Compressor)|[Prathima Kadari](https://github.com/prathimacode-hub)| 
+|[Image To PDF](images2pdf)|[msaoudallah](https://github.com/msaoudallah)| 
+|[Image Watermarker (batch)](imageWatermarker)|[Remco Halman](https://github.com/remcohalman)| 
+|[Image circle formatter](Image-Circulator) |[Berk Gureken](https://github.com/bureken) | 
+|[Independent RSA Communication Algorithm](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/RSA_Communication)|[Miguel Santos](https://github.com/wi6n3l)| 
+|[Instadp Web Scrapper](InstadpShower)|[Psychiquest](https://github.com/psychiquest)| 
+|[Instagram Video Downloader](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/insta_video_downloader)|[Shobhit Bhosure](https://github.com/shobhit99) | 
+|[JSON file to YAML convertor](https://github.com/saksham117/Awesome-Python-Scripts/tree/master/json-to-yaml)|[Saksham Basandrai](https://github.com/saksham117)| 
+|[Keylogger](Keylogger) |[Preet Mishra](https://github.com/preetmishra) |  
+|[Medium Article Downloader](medium_article_downloader)|[coolsonu39](https://github.com/coolsonu39)| 
+|[Minecraft Server in background](Minecraft_server_in_background)|[Max von Forell](https://github.com/mvforell)| 
+|[Own IP locator](Location_Of_Own_IP_Adress)|[Chris]()|  
+|[PDF2text](PDF2text)|[QuangPH](https://github.com/quangph-1686a)| 
+|[PDFsplitter](PDFsplitter)|[Prathamesh-Ghatole](https://github.com/Prathamesh-Ghatole)| 
+|[PX to REM](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/PX-to-REM)|[Atthaphon Urairat](https://github.com/uatthaphon) | 
+|[Pdf to AudioBook Converter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/PdfToAudio)|[Ayesha Gull](https://github.com/ayeshag7/)| 
+|[Plagiarism_detector](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Plagiarism_detector)|[Akshita Singhal](https://github.com/akshitasinghal4444)| 
+|[Port Scanner](Port_Scanner)|[Plutoberth](https://github.com/Plutoberth)| 
+|[Pressure_Converter](https://github.com/E-wave112/Awesome-Python-Scripts/tree/master/Pressure_Converter)|[E-Wave](https://github.com/E-wave112)| 
+|[Pretty CSV](Pretty-CSV)|[Frizz925](https://github.com/Frizz925)| 
+|[PyRecorder](PyRecorder)|[Rocky Jain](https://github.com/jainrocky)| 
+|[py_based_music_player](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/py_based_music_player) | [Bhargav Kuvadiya](https://github.com/techdobz) | 
+|[Py_Cleaner](Py_Cleaner) | [Abhishek Dobliyal](https://github.com/Abhishek-Dobliyal)| 
+|[Python Algebra Solver](Algebra-Solver)|[Sengxay Xayachack](https://github.com/frankxayachack)| 
+|[RSA Algorithm](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/RSA_Algorithm)|[Chinmay Rane](https://github.com/Chinmayrane16)| 
+|[RSA Key Pair Generator](RSA-key-pairs) | [Aditya Parikh](https://github.com/obiwan69) | 
+|[Random Password Generators](Random_Password_Generator)| [Hafpaf](https://github.com/hafpaf) and [Renderer-RCT2](https://github.com/Renderer-RCT2)| 
+|[Random name generator](Random_Names_Generator)| [Ayush Bhardwaj](https://github.com/hastagAB)|  
+|[Random_Email_Generator](Random_Email_Generator)|[Shubham Garg](https://github.com/shub-garg)| 
+|[Remove-Duplicate-Files](Remove-Duplicate-Files)|[Aayushi Varma](https://github.com/aayuv17)| 
+|[Rock-Paper-Scissor Game](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Rock-Paper-Scissor)|[Punit Sakre](https://github.com/punitsakre23)| 
+|[send_whatsapp_message](send_whatsapp_message)|[Mukesh Prasad](https://github.com/mukeshprasad)| 
+|[Send messages to sqs in parallel](send_sqs_messages_in_parallel)|[Jinam Shah](https://github.com/jinamshah)| 
+|[Server Ping](Ping_Server)|[prince]()|  
+|[Signature photo to PNG converter](signature2png)|[Rodolfo Ferro](https://github.com/RodolfoFerro)| 
+|[Simple Webpage Parser](SimpleWebpageParser)|[Nitish Srivastava](https://github.com/nitish-iiitd)| 
+|[Slideshare downloader](Slideshare-Downloader)|[Chris Goes](https://github.com/GhostofGoes)| 
+|[SMS your location](SmsYourLocation)|[prince]()|
+|[Spotify Downloader](spotify_downloader)|[Sagar Patel](https://github.com/sagar627)| 
+|[Squid installer for Ubuntu](Squid-Proxy-Installer-for-Ubuntu16)|[Berkay Demir]()| | 
+|[SSH Host adder](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/SSH_Host_Adder)|[NinoDoko](https://github.com/NinoDoko)| 
+|[Steg_Tool](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Steg_Tool/)|[Shankar JP](https://github.com/shankarjp)| 
+|[sudoku-solver](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/sudoku-solver) | [Rishabh Umrao](https://github.com/ayedaemon)  |
+|[Subtitle downloader](Subtitle-downloader)|[Kaushlendra Pratap](https://github.com/kaushl1998)| 
+|[TTS - Text to Speech Mp3](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/TTS_Text_to_Speech_Mp3)|[Antonio Andrade](https://github.com/xAndrade)| 
+|[Take Screenshot](Take_screenshot)|[Moad Mohammed Elhebri](https://github.com/moadmmh)| 
+|[Tambola_Ticket_Generator](Tambola_Ticket_Generator)|[Amandeep_Singh](https://github.com/Synster)| 
+|[Test Your Internet Speed](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/TestMyInternetSpeed)|[TheSmartDeveloperr](https://github.com/thesmartdeveloperr)| 
+|[TicTacToe AI and 2 players](https://github.com/ShadowHunter15/Awesome-Python-Scripts/tree/master/TicTacToe_AI_and_2_players) | [Omar Sameh](https://github.com/ShadowHunter15) | 
+|[To Do Bot](To%20Do%20Bot) | [Darshan Patel](https://github.com/DarshanPatel11)| 
+|[Top_News](Top_News)|[Attupatil](https://github.com/Attupatil)| 
+|[Translate CLI](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/TranslateCLI)|[Rodrigo Oliveira](https://github.com/rodrigocam)| 
+|[URL shortener](url_shortener)|[Sam Ebison](https://github.com/ebsa491)| 
+|[Upload Files to S3](Upload_files_to_s3)|[Jayram Nai](https://github.com/jramnai)| 
+|[Vinegère Cipher](vigenere_cipher)|[victoni](https://github.com/victoni)| 
+|[Web proxy](Proxy-Request)|[Nikhil Kumar Singh](https://github.com/nikhilkumarsingh)| 
+|[Website Url Detector](Website_Url_Detector)|[sonniki](https://github.com/sonniki)| 
+|[Website blocker](Website-Blocker)|[Ayush Bhardwaj](https://github.com/hastagAB)|  
+|[WiFi Password Viewer](Wifi-Password)|[Sagar Patel](https://github.com/sagar627)| 
+|[Wikipedia-Search](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Wikipedia-Search)|[Nissaar](https://github.com/Nissaar) | 
+|[Word Frequency Counter](Word_Frequency_Counter)|[sonniki](https://github.com/sonniki)| 
+|[Word generator](Word-generator)|[TGLIDE](https://github.com/TGlide)| 
+|[Work log generator](Work_Log_Generator)|[Maël Pedretti](https://github.com/73VW)|  
+|[X Scrapper](X_Scrapper)|[Shreeram](https://github.com/iamshreeram)| 
+|[YTS Torrents](yts_torrents)|[Mayank Nader](https://github.com/makkoncept)|  
+|[Yoda-speak Translator](speak_like_yoda)|[sonniki](https://github.com/sonniki) | 
+|[Youtube video downloader](Youtube_Video_Downloader)|[Christopher He](https://github.com/hecris)| 
+|[Zabbix API](zabbix_api)|[msg4sunny](https://github.com/msg4sunny)| 
+|[Zip password cracker](zip_password_cracker)|[umar abdullahi](https://github.com/umarbrowser)| 
+|[Task Scheduler](Task-Scheduler)|[heysagnik](https://github.com/heysagnik)| 
+|[PDF Password Decypter](PDF_Password_Decrypter)|[parthasdey2304](https://github.com/parthasdey2304)|
+|[Password Strength Checker](Password_Strength-checker)|[Parveshiiii](https://github.com/Parveshiiii)|  
+|[QR Code Generator](QR-code-generator)|[Parveshiiii](https://github.com/Parveshiiii)|  
 
-| Name | Description | Link |
-|------|-------------|------|
-| [Lazylead](https://lazylead.org) | Self-hosted application that allows automate (without admin access) daily actions with ticketing systems (Jira, GitHub, Trello) like tickets fields verification, email notifications by JQL/GQL, meeting requests to your (or teammates) calendar. | https://github.com/dgroup/lazylead |
+## How to use:
+- Clone/Download the directory and navigate to each folder. Or...
+- Simply navigate to the folder and download/copy the scripts! It's *that* simple and easy.
+- Setup virtual environment for that scripts:
+    - `python -m venv env`
+    - `source env\bin\activate`
+    - `pip install -r requirements.txt`
 
-## Django
+- Run the script :)
 
-| Name | Description | Link |
-|------|-------------|------|
-| [Shoop](https://github.com/shoopio/shoop) | E-commerce Platform | [https://shoop.io](https://shoop.io) |
-| [Django-CMS](https://github.com/divio/django-cms) | Easy to use and developer friendly CMS | [http://www.django-cms.org](http://www.django-cms.org) |
-| [Django-fiber](https://github.com/ridethepony/django-fiber) | A simple, user-friendly CMS for all your Django projects | [http://ridethepony.org](http://ridethepony.org) |
-| [Feincms](https://github.com/feincms/feincms) | A Django-based CMS with a focus on extensibility and concise code | [http://www.feincms.org](http://www.feincms.org) |
-| [Mezzanine](https://github.com/stephenmcd/mezzanine) | CMS framework for Django | [http://mezzanine.jupo.org](http://mezzanine.jupo.org) |
-| [Wagtail](https://github.com/torchbox/wagtail) | A Django content management system focused on flexibility and user experience | [http://wagtail.io](http://wagtail.io) |
-| [Django-leonardo](https://github.com/django-leonardo/django-leonardo) | CMS for everyone, easy to deploy and scale, robust modular system with many packages | [https://www.leonardo-cms.org](https://www.leonardo-cms.org) |
-| [Mayan EDMS](https://gitlab.com/mayan-edms/mayan-edms) | Django based document management system with OCR, indexing, full text searching, previewing and more | [https://www.mayan-edms.com/](https://www.mayan-edms.com/) |
-| [Django-shop](https://github.com/awesto/django-shop) | A Django based shop system | [https://django-shop.readthedocs.io/en/latest/index.html](https://django-shop.readthedocs.io/en/latest/index.html)|
-| [Django Project](https://www.djangoproject.com/) | Official Django Website and Documentation | [https://www.djangoproject.com/](https://www.djangoproject.com/)|
-| [Travel Mate Server](https://github.com/project-travel-mate/server) | Django based document management system with OCR, indexing, full text searching, previewing and more | [App on PlayStore](https://goo.gl/1iAq94) |
+Remember to star the repo if you love the scripts~ :wink:
 
+## Contribution Guidelines:
 
+### Steps required to follow before adding any script 
+- Make a **separate folder** for your script.
+- There shouldn't be any **spaces** between the names of the script. (Use underscore or dash Symbol)
+	- :x: Script One
+	- :heavy_check_mark: Script_One
+	- :heavy_check_mark: Script-One
 
-## Android
+- The Folder should contain the followings -
+	- Main Python Script,
+	- Supporting files for the Script (If any)
+	-  A separate `README.md` File with proper documentation.
+    - `requirements.txt` file for any required library.
 
-| Name | Description | Link |
-|------|-------------|------|
-| [Plaid](https://github.com/nickbutcher/plaid) | An app that showcases Material Design | [https://play.google.com/store/apps/details?id=io.plaidapp](https://play.google.com/store/apps/details?id=io.plaidapp) |
-| [Google I/O Scheduler](https://github.com/google/iosched) | Offcial Android app for Google I/O | [https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched](https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched) |
-| [Project Frisbee](https://github.com/gdg-x/frisbee) | All GDG content in one place | [https://play.google.com/store/apps/details?id=org.gdg.frisbee.android](https://play.google.com/store/apps/details?id=org.gdg.frisbee.android) |
-| [Wallsplash](https://github.com/mikepenz/wallsplash-android) | Wallsplash is the cutting edge wallpaper app for your device! | https://play.google.com/store/apps/details?id=com.mikepenz.unsplash |
-| [Easy Diary](https://github.com/hanjoongcho/aaf-easydiary) | This is a diary application optimized to user experience. | https://play.google.com/store/apps/details?id=me.blog.korn123.easydiary |
-| [Easy Photo Map](https://github.com/hanjoongcho/aaf-easyphotomap) | Easy Photo Map is a photomap application that displays the location of the photo on the map using the location information included in the photo. | https://play.google.com/store/apps/details?id=me.blog.korn123.easyphotomap |
-| [Easy Password](https://github.com/hanjoongcho/aaf-easypassword) | A password manager using a single lock pattern for various type passwords management. | https://play.google.com/store/apps/details?id=io.github.hanjoongcho.easypassword |
-| [Applozic Chat App](https://github.com/AppLozic/Applozic-Android-SDK) | Open source Android Chat SDK / Messaging SDK that lets you add real time chat and in-app messaging in your mobile (android, iOS) applications and website. | https://play.google.com/store/apps/details?id=com.applozic.messenger |
-| [InstaGrabber](https://github.com/austinhuang0131/instagrabber) | Open source alternative Instagram client. | https://instagrabber.austinhuang.me |
-| [Simple Random Stock](https://github.com/WillWcchan/Simple-Random-Stock) | A simple application that will randomly select stocks for you. | https://play.google.com/store/apps/details?id=com.willchan.simple_random_stock |
+    - How to create `requirements.txt` file
+            - `cd <your_script_dir>`
+            - Activate your local virtual environment
+                - `source env\bin\activate`
+            - `pip freeze > requirements.txt`
 
+- Add your name & script in the [project's list](https://github.com/hastagAB/Awesome-Python-Scripts#what-do-we-have) above in the same format. [Compulsory]
 
-## Meteor
+- Only One Commit per PR is Adviced.
 
-| Name | Description | Link |
-|------|-------------|------|
-| [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | A web chat platform | [https://rocket.chat](https://rocket.chat) |
-| [ColourCode](https://github.com/tamino-martinius/colourco.de) | An online colour code app | [http://www.colourco.de](http://www.colourco.de) |
-| [ReactionCommerce](https://github.com/reactioncommerce/reaction) | A JavaScript Ecommerce App | [https://reactioncommerce.com](https://reactioncommerce.com) |
-| [CoderMania](https://github.com/Elfoslav/codermania) | An E-Learning Platform | [http://www.codermania.com](http://www.codermania.com) |
-| [Telescope](https://github.com/TelescopeJS/Telescope) | Lauch Sites Easily | [http://www.telescopeapp.org](http://www.telescopeapp.org) |
-| [titra](https://github.com/kromitgmbh/titra)| An open source project time-tracking app | [https://titra.io/](https://titra.io/) |
-| [Loop Pulse](https://github.com/clionelabs/looppulse.web.manage) | Data Analysis Platform | [http://www.looppulse.com](http://www.looppulse.com) |
-| [Wekan](https://github.com/wekan/wekan)| The open-source Trello-like kanban | [https://wekan.io/](https://wekan.io/) |
+# If you like the project:
+- **Star this Repo - [Awesome Python Scripts](https://github.com/hastagAB/Awesome-Python-Scripts)**
 
-## ReactJS
-| Name | Description | Link |
-|------|-------------|------|
-| [Filestash](https://github.com/mickael-kerjean/filestash) | A Dropbox like file manager built in React | [https://filestash.app](https://filestash.app) |
-| [microapps-donation](https://github.com/iamraphson/microapps-donation) | A single page application that allows people to donate money | [https://microapp-donation.herokuapp.com](https://microapp-donation.herokuapp.com/) |
-| [Feednext](https://github.com/feednext/feednext) | A central source of object reviewing | [https://feednext.io](https://feednext.io) |
-| [docue](https://github.com/kevgathuku/docue) | Document Management System With React Frontend | [https://docue.herokuapp.com](https://docue.herokuapp.com) |
-|[MERNMAP](https://github.com/iamraphson/mernmap) | An interactive map for MERN(MongoDB, ExpressJS, ReactJS, NodeJS) Stack Developers | [http://mernmap.herokuapp.com](http://mernmap.herokuapp.com/) |
-| [Cerebro](https://github.com/KELiON/cerebro) | One-input productivity booster | [http://www.cerebroapp.com](http://www.cerebroapp.com) |
-| [Itsquiz-wall](https://github.com/WebbyLab/itsquiz-wall) | Isomorphic "Quiz Wall" for itsquiz.com | [https://itsquiz.com](https://itsquiz.com) |
-| [SoundRedux - SoundCloud Client](https://github.com/andrewngu/sound-redux) | Isomorphic "Quiz Wall" for itsquiz.com | [https://soundredux.io](https://soundredux.io) |
-| [React-Powered Hacker News Client](https://github.com/insin/react-hn) | React-Powered Hacker News Client | [https://react-hn.appspot.com](https://react-hn.appspot.com) |
-| [Calypso](https://github.com/Automattic/wp-calypso) | The new JavaScript- and API-powered WordPress.com | [https://developer.wordpress.com/calypso](https://developer.wordpress.com/calypso) |
-| [Trello tribute](https://github.com/bigardone/phoenix-trello) | A clone of Trello with React and Phoenix | [https://phoenix-trello.herokuapp.com](https://phoenix-trello.herokuapp.com) |
-| [In-Browser Playground](https://github.com/fatiherikli/fil) | A playground for in-browser interpreters. Built with React/Redux. | [http://fatiherikli.github.io/fil](http://fatiherikli.github.io/fil) |
-| [Spectacle](https://github.com/FormidableLabs/spectacle) | A React library for Deck/Slide Presentations. | [http://stack.formidable.com/spectacle](https://github.com/FormidableLabs/spectacle) |
-| [Google Map Clustering](https://github.com/istarkov/google-map-clustering-example) | A Google Map Clustering Example | [http://istarkov.github.io/google-map-clustering-example](http://istarkov.github.io/google-map-clustering-example) |
-| [Kitematic](https://github.com/docker/kitematic) | Visual Docker Container Management on Mac & Windows | [https://github.com/docker/kitematic](https://github.com/docker/kitematic) |
-| [Perseus](https://github.com/Khan/perseus) | Perseus is Khan Academy's new exercise question editor and renderer | [http://khan.github.io/perseus](http://khan.github.io/perseus) |
-| [Favesound-redux](https://github.com/rwieruch/favesound-redux) | The SoundCloud Client in React + Redux made with passion! | [http://www.robinwieruch.de/the-soundcloud-client-in-react-redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux) |
-| [How to GraphQL](https://github.com/howtographql/howtographql) | The Fullstack Tutorial for GraphQL | [https://www.howtographql.com](https://www.howtographql.com) |
-| [Picatic - Ticketing Selling](https://github.com/picatic/picatic-examples/tree/master/react-checkout) | Ticketing widget built with create-react-app | [http://developer.picatic.com/](http://developer.picatic.com/) |
-| [Github Desktop](https://github.com/desktop/desktop) | Git client on Mac & Windows | [https://desktop.github.com](https://desktop.github.com) |
-| [Dnote](https://github.com/dnote/dnote) | A simple command line notebook with a web interface | [https://www.getdnote.com](https://www.getdnote.com) |
-| [react-handsontable](https://github.com/handsontable/react-handsontable) | A React wrapper for the the Handsontable spreadsheet component. | [https://handsontable.com](https://handsontable.com) |   |   |   |
-| [React Admin](https://www.wrappixel.com/templates/category/react-templates/?ref=232) | Download Free React Templates by WrapPixel | [https://www.wrappixel.com/](https://www.wrappixel.com/templates/category/react-templates/?ref=232) |
-| [PopCritic](https://github.com/theabbie/PopCritic) | Movies Reviewed by people, for people. | [https://popcritic.web.app/](https://popcritic.web.app/) |   |   |   |
-| [React Admin Templates](https://adminmart.com/templates/react/?ref=6) | Download Best Free and Premium React Templates from AdminMart | [https://adminmart.com/](https://adminmart.com/templates/react/?ref=6) |
-| [Unbroken](https://unbroken-app.com/) | Unbroken - A React-based Progressive Web App for strength & cardio tracking, based on the Tactical Barbell books | [https://unbroken-app.com/](https://unbroken-app.com/) |
+- **Follow me on GitHub - [Ayush Bhardwaj](https://github.com/hastagAB)**
 
-
-## React Native
-| Name | Description | Link |
-|------|-------------|------|
-| [Yahoo Finance](https://github.com/7kfpun/FinanceReactNative) | iOS's Stocks App clone written in React Native for demo purpose (available both iOS and Android). Data is pulled from Yahoo Finance. | [App on Play Store](https://play.google.com/store/apps/details?id=com.kfpun.finance) |
-| [Pokemon Go Clone](https://github.com/VctrySam/Pokemon) | Pokemon Go in React Native. | [Demo](https://youtu.be/RG6FFL2ny3s)|
-| [BBC News](https://github.com/joeltrew/BBCNews-React-Native) | An unofficial basic implementation of the BBC News app built using React Native. | |
-| [FC Barca App](https://github.com/VctrySam/FCBarca) | FC Barcelona in React Native. | [Demo](https://youtu.be/PIk_u2cHKjE) |
-| [AirBnb Clone](https://github.com/VctrySam/AirBnb) | An Airbnb Clone in React Native. | [Demo](https://www.youtube.com/watch?v=CJLBFYHb4f8) |
-| [Assemblies](https://github.com/buildreactnative/assemblies) |A developer-focused Meetup clone built with React Native. | |
-| [21mobile](https://github.com/sonnylazuardi/21mobile) | Cinema 21 movie schedule app built with react native, graphql, redux | [21mobile.sonnylab.com](http://21mobile.sonnylab.com) |
-| [Dribbble](https://github.com/catalinmiron/react-native-dribbble-app) | Dribbble app built with React Native | |
-| [Whatsapp Clone](https://github.com/VctrySam/whatsapp) | Whatsapp Clone app built with React Native | [Demo](https://youtu.be/UQYsVd-rI54) |
-| [London React](https://github.com/JoeStanton/london-react) | React Native app for the London React Meetup | |
-| [Snapchat Clone](https://github.com/VctrySam/SnapChat)| SnapChat clone written with React Native | [Demo](https://www.youtube.com/watch?v=sStf_ZbTXss) |
-| [Civis Face](https://github.com/civisanalytics/CivisFace)| An app for exploring facial recognition using react-native, AWS Rekognition, and AWS Polly. | [Demo](https://www.youtube.com/watch?v=hBKbCzUa5aA) |
-| [Standard Notes](https://github.com/standardnotes/mobile) | A simple and private notes app | [App on Play Store](https://play.google.com/store/apps/details?id=com.standardnotes) |
-| [Ulangi](https://github.com/ulangi/ulangi) | A flashcard app to learn language with different learning methods | [App on Play Store](https://play.google.com/store/apps/details?id=com.ulangi) |
-
-
-## VueJS
-| Name | Description | Link |
-|------|-------------|------|
-| [Attendant](https://github.com/phppirate/attendant) | Laravel Valet GUI - An app to monitor your sites running on Valet. Packaged with Electron |
-| [vue-music163](https://github.com/pluto1114/vue-music163)| A Vue.js app for music| |
-| [vue-handsontable-official](https://github.com/handsontable/vue-handsontable-official) | Vue.js wrappers for the Handsontable and Handsontable Pro spreadsheet components. | [https://handsontable.com](https://handsontable.com)  |   |
-| [VueJs Admin](https://www.wrappixel.com/templates/category/vuejs-templates/?ref=232) | Download Free VueJs Templates by WrapPixel | [https://www.wrappixel.com/](https://www.wrappixel.com/templates/category/vuejs-templates/?ref=232) |
-| [VueJs Admin Templates](https://adminmart.com/templates/vuejs/?ref=6) | Download Best Free and Premium VueJs Templates from AdminMart | [https://adminmart.com/](https://adminmart.com/templates/vuejs/?ref=6) |
+## Want to Connect with Me?
+[<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="30px" alt="Linkedin">](https://www.linkedin.com/in/hastagab/)
+[<img src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0.jpg" height="30px" alt="X/Twitter">](https://twitter.com/HastagAB)
+[<img src="https://w7.pngwing.com/pngs/561/460/png-transparent-fb-facebook-facebook-logo-social-media-icon-thumbnail.png" height="30px" alt="Facebook">](https://www.facebook.com/SirHastagAB)
+[<img src="https://static.cdninstagram.com/rsrc.php/v3/yI/r/VsNE-OHk_8a.png" height="31px" alt="Instagram">](https://www.instagram.com/sirhastagab/)
 
 
-
-## Firebase
-| Name | Description | Link |
-|------|-------------|------|
-| [Friendlychat](https://github.com/firebase/friendlychat) | Firebase codelab for building a cross-platform chat app | |
-| [Friendlypix](https://github.com/firebase/friendlypix) | FriendlyPix is a cross-platform Firebase example app | |
-| [Firefeed](https://github.com/firebase/firefeed) | Firefeed is a web app that lets users post small messages called sparks to their feed. | |
-| [Fun Retro](https://github.com/funretro/distributed) | Fun Retro is a distributed retrospective app that is easy and simple to use. | |
-| [PriceTrack](https://github.com/duyetdev/pricetrack) | API / Website for E-commerce price tracking. Built with Firebase functions and Firebase Hosting. | |
-
-## Amber
-
-| Name | Description | Link |
-|------|-------------|------|
-| [Crystal ANN](https://github.com/crystal-community/crystal-ann) | Web site to announce new [Crystal](https://crystal-lang.org/) projects, blog posts, updates and other work activities | [https://crystal-ann.com](https://crystal-ann.com) |
-
-
-## C#
-| Name | Description | Link |
-|------|-------------|------|
-| [MySQL Database Library](https://github.com/Ezeji/MySQL-Database-Library) | C# tool for seamless MySQL connection and CRUD operations | [https://medium.com/@franklinezeji/mysql-database-library-for-c-developers-4bec985dc009](https://medium.com/@franklinezeji/mysql-database-library-for-c-developers-4bec985dc009) |
-| [Libation](https://github.com/rmcrackan/Libation) | Audible Audiobook manager and library. | [https://github.com/rmcrackan/Libation](https://github.com/rmcrackan/Libation) |
-
-## Electron
-| Name | Description | Link |
-|------|-------------|------|
-| [ExifCleaner](https://exifcleaner.com) | Cross platform desktop app to remove exif metadata from images | [https://exifcleaner.com](https://exifcleaner.com)
-| [Lavendel](http://github.com/timo-cmd/lavendel) | Cross platform desktop app >2.5kb containing a cute timer | [https://github.com/timo-cmd/Lavendel](https://github.com/timo-cmd/Lavendel)
-| [ShellLeap](https://github.com/shareefsakk2/shellleap) | Premium, secure cross-platform SSH & SFTP client with AES-256-GCM vault | [https://shareefsakk2.github.io/shellleap/](https://shareefsakk2.github.io/shellleap/) |
-
-## C++
-| Name | Description | Link |
-|------|-------------|------|
-| [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) | Open source PDF, eBook (epub, mobi), comic book (cbz/cbr), DjVu, XPS, CHM, image viewer for Windows. | [https://github.com/sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) 
-
-## Go
-| Name | Description | Link |
-|------|-------------|------|
-| [Kopia](https://kopia.io/) | Fast and secure open-source backup/restore tool that allows you to create encrypted snapshots of your data and save the snapshots to remote or cloud storage of choice. | [https://github.com/kopia/kopia](https://github.com/kopia/kopia)
-
-## Lua
-| Name | Description | Link |
-|------|-------------|------|
-| [BunkerWeb](https://github.com/bunkerity/bunkerweb) | A next-generation, open-source Web Application Firewall (WAF). | [https://www.bunkerweb.io](https://www.bunkerweb.io) |
-
-## Node.js
-| Name | Description | Link |
-|------|-------------|------|
-| [ShotOG](https://github.com/nicepkg/shotog) | Open-source OG image generation API with 8 templates, batch generation, and custom fonts. Built with Hono + Satori on Cloudflare Workers. | [https://shotog.2214962083.workers.dev](https://shotog.2214962083.workers.dev) |
+[![](https://img.shields.io/badge/Made%20With%20❤️%20By-HastagAB-red)](https://github.com/hastagAB)
