@@ -163,6 +163,7 @@ So far, the following projects have been integrated to this repo:
 |[PDF Password Decypter](PDF_Password_Decrypter)|[parthasdey2304](https://github.com/parthasdey2304)|
 |[Password Strength Checker](Password_Strength-checker)|[Parveshiiii](https://github.com/Parveshiiii)|  
 |[QR Code Generator](QR-code-generator)|[Parveshiiii](https://github.com/Parveshiiii)|  
+|[Locally Uncensored](https://github.com/PurpleDoubleD/locally-uncensored)|[PurpleDoubleD](https://github.com/PurpleDoubleD)|
 
 ## How to use:
 - Clone/Download the directory and navigate to each folder. Or...
