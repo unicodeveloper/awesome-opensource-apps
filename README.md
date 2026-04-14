@@ -200,6 +200,7 @@ Remember to star the repo if you love the scripts~ :wink:
 - Add your name & script in the [project's list](https://github.com/hastagAB/Awesome-Python-Scripts#what-do-we-have) above in the same format. [Compulsory]
 
 - Only One Commit per PR is Adviced.
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 # If you like the project:
 - **Star this Repo - [Awesome Python Scripts](https://github.com/hastagAB/Awesome-Python-Scripts)**
