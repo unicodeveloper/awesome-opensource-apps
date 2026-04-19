@@ -25,6 +25,8 @@ So far, the following projects have been integrated to this repo:
 
 | Project Name | Contributors |
 |--|--|
+|[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)|[theihtisham](https://github.com/theihtisham)|
+|[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)|[theihtisham](https://github.com/theihtisham)|
 |[2048](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/2048)|[Krunal](https://github.com/gitkp11)| 
 |[AI chatbot](Artificial-intelligence_bot) |[umar abdullahi](https://github.com/umarbrowser) | 
 |[AI for guess the number](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/AI_for_Guess_the_number) | [Omar Sameh](https://github.com/ShadowHunter15) | 
