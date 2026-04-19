@@ -164,6 +164,11 @@ So far, the following projects have been integrated to this repo:
 |[Password Strength Checker](Password_Strength-checker)|[Parveshiiii](https://github.com/Parveshiiii)|  
 |[QR Code Generator](QR-code-generator)|[Parveshiiii](https://github.com/Parveshiiii)|  
 
+## Added
+
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline with visual dashboard, one-click install, and auto-update.
+
 ## How to use:
 - Clone/Download the directory and navigate to each folder. Or...
 - Simply navigate to the folder and download/copy the scripts! It's *that* simple and easy.
