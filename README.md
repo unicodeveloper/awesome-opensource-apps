@@ -14,6 +14,7 @@
     - [Steps required to follow before adding any script](#steps-required-to-follow-before-adding-any-script)
 - [If you like the project:](#if-you-like-the-project)
 - [Want to connect with me?](#want-to-connect-with-me)
+- [Commitment Issues](https://github.com/dotsystemsdevs/commitmentissues) - Free open-source web app that issues a satirical "death certificate" for abandoned GitHub repos — algorithmic cause of death, last commit as last words, severity score, profile graveyard scan.
 
 ## What is this repo?
 This repo is a compilation of some *awesome* Python scripts that automate some boring tasks or simply make our life easier...or both!
