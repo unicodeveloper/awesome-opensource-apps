@@ -214,3 +214,4 @@ Remember to star the repo if you love the scripts~ :wink:
 
 
 [![](https://img.shields.io/badge/Made%20With%20❤️%20By-HastagAB-red)](https://github.com/hastagAB)
+- [BreakShield CI](https://breakshield-ci.vercel.app) - Open-source GitHub App for detecting breaking API changes. Next.js + TypeScript + Supabase. [Install](https://github.com/apps/breakshield-ci)
