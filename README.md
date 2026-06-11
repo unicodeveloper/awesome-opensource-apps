@@ -24,6 +24,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 - [C++](#cpp)
 - [Lua](#lua)
 - [Node.js](#nodejs)
+- [Swift](#swift)
 
 
 ## Laravel
@@ -293,3 +294,8 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | Name | Description | Link |
 |------|-------------|------|
 | [ShotOG](https://github.com/nicepkg/shotog) | Open-source OG image generation API with 8 templates, batch generation, and custom fonts. Built with Hono + Satori on Cloudflare Workers. | [https://shotog.2214962083.workers.dev](https://shotog.2214962083.workers.dev) |
+
+## Swift
+| Name | Description | Link |
+|------|-------------|------|
+| [Lockpaw](https://github.com/sorkila/lockpaw) | macOS menu bar screen guard in native Swift — lock or cover your screen with a hotkey without sleeping, so AI coding agents and builds keep running; the locked screen glows when your agent needs you. Touch ID unlock. | [https://getlockpaw.com](https://getlockpaw.com) |
