@@ -141,7 +141,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 
 | Name | Description | Link |
 |------|-------------|------|
-| [Shoop](https://github.com/shoopio/shoop) | E-commerce Platform | [https://shoop.io](https://shoop.io) |
+| [Shuup](https://github.com/shuup/shuup) | E-commerce Platform | [https://shuup.com/](https://shuup.com/) |
 | [Django-CMS](https://github.com/divio/django-cms) | Easy to use and developer friendly CMS | [http://www.django-cms.org](http://www.django-cms.org) |
 | [Django-fiber](https://github.com/ridethepony/django-fiber) | A simple, user-friendly CMS for all your Django projects | [http://ridethepony.org](http://ridethepony.org) |
 | [Feincms](https://github.com/feincms/feincms) | A Django-based CMS with a focus on extensibility and concise code | [http://www.feincms.org](http://www.feincms.org) |
@@ -195,6 +195,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Cerebro](https://github.com/KELiON/cerebro) | One-input productivity booster | [http://www.cerebroapp.com](http://www.cerebroapp.com) |
 | [Itsquiz-wall](https://github.com/WebbyLab/itsquiz-wall) | Isomorphic "Quiz Wall" for itsquiz.com | [https://itsquiz.com](https://itsquiz.com) |
 | [SoundRedux - SoundCloud Client](https://github.com/andrewngu/sound-redux) | Isomorphic "Quiz Wall" for itsquiz.com | [https://soundredux.io](https://soundredux.io) |
+| [BlackVault](https://github.com/venkat22022202/black-vault) | Open-source proxy gateway for AI API keys | [https://black-vault-murex.vercel.app](https://black-vault-murex.vercel.app) |
 | [React-Powered Hacker News Client](https://github.com/insin/react-hn) | React-Powered Hacker News Client | [https://react-hn.appspot.com](https://react-hn.appspot.com) |
 | [Calypso](https://github.com/Automattic/wp-calypso) | The new JavaScript- and API-powered WordPress.com | [https://developer.wordpress.com/calypso](https://developer.wordpress.com/calypso) |
 | [Trello tribute](https://github.com/bigardone/phoenix-trello) | A clone of Trello with React and Phoenix | [https://phoenix-trello.herokuapp.com](https://phoenix-trello.herokuapp.com) |
