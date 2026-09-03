@@ -215,3 +215,4 @@ Remember to star the repo if you love the scripts~ :wink:
 
 [![](https://img.shields.io/badge/Made%20With%20❤️%20By-HastagAB-red)](https://github.com/hastagAB)
 - [BDE Score](https://github.com/hbhqq9/bde-score) - Open-source multi-factor stock analysis tool covering US, HK, and China A-share markets with EU AI Act compliance.
+- [YYLO Ledger](https://github.com/yylo-dev/yylo-ledger) - Open-source Git-native task and record store CLI for developers and coding-agent workflows, with append-only history, dependency-aware scheduling, and bounded queries.
