@@ -215,3 +215,4 @@ Remember to star the repo if you love the scripts~ :wink:
 
 [![](https://img.shields.io/badge/Made%20With%20❤️%20By-HastagAB-red)](https://github.com/hastagAB)
 - [BDE Score](https://github.com/hbhqq9/bde-score) - Open-source multi-factor stock analysis tool covering US, HK, and China A-share markets with EU AI Act compliance.
+- [express-email-otp-login](https://github.com/manishgupta412/express-email-otp-login) - Passwordless login for Express: email codes and magic links with hashed single-use codes and rate limiting, sent through Mailtrap.
