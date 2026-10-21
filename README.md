@@ -214,4 +214,5 @@ Remember to star the repo if you love the scripts~ :wink:
 
 
 [![](https://img.shields.io/badge/Made%20With%20❤️%20By-HastagAB-red)](https://github.com/hastagAB)
+- [nextjs-waitlist-double-opt-in](https://github.com/Sid-Lais/nextjs-waitlist-double-opt-in) - Next.js waitlist with double opt-in confirmation emails, a referral queue and a bulk launch email, sent through Mailtrap.
 - [BDE Score](https://github.com/hbhqq9/bde-score) - Open-source multi-factor stock analysis tool covering US, HK, and China A-share markets with EU AI Act compliance.
