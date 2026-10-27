@@ -215,3 +215,4 @@ Remember to star the repo if you love the scripts~ :wink:
 
 [![](https://img.shields.io/badge/Made%20With%20❤️%20By-HastagAB-red)](https://github.com/hastagAB)
 - [BDE Score](https://github.com/hbhqq9/bde-score) - Open-source multi-factor stock analysis tool covering US, HK, and China A-share markets with EU AI Act compliance.
+- [Fullscreen DP AI](https://github.com/muneebrahmancmd/fullscreen-dp-ai) - Open-source tool that sets a WhatsApp profile picture in full 9:16 size without cropping, and views and downloads profile pictures in HD.
